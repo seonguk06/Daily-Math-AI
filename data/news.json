@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "demo": true,
+  "generatedAt": "2026-10-20T05:58:13.702756Z",
+  "demo": false,
   "health": {
-    "ok": 0,
+    "ok": 8,
     "failed": 0
   },
   "sources": [
@@ -59,202 +59,620 @@
   ],
   "articles": [
     {
-      "id": "912c74a65d82a0c8",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "kind": "article",
-      "category": "ai",
-      "score": 78,
+      "id": "9a903c9f9476b6ff",
+      "publishedAt": "2026-10-19T17:59:56Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26856v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 53,
       "title": {
-        "ko": "AI 벤치마크를 과학으로 만드는 방법은?",
+        "ko": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "en": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
+      },
+      "summary": {
+        "ko": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic ",
+        "en": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4c03642a89fd7817",
+      "publishedAt": "2026-10-19T17:06:58Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26742v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "Polar Switch: Fast Muon Orthogonalization with Polynomial Circuits",
+        "en": "Polar Switch: Fast Muon Orthogonalization with Polynomial Circuits"
+      },
+      "summary": {
+        "ko": "Muon, a 2024-born optimizer for language models, differs from the 2015-born spectral gradient descent mainly in its fast, GPU-friendly Newton--Schulz polynomial for orthogonalizing the gradient matrix. Accordingly, a line of research proposes faster polynomial iterations for gradient orthogonalization, such as Polar Express and Gram Newton--Schulz, both built on quintic polynomials. In this paper, we introduce Polar Switch, a new approach to polynomial gra",
+        "en": "Muon, a 2024-born optimizer for language models, differs from the 2015-born spectral gradient descent mainly in its fast, GPU-friendly Newton--Schulz polynomial for orthogonalizing the gradient matrix. Accordingly, a line of research proposes faster polynomial iterations for gradient orthogonalization, such as Polar Express and Gram Newton--Schulz, both built on quintic polynomials. In this paper, we introduce Polar Switch, a new approach to polynomial gra"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "abe7c27a2c4aa935",
+      "publishedAt": "2026-10-19T16:40:43Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26705v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "The Riemann zeta function at the zeros of real-rooted trigonometric polynomials",
+        "en": "The Riemann zeta function at the zeros of real-rooted trigonometric polynomials"
+      },
+      "summary": {
+        "ko": "Let $P$ be a trigonometric polynomial with only real zeros. We prove that at most $\\frac{2}{3}$ of its zeros coincide with the zeros of the Riemann zeta function $ζ(s)$ on the critical line. We also show that \\begin{equation*} \\sup_{\\substack{T\\leq x\\leq2T\\\\ P(x)=0}} \\log \\left|ζ\\left(\\frac{1}{2}+ix\\right)\\right| \\geq (1+o(1))\\sqrt{\\frac{\\log T}{6\\log\\log T}}. \\end{equation*} These results extend the corresponding theorems of Li and Radziwill on the zeros ",
+        "en": "Let $P$ be a trigonometric polynomial with only real zeros. We prove that at most $\\frac{2}{3}$ of its zeros coincide with the zeros of the Riemann zeta function $ζ(s)$ on the critical line. We also show that \\begin{equation*} \\sup_{\\substack{T\\leq x\\leq2T\\\\ P(x)=0}} \\log \\left|ζ\\left(\\frac{1}{2}+ix\\right)\\right| \\geq (1+o(1))\\sqrt{\\frac{\\log T}{6\\log\\log T}}. \\end{equation*} These results extend the corresponding theorems of Li and Radziwill on the zeros "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a5fad65feb76c839",
+      "publishedAt": "2026-10-19T16:22:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26671v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 66,
+      "title": {
+        "ko": "PACT: Plan-Augmented Coordination via Trace-Graphs for Dynamic Multi-Agent Combinatorial Optimization",
+        "en": "PACT: Plan-Augmented Coordination via Trace-Graphs for Dynamic Multi-Agent Combinatorial Optimization"
+      },
+      "summary": {
+        "ko": "Multi-agent approaches have been investigated recently as a means of improving the scalability of reinforcement learning for neural combinatorial optimization. Existing methods assume that all problem instance information is known upfront. However, real-world problems are often dynamic: relevant information is progressively revealed as the agents take actions (e.g., arriving at an edge in a routing problem only to discover it is untraversable). In such cas",
+        "en": "Multi-agent approaches have been investigated recently as a means of improving the scalability of reinforcement learning for neural combinatorial optimization. Existing methods assume that all problem instance information is known upfront. However, real-world problems are often dynamic: relevant information is progressively revealed as the agents take actions (e.g., arriving at an edge in a routing problem only to discover it is untraversable). In such cas"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "854643e3cab067b9",
+      "publishedAt": "2026-10-19T15:40:26Z",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019",
+      "category": "mathai",
+      "kind": "article",
+      "score": 69,
+      "title": {
+        "ko": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+        "en": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?"
+      },
+      "summary": {
+        "ko": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+        "en": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "32ac4c172daada15",
+      "publishedAt": "2026-10-19T14:54:47Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26525v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "A Fisher-Geometric View of Multi-Teacher On-Policy Distillation",
+        "en": "A Fisher-Geometric View of Multi-Teacher On-Policy Distillation"
+      },
+      "summary": {
+        "ko": "Consolidating specialized foundation models into a unified generalist is a central goal of post-training. Two approaches are in common use: model merging, which is fast but treated as a heuristic, and multi-teacher on-policy distillation, which matches distributions but demands heavy rollout compute and suffers from cross-task gradient conflict. We show that the two are one objective seen at different orders. Within a shared basin of homologous specialists",
+        "en": "Consolidating specialized foundation models into a unified generalist is a central goal of post-training. Two approaches are in common use: model merging, which is fast but treated as a heuristic, and multi-teacher on-policy distillation, which matches distributions but demands heavy rollout compute and suffers from cross-task gradient conflict. We show that the two are one objective seen at different orders. Within a shared basin of homologous specialists"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f70ac3c2800e5fd8",
+      "publishedAt": "2026-10-19T14:53:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26522v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Geometric parameter sequences for $Q$-polynomial distance-regular graphs",
+        "en": "Geometric parameter sequences for $Q$-polynomial distance-regular graphs"
+      },
+      "summary": {
+        "ko": "Let $Γ$ be a distance-regular graph with diameter $D \\geq 3$, and let $θ$ be a nonzero eigenvalue of $Γ$ distinct from its valency. Motivated by the geometric parameter sequences of geometric distance-regular graphs, we introduce analogous sequences defined recursively from the intersection numbers of $Γ$ and $θ$, without assuming a geometric structure. We show that the recursion is well defined if and only if all terms of the standard sequence correspondi",
+        "en": "Let $Γ$ be a distance-regular graph with diameter $D \\geq 3$, and let $θ$ be a nonzero eigenvalue of $Γ$ distinct from its valency. Motivated by the geometric parameter sequences of geometric distance-regular graphs, we introduce analogous sequences defined recursively from the intersection numbers of $Γ$ and $θ$, without assuming a geometric structure. We show that the recursion is well defined if and only if all terms of the standard sequence correspondi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f553ff42d2a4e283",
+      "publishedAt": "2026-10-19T14:34:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26496v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties",
+        "en": "Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties"
+      },
+      "summary": {
+        "ko": "Reinforcement learning for language models has moved from preference reward models to verifiable rewards, which sustain much longer optimization. Preference models are prone to reward hacking: the policy raises their score without improving response quality, or even while degrading it. Yet for open-ended tasks, where quality can neither be verified nor fully written down as rubrics, they remain valuable. We introduce Dynalize, which mitigates reward hackin",
+        "en": "Reinforcement learning for language models has moved from preference reward models to verifiable rewards, which sustain much longer optimization. Preference models are prone to reward hacking: the policy raises their score without improving response quality, or even while degrading it. Yet for open-ended tasks, where quality can neither be verified nor fully written down as rubrics, they remain valuable. We introduce Dynalize, which mitigates reward hackin"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1dbe22633003a2af",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Advancing coding in low‑resource programming languages",
+        "en": "Advancing coding in low‑resource programming languages"
+      },
+      "summary": {
+        "ko": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+        "en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "42ddf5ac89ed1571",
+      "publishedAt": "2026-10-19T10:13:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26122v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "The Erdős--Ginzburg--Ziv theorem for finite groups",
+        "en": "The Erdős--Ginzburg--Ziv theorem for finite groups"
+      },
+      "summary": {
+        "ko": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}(",
+        "en": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}("
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9732b2763df5a67a",
+      "publishedAt": "2026-10-16T19:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "category": "ai",
+      "kind": "article",
+      "score": 55,
+      "title": {
+        "ko": "How Itaú is building generative AI for its entire customer base",
+        "en": "How Itaú is building generative AI for its entire customer base"
+      },
+      "summary": {
+        "ko": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+        "en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9394bb5d588b9fd8",
+      "publishedAt": "2026-10-16T18:11:34Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
+      },
+      "summary": {
+        "ko": "General Science",
+        "en": "General Science"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "66089718f6e1beb2",
+      "publishedAt": "2026-10-16T13:25:08Z",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016",
+      "category": "ai",
+      "kind": "article",
+      "score": 55,
+      "title": {
+        "ko": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
         "en": "He Wants AI Benchmarking To Be a Science, Not a Dark Art"
       },
       "summary": {
-        "ko": "컴퓨터과학자 모리츠 하르트가 AI 벤치마크가 연구를 유도하고 성능을 과장할 수 있는 방식을 비판하며 더 정교한 평가 방법을 제안한다.",
-        "en": "Computer scientist Moritz Hardt examines how benchmarks shape AI research, sometimes producing misleading claims about model capabilities."
+        "ko": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+        "en": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine"
       },
       "impact": {
-        "ko": "수학적 추론 모델의 성능을 평가할 때도 단일 점수보다 검증 방식과 일반화 능력을 함께 살펴야 한다.",
-        "en": "Evaluating mathematical reasoning systems requires attention to test design and generalization, not only headline scores."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
     },
     {
-      "id": "409470f9c2e17b2d",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "kind": "article",
+      "id": "9e63539289a31c86",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "category": "ai",
-      "score": 81,
-      "title": {
-        "ko": "어텐션은 지능의 본질일까?",
-        "en": "Is “Attention” the Essence of Intelligence?"
-      },
-      "summary": {
-        "ko": "트랜스포머의 핵심 메커니즘인 어텐션이 언어 모델의 성능을 가능하게 한 이유와 그 이론적 의미를 짚는다.",
-        "en": "A mathematical look at why attention became the central mechanism behind the transformer architecture and modern language models."
-      },
-      "impact": {
-        "ko": "어텐션은 현대 AI를 지탱하는 수학적 구조지만, 그 성공이 지능 전체를 설명하는지는 별개의 연구 문제다.",
-        "en": "Attention is mathematically central to modern AI, yet its effectiveness does not by itself settle what intelligence is."
-      },
-      "languageQuality": "editorial"
-    },
-    {
-      "id": "270d2009beef3a33",
-      "publishedAt": "2026-10-06T12:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "kind": "release",
-      "category": "mathai",
-      "score": 98,
-      "title": {
-        "ko": "OpenAI, AI가 도출한 수학 연구 결과와 Lean 형식화 공개",
-        "en": "Sharing AI Progress in Mathematics"
-      },
-      "summary": {
-        "ko": "OpenAI가 내부 모델로 생성한 수학 연구 결과를 공개하고, 일부 증명의 Lean 형식화와 연구 과정을 공유했다. 각 주장에 대한 수학계의 검토는 별도로 필요하다.",
-        "en": "OpenAI released mathematical research produced by an internal model, together with Lean formalizations of some proofs and process documentation. Independent community review remains important."
-      },
-      "impact": {
-        "ko": "AI가 제안한 결과, 기계적으로 검사 가능한 증명, 수학자가 이해하고 검토한 논증을 분리해 평가해야 한다는 점이 중요하다.",
-        "en": "The release highlights the need to distinguish AI-generated claims, machine-checkable formalizations, and independently understood mathematical arguments."
-      },
-      "languageQuality": "editorial"
-    },
-    {
-      "id": "b89ef215c061305d",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
       "kind": "article",
-      "category": "math",
-      "score": 76,
+      "score": 47,
       "title": {
-        "ko": "무작위성을 활용해 55년 된 조합론 추측 해결",
-        "en": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture"
+        "ko": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "en": "Stack Overflow for Agents triples signups with ChatGPT plugin"
       },
       "summary": {
-        "ko": "젊은 수학자들이 확률적 아이디어를 활용해 오랫동안 미해결이었던 조합론 문제를 해결한 연구를 소개한다.",
-        "en": "A group of mathematicians used probabilistic ideas to settle a long-standing combinatorial conjecture."
+        "ko": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
       },
       "impact": {
-        "ko": "순수수학의 새로운 성과도 함께 다뤄 AI 기술 뉴스에 치우치지 않도록 한다.",
-        "en": "The feed covers standalone advances in mathematics as well as AI-focused research."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
     },
     {
-      "id": "8c4c7fc4c8be0489",
-      "publishedAt": "2026-09-10T12:00:00Z",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "id": "32165ee6af8945a5",
+      "publishedAt": "2026-10-15T19:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "ai",
       "kind": "article",
-      "category": "math",
-      "score": 80,
+      "score": 53,
       "title": {
-        "ko": "4색 정리에 새로운 증명 등장",
-        "en": "The Four-Color Theorem Gets a Rare New Proof"
+        "ko": "Bringing GPT-Rosalind to academic research labs",
+        "en": "Bringing GPT-Rosalind to academic research labs"
       },
       "summary": {
-        "ko": "오랫동안 컴퓨터 보조 증명으로 알려진 4색 정리를 새로운 관점에서 바라보는 연구와 그래프 구조에 관한 통찰을 소개한다.",
-        "en": "Researchers revisited the four-color theorem and developed a new proof that offers insights into the structure of graphs."
+        "ko": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
       },
       "impact": {
-        "ko": "같은 정리라도 새로운 증명은 기존 기법의 한계를 이해하고 다른 문제로 확장할 수 있는 가능성을 준다.",
-        "en": "New proofs of established theorems can yield fresh techniques and help mathematicians understand why results hold."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
     },
     {
-      "id": "59c2f42b371b062e",
-      "publishedAt": "2026-08-01T12:00:00Z",
+      "id": "a60f4a701f887ae8",
+      "publishedAt": "2026-10-15T13:00:00Z",
       "source": "OpenAI",
-      "url": "https://openai.com/ko-KR/index/ten-advances-in-mathematics/",
-      "kind": "release",
-      "category": "proof",
-      "score": 89,
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
       "title": {
-        "ko": "수학·이론컴퓨터과학의 10가지 새 성과 공개",
-        "en": "Ten Advances in Mathematics and Theoretical Computer Science"
+        "ko": "Teaching students to think and learn through questions",
+        "en": "Teaching students to think and learn through questions"
       },
       "summary": {
-        "ko": "OpenAI가 미해결 문제의 해결이나 진전을 목표로 수행한 수학·이론컴퓨터과학 연구 10건을 소개하고 형식화 작업을 공개했다.",
-        "en": "OpenAI reported ten mathematical and theoretical-computer-science research advances and described how proof formalizations were produced."
+        "ko": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
       },
       "impact": {
-        "ko": "증명의 타당성, 기여 표기, 재현 가능성은 AI 수학 연구에서 특별히 중요한 평가 기준이다.",
-        "en": "Proof validity, attribution, and reproducibility are central to assessing AI contributions in mathematical research."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
     },
     {
-      "id": "99b1170ac1453321",
-      "publishedAt": "2026-05-07T12:00:00Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "kind": "release",
-      "category": "mathai",
-      "score": 87,
-      "title": {
-        "ko": "AlphaEvolve, 수학과 과학의 알고리즘 발견으로 확장",
-        "en": "AlphaEvolve: How Our Gemini-Powered Coding Agent Is Scaling Impact Across Fields"
-      },
-      "summary": {
-        "ko": "DeepMind가 알고리즘 탐색 시스템 AlphaEvolve의 활용 사례를 소개했다. 수학자와의 협업, 조합론·최적화 문제 등으로 적용이 확대되고 있다.",
-        "en": "DeepMind reported a broader set of applications of AlphaEvolve, including collaborations with mathematicians and progress on optimization problems."
-      },
-      "impact": {
-        "ko": "자동 평가가 가능한 분야에서 AI가 가설을 만들고 실험으로 걸러내는 연구 방식의 사례다.",
-        "en": "The work illustrates a discovery loop in which AI proposes candidate methods that can be tested with automated evaluators."
-      },
-      "languageQuality": "editorial"
-    },
-    {
-      "id": "845cfd8afc1734d9",
-      "publishedAt": "2026-02-20T12:00:00Z",
+      "id": "94eadcab22c41e35",
+      "publishedAt": "2026-10-15T00:00:00Z",
       "source": "OpenAI",
-      "url": "https://openai.com/index/first-proof-submissions/",
-      "kind": "release",
-      "category": "proof",
-      "score": 88,
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
       "title": {
-        "ko": "연구급 수학 증명 생성 평가: First Proof 도전",
-        "en": "Our First Proof Submissions"
+        "ko": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "en": "Sullivan & Cromwell brings legal expertise into agreement review"
       },
       "summary": {
-        "ko": "OpenAI가 연구급 수학 문제 10개의 증명 시도를 공유했다. 전문가 검토 결과 일부 시도는 유망하지만, 적어도 한 시도는 틀렸다고 수정했다.",
-        "en": "OpenAI shared proof attempts for ten research-level mathematics problems, explicitly revising its assessment after expert scrutiny found an error in at least one attempt."
+        "ko": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "en": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
       },
       "impact": {
-        "ko": "어려운 수학 문제에서 그럴듯한 설명과 실제로 검증된 증명을 구별해야 할 필요성을 보여 준다.",
-        "en": "It underscores the gap between plausible-looking long proofs and mathematical arguments that survive rigorous expert review."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
     },
     {
-      "id": "4487619628e14410",
-      "publishedAt": "2024-07-25T12:00:00Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "kind": "release",
-      "category": "proof",
-      "score": 85,
+      "id": "ff0cf28c5d753057",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
       "title": {
-        "ko": "AlphaProof·AlphaGeometry 2, IMO 은메달 수준 달성",
-        "en": "AI Achieves Silver-Medal Standard at the IMO"
+        "ko": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
       },
       "summary": {
-        "ko": "AlphaProof와 AlphaGeometry 2가 2024년 국제수학올림피아드 6문제 중 4문제를 해결해 은메달 수준을 보였다.",
-        "en": "AlphaProof and AlphaGeometry 2 solved four of the six 2024 International Mathematical Olympiad problems, reaching a silver-medal-equivalent result."
+        "ko": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
       },
       "impact": {
-        "ko": "Lean을 활용한 형식적 추론과 신경-기호 기하학 시스템이 수학 문제 해결에서 결합될 수 있음을 보여 준 이정표다.",
-        "en": "A landmark demonstration of formal reasoning with Lean and a neuro-symbolic geometry solver on challenging mathematical tasks."
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
       },
-      "languageQuality": "editorial"
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f4c3b9d58e154e81",
+      "publishedAt": "2026-10-14T16:14:00Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+      "category": "ai",
+      "kind": "article",
+      "score": 48,
+      "title": {
+        "ko": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+        "en": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges"
+      },
+      "summary": {
+        "ko": "Earth AI",
+        "en": "Earth AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "57c3309db5bedcde",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "Amp puts AI agents to work beyond code with OpenAI models",
+        "en": "Amp puts AI agents to work beyond code with OpenAI models"
+      },
+      "summary": {
+        "ko": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "94ee28b93f9d2d83",
+      "publishedAt": "2026-10-14T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "How Block is building AI-powered security with OpenAI technology",
+        "en": "How Block is building AI-powered security with OpenAI technology"
+      },
+      "summary": {
+        "ko": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a8b8c31de898145e",
+      "publishedAt": "2026-10-14T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "category": "ai",
+      "kind": "article",
+      "score": 48,
+      "title": {
+        "ko": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "en": "How Third Moment Research runs 10,000 agents for 36+ hours"
+      },
+      "summary": {
+        "ko": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "en": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b76b11a1199f73b7",
+      "publishedAt": "2026-10-14T02:00:14Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "category": "ai",
+      "kind": "article",
+      "score": 60,
+      "title": {
+        "ko": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+      },
+      "summary": {
+        "ko": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+        "en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "200a5d3dd39c6bfb",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "The EU’s next chapter in AI is agentic",
+        "en": "The EU’s next chapter in AI is agentic"
+      },
+      "summary": {
+        "ko": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+        "en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1dc99b611b2499a3",
+      "publishedAt": "2026-10-13T19:43:07Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Developing Gemini 4 Argon responsibly and safely",
+        "en": "Developing Gemini 4 Argon responsibly and safely"
+      },
+      "summary": {
+        "ko": "Developing Gemini 4 Argon responsibly and safely",
+        "en": "Developing Gemini 4 Argon responsibly and safely"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d96a2391b623b2cb",
+      "publishedAt": "2026-10-13T16:01:58Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini 4 Argon for Robotics",
+        "en": "Gemini 4 Argon for Robotics"
+      },
+      "summary": {
+        "ko": "Gemini 4 Argon for Robotics",
+        "en": "Gemini 4 Argon for Robotics"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4e31b829ae688591",
+      "publishedAt": "2026-10-13T16:01:52Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini 4 Argon: Built to solve your hardest problems",
+        "en": "Gemini 4 Argon: Built to solve your hardest problems"
+      },
+      "summary": {
+        "ko": "Gemini 4 Argon: Built to solve your hardest problems",
+        "en": "Gemini 4 Argon: Built to solve your hardest problems"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8d45898e533e591d",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Higgsfield takes AI video from 1 minute to over 10",
+        "en": "Higgsfield takes AI video from 1 minute to over 10"
+      },
+      "summary": {
+        "ko": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
     }
   ]
 }

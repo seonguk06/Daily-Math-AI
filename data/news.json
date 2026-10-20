@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T05:58:13.702756Z",
+  "generatedAt": "2026-10-20T22:40:02.135596Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -59,6 +59,72 @@
   ],
   "articles": [
     {
+      "id": "ef73bf2ace8ac671",
+      "publishedAt": "2026-10-20T16:09:19Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "en": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+      },
+      "summary": {
+        "ko": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "en": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1725d137aa3debc0",
+      "publishedAt": "2026-10-20T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "category": "ai",
+      "kind": "article",
+      "score": 44,
+      "title": {
+        "ko": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "en": "Franchisee reconciles cash in 94% less time with ChatGPT Work"
+      },
+      "summary": {
+        "ko": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+        "en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1cfb6291fa158d05",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "OpenAI acquires Orchestra Bio",
+        "en": "OpenAI acquires Orchestra Bio"
+      },
+      "summary": {
+        "ko": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "9a903c9f9476b6ff",
       "publishedAt": "2026-10-19T17:59:56Z",
       "source": "arXiv",
@@ -73,6 +139,72 @@
       "summary": {
         "ko": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic ",
         "en": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ecc1b50b43e4084f",
+      "publishedAt": "2026-10-19T17:58:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26839v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+        "en": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity"
+      },
+      "summary": {
+        "ko": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the l",
+        "en": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the l"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "bdc2bec3649ac088",
+      "publishedAt": "2026-10-19T17:38:58Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26790v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization",
+        "en": "Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization"
+      },
+      "summary": {
+        "ko": "Training a machine learning (ML) model is an optimization process that typically requires a set of examples with ground-truth labels beforehand. Obtaining these ground truths usually requires laborious human effort and can be costly. The scalability of human labeling becomes a concern when there are a large number of data points that need to be labeled. To address this practical issue, we consider an optimization setting where a subset of samples has groun",
+        "en": "Training a machine learning (ML) model is an optimization process that typically requires a set of examples with ground-truth labels beforehand. Obtaining these ground truths usually requires laborious human effort and can be costly. The scalability of human labeling becomes a concern when there are a large number of data points that need to be labeled. To address this practical issue, we consider an optimization setting where a subset of samples has groun"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9f9f1fa0b80b3c97",
+      "publishedAt": "2026-10-19T17:27:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26770v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs",
+        "en": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs"
+      },
+      "summary": {
+        "ko": "Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-free method for evolving harnesses to improve task performance while reducing execution cost. In this setting, candidate harnesses are evaluated using LLM-generated tests without access to ground-truth solutio",
+        "en": "Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-free method for evolving harnesses to improve task performance while reducing execution cost. In this setting, candidate harnesses are evaluated using LLM-generated tests without access to ground-truth solutio"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -147,6 +279,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "2beb5eda898d2cd7",
+      "publishedAt": "2026-10-19T15:47:18Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26612v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds",
+        "en": "Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds"
+      },
+      "summary": {
+        "ko": "Neural networks that respect the symmetries of point clouds commonly compute high-order representations of the rotation group to improve their expressivity. Such models are known to be universal, and thus able to separate any pair of point clouds, when using representations of sufficiently high order, yet no precise bound on this order, as a function of the number of points, was previously known. We establish the first quadratic lower and upper degree boun",
+        "en": "Neural networks that respect the symmetries of point clouds commonly compute high-order representations of the rotation group to improve their expressivity. Such models are known to be universal, and thus able to separate any pair of point clouds, when using representations of sufficiently high order, yet no precise bound on this order, as a function of the number of points, was previously known. We establish the first quadratic lower and upper degree boun"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "854643e3cab067b9",
       "publishedAt": "2026-10-19T15:40:26Z",
       "source": "Quanta Magazine",
@@ -213,6 +367,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "b61bf6206c4fb698",
+      "publishedAt": "2026-10-19T14:45:25Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26511v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "RouterWorld: Scaling Conversational AI with Latency-Aware LLM Routing",
+        "en": "RouterWorld: Scaling Conversational AI with Latency-Aware LLM Routing"
+      },
+      "summary": {
+        "ko": "Conversational AI systems built on Large Language Models (LLMs) require routing mechanisms that balance answer quality and response latency at scale. However, existing LLM routing benchmarks assume full observability of all candidate model outcomes, under-emphasize latency as a first-class metric, and fragment evaluation across heterogeneous protocols misaligned with real-world settings. We introduce RouterWorld, a comprehensive benchmark for LLM routing i",
+        "en": "Conversational AI systems built on Large Language Models (LLMs) require routing mechanisms that balance answer quality and response latency at scale. However, existing LLM routing benchmarks assume full observability of all candidate model outcomes, under-emphasize latency as a first-class metric, and fragment evaluation across heterogeneous protocols misaligned with real-world settings. We introduce RouterWorld, a comprehensive benchmark for LLM routing i"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "f553ff42d2a4e283",
       "publishedAt": "2026-10-19T14:34:50Z",
       "source": "arXiv",
@@ -227,6 +403,28 @@
       "summary": {
         "ko": "Reinforcement learning for language models has moved from preference reward models to verifiable rewards, which sustain much longer optimization. Preference models are prone to reward hacking: the policy raises their score without improving response quality, or even while degrading it. Yet for open-ended tasks, where quality can neither be verified nor fully written down as rubrics, they remain valuable. We introduce Dynalize, which mitigates reward hackin",
         "en": "Reinforcement learning for language models has moved from preference reward models to verifiable rewards, which sustain much longer optimization. Preference models are prone to reward hacking: the policy raises their score without improving response quality, or even while degrading it. Yet for open-ended tasks, where quality can neither be verified nor fully written down as rubrics, they remain valuable. We introduce Dynalize, which mitigates reward hackin"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d0d14783677020f6",
+      "publishedAt": "2026-10-19T14:30:24Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26490v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Pasten's arithmetic derivatives and the decomposition into gains",
+        "en": "Pasten's arithmetic derivatives and the decomposition into gains"
+      },
+      "summary": {
+        "ko": "Pasten attached to each coprime triple $a+b=c$ a lattice of arithmetic derivations that obey the Leibniz rule and are additive on this one equation. An arithmetic Wronskian then gives an $abc$-type inequality governed by the norm $\\|ψ\\|$ of the derivation, and Pasten showed that sufficiently small derivations exist under the $abc$ conjecture and give an $abc$ inequality with a fixed exponent. We determine exactly which values this Wronskian takes, and we s",
+        "en": "Pasten attached to each coprime triple $a+b=c$ a lattice of arithmetic derivations that obey the Leibniz rule and are additive on this one equation. An arithmetic Wronskian then gives an $abc$-type inequality governed by the norm $\\|ψ\\|$ of the derivation, and Pasten showed that sufficiently small derivations exist under the $abc$ conjecture and give an $abc$ inequality with a fixed exponent. We determine exactly which values this Wronskian takes, and we s"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -271,6 +469,50 @@
       "summary": {
         "ko": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}(",
         "en": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}("
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7760ddc0514601cf",
+      "publishedAt": "2026-10-19T08:59:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26038v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Half-sized gaps between zeros of the Riemann zeta function",
+        "en": "Half-sized gaps between zeros of the Riemann zeta function"
+      },
+      "summary": {
+        "ko": "Assuming the Riemann hypothesis, we prove that the lower limit of the normalised gaps between consecutive zeros of the Riemann zeta function is at most $1/2$. Our methods utilise a more efficient method for detecting gaps with short Dirichlet polynomials. Specifically, we apply resonance to a quotient of shifted zeta functions, rather than to the number of zeros in a short interval, using a Möbius resonator adapted to the symmetry between the shifts.",
+        "en": "Assuming the Riemann hypothesis, we prove that the lower limit of the normalised gaps between consecutive zeros of the Riemann zeta function is at most $1/2$. Our methods utilise a more efficient method for detecting gaps with short Dirichlet polynomials. Specifically, we apply resonance to a quotient of shifted zeta functions, rather than to the number of zeros in a short interval, using a Möbius resonator adapted to the symmetry between the shifts."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7104108b3f7a5394",
+      "publishedAt": "2026-10-19T07:51:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25958v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Size Ramsey numbers of star forests with two components on one side",
+        "en": "Size Ramsey numbers of star forests with two components on one side"
+      },
+      "summary": {
+        "ko": "We determine the size Ramsey number of a two-component star forest versus an arbitrary star forest. Let $q,a,b,n_1,\\ldots,n_q$ be positive integers with $a\\ge b$ and $n_1\\ge\\cdots\\ge n_q$. We prove that \\[ \\begin{split} \\rhat\\left(K_{1,a}\\sq K_{1,b}, \\bigsqcup_{i=1}^{q}K_{1,n_i}\\right) ={}&(a+n_1-1) +\\sum_{i=1}^{q-1}\\max\\{a+n_{i+1}-1,b+n_i-1\\}\\\\ &+(b+n_q-1). \\end{split} \\] This proves the conjecture of Burr, Erdős, Faudree, Rousseau and Schelp (Erdős Probl",
+        "en": "We determine the size Ramsey number of a two-component star forest versus an arbitrary star forest. Let $q,a,b,n_1,\\ldots,n_q$ be positive integers with $a\\ge b$ and $n_1\\ge\\cdots\\ge n_q$. We prove that \\[ \\begin{split} \\rhat\\left(K_{1,a}\\sq K_{1,b}, \\bigsqcup_{i=1}^{q}K_{1,n_i}\\right) ={}&(a+n_1-1) +\\sum_{i=1}^{q-1}\\max\\{a+n_{i+1}-1,b+n_i-1\\}\\\\ &+(b+n_q-1). \\end{split} \\] This proves the conjecture of Burr, Erdős, Faudree, Rousseau and Schelp (Erdős Probl"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -491,6 +733,28 @@
       "summary": {
         "ko": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "004cd593adabcd24",
+      "publishedAt": "2026-10-14T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sentinelone",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "SentinelOne cuts malware analysis from weeks to hours",
+        "en": "SentinelOne cuts malware analysis from weeks to hours"
+      },
+      "summary": {
+        "ko": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+        "en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

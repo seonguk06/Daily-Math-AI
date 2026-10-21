@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T22:40:02.135596Z",
+  "generatedAt": "2026-10-21T22:41:19.286476Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -59,6 +59,270 @@
   ],
   "articles": [
     {
+      "id": "3f1a11956436b167",
+      "publishedAt": "2026-10-21T21:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Broad access through consistent standards",
+        "en": "Broad access through consistent standards"
+      },
+      "summary": {
+        "ko": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+        "en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "94a5f6526eada9bc",
+      "publishedAt": "2026-10-21T18:26:30Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+      },
+      "summary": {
+        "ko": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "39cad894cdd240fb",
+      "publishedAt": "2026-10-21T17:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How AT&T is rethinking in-house legal work with OpenAI",
+        "en": "How AT&T is rethinking in-house legal work with OpenAI"
+      },
+      "summary": {
+        "ko": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+        "en": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "27c0a5d3fc255134",
+      "publishedAt": "2026-10-21T16:23:53Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "Empowering frontline maternal care with AI-assisted ultrasound",
+        "en": "Empowering frontline maternal care with AI-assisted ultrasound"
+      },
+      "summary": {
+        "ko": "Health & Bioscience",
+        "en": "Health & Bioscience"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "95dedf578de78f3e",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "OpenAI models are coming to Google Cloud",
+        "en": "OpenAI models are coming to Google Cloud"
+      },
+      "summary": {
+        "ko": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+        "en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ea92da5c121ecb45",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "en": "How we built ChatGPT’s novel ad stack for user trust and relevance"
+      },
+      "summary": {
+        "ko": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+        "en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "64ddfb139fec8a1c",
+      "publishedAt": "2026-10-21T04:50:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Using thousands of AI agents to uncover new leads in biological data",
+        "en": "Using thousands of AI agents to uncover new leads in biological data"
+      },
+      "summary": {
+        "ko": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+        "en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e270f5ba4688033d",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "en": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
+      },
+      "summary": {
+        "ko": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+        "en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9c3394e90b417646",
+      "publishedAt": "2026-10-20T17:59:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28629v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+        "en": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery"
+      },
+      "summary": {
+        "ko": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, ",
+        "en": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6c2bdc19a3f15d32",
+      "publishedAt": "2026-10-20T17:41:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28588v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Generic finiteness of solutions to parametrized systems of generalized polynomial inequalities",
+        "en": "Generic finiteness of solutions to parametrized systems of generalized polynomial inequalities"
+      },
+      "summary": {
+        "ko": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d",
+        "en": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "47bf7a44710890c2",
+      "publishedAt": "2026-10-20T17:23:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28562v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "OptScientist: Automated Discovery of Optimization Laws",
+        "en": "OptScientist: Automated Discovery of Optimization Laws"
+      },
+      "summary": {
+        "ko": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduce OptScientist, a novel automated framework for discovering compact symbolic optimization laws directly from data. OptScientist comprises (i) a model that infers symbolic optimization problems by first learning to represent data ",
+        "en": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduce OptScientist, a novel automated framework for discovering compact symbolic optimization laws directly from data. OptScientist comprises (i) a model that infers symbolic optimization problems by first learning to represent data "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "73bb02f89daeac2b",
+      "publishedAt": "2026-10-20T17:18:55Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28556v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 52,
+      "title": {
+        "ko": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
+        "en": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established statistical methods. We investigate this question within an 18-dataset framework comprising 10 datasets for Group Relative Policy Optimization (GRPO) training, 2 for checkpoint validation, and 6 held-out evaluation datasets. We compare five",
+        "en": "Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established statistical methods. We investigate this question within an 18-dataset framework comprising 10 datasets for Group Relative Policy Optimization (GRPO) training, 2 for checkpoint validation, and 6 held-out evaluation datasets. We compare five"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "ef73bf2ace8ac671",
       "publishedAt": "2026-10-20T16:09:19Z",
       "source": "Hugging Face",
@@ -81,6 +345,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "a5191fd2f4bb3234",
+      "publishedAt": "2026-10-20T14:54:30Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28318v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Stabilizing Filters for Graph Signal Generation",
+        "en": "Stabilizing Filters for Graph Signal Generation"
+      },
+      "summary": {
+        "ko": "Generating graph signals is an important task in machine learning, and incorporating the underlying graph into a generative model enables structurally-informed distribution modeling. However, said graph is often noisy or imperfectly estimated, and structural errors can affect the generative process and the resulting signal distribution. While recent work has established stability guarantees for graph neural ordinary differential equations, the robustness o",
+        "en": "Generating graph signals is an important task in machine learning, and incorporating the underlying graph into a generative model enables structurally-informed distribution modeling. However, said graph is often noisy or imperfectly estimated, and structural errors can affect the generative process and the resulting signal distribution. While recent work has established stability guarantees for graph neural ordinary differential equations, the robustness o"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5ff05e198a5f8c80",
+      "publishedAt": "2026-10-20T13:16:21Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.28177v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Fourier Decomposition and E-Eigenvalues of Hypergraph Polynomials over Finite Abelian Groups",
+        "en": "Fourier Decomposition and E-Eigenvalues of Hypergraph Polynomials over Finite Abelian Groups"
+      },
+      "summary": {
+        "ko": "Let $H=(V,E)$ be a $k$-uniform hypergraph with polynomial $f_H(\\bm{x})=\\sum_{e\\in E}\\prod_{v\\in e}x_v$. For a finite abelian group $G$ and a subgroup $S$ of $G$, the $k$-partite Cayley hypergraph $K$ has $k$ disjoint vertex parts, each indexed by $G$, and $\\{(1,g_1),\\ldots,(k,g_k)\\}$ is an edge if and only if $g_1+\\cdots+g_k\\in S$. For $k=2$, $K$ is isomorphic to the Bi-Cayley graph associated with $G$ and $S$. For $k\\ge3$, we use character theory to expre",
+        "en": "Let $H=(V,E)$ be a $k$-uniform hypergraph with polynomial $f_H(\\bm{x})=\\sum_{e\\in E}\\prod_{v\\in e}x_v$. For a finite abelian group $G$ and a subgroup $S$ of $G$, the $k$-partite Cayley hypergraph $K$ has $k$ disjoint vertex parts, each indexed by $G$, and $\\{(1,g_1),\\ldots,(k,g_k)\\}$ is an edge if and only if $g_1+\\cdots+g_k\\in S$. For $k=2$, $K$ is isomorphic to the Bi-Cayley graph associated with $G$ and $S$. For $k\\ge3$, we use character theory to expre"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9fd79a663d163c55",
+      "publishedAt": "2026-10-20T10:24:39Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27983v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Annealed correlation and quenched noise sensitivity in biased deep neural networks",
+        "en": "Annealed correlation and quenched noise sensitivity in biased deep neural networks"
+      },
+      "summary": {
+        "ko": "In earlier work by Jonasson, Steif and Zetterqvist (2023), fully connected deep neural networks with layers of width $n$, i.i.d.\\ standard Gaussian weights, sign activations and no bias terms were shown to be annealed and quenched noise sensitive with respect to any joint probability distribution $\\mathbb{Q}^{(n)}$ on the input $\\boldsymbolω$ and its perturbation $\\boldsymbolη$ satisfying a mild positive-correlation condition and $\\mathbb{Q}^{(n)}(\\boldsym",
+        "en": "In earlier work by Jonasson, Steif and Zetterqvist (2023), fully connected deep neural networks with layers of width $n$, i.i.d.\\ standard Gaussian weights, sign activations and no bias terms were shown to be annealed and quenched noise sensitive with respect to any joint probability distribution $\\mathbb{Q}^{(n)}$ on the input $\\boldsymbolω$ and its perturbation $\\boldsymbolη$ satisfying a mild positive-correlation condition and $\\mathbb{Q}^{(n)}(\\boldsym"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "1725d137aa3debc0",
       "publishedAt": "2026-10-20T10:00:00Z",
       "source": "OpenAI",
@@ -95,6 +425,50 @@
       "summary": {
         "ko": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
         "en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "aa8847d44cbae332",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/terminal-x",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1"
+      },
+      "summary": {
+        "ko": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+        "en": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f9effeeb685bb488",
+      "publishedAt": "2026-10-20T06:23:41Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27706v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "On minimum-size matroid counterexamples to the multiplicative Merino--Welsh inequality",
+        "en": "On minimum-size matroid counterexamples to the multiplicative Merino--Welsh inequality"
+      },
+      "summary": {
+        "ko": "Let $M$ be a matroid and let $\\Tutte_M(x,y)$ be its Tutte polynomial. The multiplicative Merino--Welsh inequality \\[ \\Tutte_M(2,0)\\Tutte_M(0,2)\\geq \\Tutte_M(1,1)^2 \\] was proved to be false for matroids by Beke, Csáji, Csikvári, and Pituk (\\emph{Adv. Math.} \\textbf{446} (2024), 109674). Let $U_{n,r}$ denote the rank-$r$ uniform matroid on $n$ elements, where $0",
+        "en": "Let $M$ be a matroid and let $\\Tutte_M(x,y)$ be its Tutte polynomial. The multiplicative Merino--Welsh inequality \\[ \\Tutte_M(2,0)\\Tutte_M(0,2)\\geq \\Tutte_M(1,1)^2 \\] was proved to be false for matroids by Beke, Csáji, Csikvári, and Pituk (\\emph{Adv. Math.} \\textbf{446} (2024), 109674). Let $U_{n,r}$ denote the rank-$r$ uniform matroid on $n$ elements, where $0"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

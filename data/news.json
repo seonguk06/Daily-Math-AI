@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T22:41:19.286476Z",
+  "generatedAt": "2026-10-22T22:39:13.427475Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,50 @@
   ],
   "articles": [
     {
+      "id": "6400feb681472530",
+      "publishedAt": "2026-10-22T06:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "What FDE means at OpenAI",
+        "en": "What FDE means at OpenAI"
+      },
+      "summary": {
+        "ko": "What forward deployed engineering means at OpenAI",
+        "en": "What forward deployed engineering means at OpenAI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "eda525050cea8fce",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "category": "ai",
+      "kind": "article",
+      "score": 55,
+      "title": {
+        "ko": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "en": "Uber brings ChatGPT Work to all employees with OpenAI"
+      },
+      "summary": {
+        "ko": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+        "en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "3f1a11956436b167",
       "publishedAt": "2026-10-21T21:00:00Z",
       "source": "OpenAI",
@@ -103,6 +147,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "72cbea422494df11",
+      "publishedAt": "2026-10-21T17:27:17Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30074v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+        "en": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization"
+      },
+      "summary": {
+        "ko": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to ",
+        "en": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8541433f95e82ea3",
+      "publishedAt": "2026-10-21T17:11:52Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30051v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+        "en": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks"
+      },
+      "summary": {
+        "ko": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their manipulation capabilities have not been systematically evaluated on standardized robotics benchmarks. In this report, we present a unified closed-loop manipulation framework for evaluating fr",
+        "en": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their manipulation capabilities have not been systematically evaluated on standardized robotics benchmarks. In this report, we present a unified closed-loop manipulation framework for evaluating fr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "39cad894cdd240fb",
       "publishedAt": "2026-10-21T17:00:00Z",
       "source": "OpenAI",
@@ -117,6 +205,28 @@
       "summary": {
         "ko": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
         "en": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "84e6f16d67cdc41f",
+      "publishedAt": "2026-10-21T16:37:09Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29999v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping",
+        "en": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping"
+      },
+      "summary": {
+        "ko": "Reinforcement learning (RL) based on PPO-style clipping has become an effective approach to improving the reasoning capabilities of large language models (LLMs). However, standard token-level clipping measures policy change only through the conditional probability of the current token, while the prefix conditioning context is itself generated by the policy. This mismatch becomes especially consequential in long-response and off-policy training. We reformul",
+        "en": "Reinforcement learning (RL) based on PPO-style clipping has become an effective approach to improving the reasoning capabilities of large language models (LLMs). However, standard token-level clipping measures policy change only through the conditional probability of the current token, while the prefix conditioning context is itself generated by the policy. This mismatch becomes especially consequential in long-response and off-policy training. We reformul"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -147,6 +257,116 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "484435307e2067b0",
+      "publishedAt": "2026-10-21T16:19:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29965v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents",
+        "en": "CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents"
+      },
+      "summary": {
+        "ko": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie",
+        "en": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2fd74e62de64c123",
+      "publishedAt": "2026-10-21T13:35:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29734v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Monitorability Is Trainable: Post-Training for Chain-of-Thought Monitorability",
+        "en": "Monitorability Is Trainable: Post-Training for Chain-of-Thought Monitorability"
+      },
+      "summary": {
+        "ko": "Chain-of-thought (CoT) monitoring is one of the few practical tools available for overseeing capable AI systems, but it is fragile: a model's reasoning is only useful to a monitor if it remains coupled to what the model actually does. This coupling can be degraded during training through, for example, CoT compression, optimization against a monitor, and out-of-context generalization from synthetic documents. In this work, we propose an unsupervised post-tr",
+        "en": "Chain-of-thought (CoT) monitoring is one of the few practical tools available for overseeing capable AI systems, but it is fragile: a model's reasoning is only useful to a monitor if it remains coupled to what the model actually does. This coupling can be degraded during training through, for example, CoT compression, optimization against a monitor, and out-of-context generalization from synthetic documents. In this work, we propose an unsupervised post-tr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1b74eb634d9ca295",
+      "publishedAt": "2026-10-21T13:31:05Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29725v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion",
+        "en": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion"
+      },
+      "summary": {
+        "ko": "A common application of the process mining discipline is to connect observed event data with Petri nets, which are bipartite, directed graphical process models with rich formal underpinnings. Recent work learns vector representations of Petri nets to retrieve process models and relate them to event logs, but leaves implicit two key aspects hidden within the net's structure: directed cycles (process loops) and invariants recorded by the net's incidence matr",
+        "en": "A common application of the process mining discipline is to connect observed event data with Petri nets, which are bipartite, directed graphical process models with rich formal underpinnings. Recent work learns vector representations of Petri nets to retrieve process models and relate them to event logs, but leaves implicit two key aspects hidden within the net's structure: directed cycles (process loops) and invariants recorded by the net's incidence matr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b1215e1aefc04c61",
+      "publishedAt": "2026-10-21T13:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+      },
+      "summary": {
+        "ko": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+        "en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "52700e6d7569de78",
+      "publishedAt": "2026-10-21T12:17:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29637v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 73,
+      "title": {
+        "ko": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis",
+        "en": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis"
+      },
+      "summary": {
+        "ko": "We present an AI-assisted mathematical addendum to Strategic Trip Planning: Striking a Balance Between Competition and Cooperation (Amar, 2018). We reconstruct selected relationships between strategic choice, cooperative stability, participant approval and enforcement. The thesis's Nash-to-core proposition is under-specified until outsider opportunities are stated. We verify two-person implications under fixed outsiders and explicit efficiency conditions. ",
+        "en": "We present an AI-assisted mathematical addendum to Strategic Trip Planning: Striking a Balance Between Competition and Cooperation (Amar, 2018). We reconstruct selected relationships between strategic choice, cooperative stability, participant approval and enforcement. The thesis's Nash-to-core proposition is under-specified until outsider opportunities are stated. We verify two-person implications under fixed outsiders and explicit efficiency conditions. "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "95dedf578de78f3e",
       "publishedAt": "2026-10-21T12:00:00Z",
       "source": "OpenAI",
@@ -161,6 +381,28 @@
       "summary": {
         "ko": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
         "en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ea5560b082eba8a1",
+      "publishedAt": "2026-10-21T10:14:27Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29526v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 68,
+      "title": {
+        "ko": "Geometric knowledge spaces, Attention pairing and Architectures",
+        "en": "Geometric knowledge spaces, Attention pairing and Architectures"
+      },
+      "summary": {
+        "ko": "In this paper, we propose a geometric approach to deriving attention mechanisms and exploring potential new transformer architectures. We begin by formalizing the notions of knowledge worlds and attention pairings, then demonstrate how this framework naturally leads to the architectures of standard attention, causal attention, linear attention, tensor attention, and recurrent neural networks. Finally, we introduce several new geometric spaces that may insp",
+        "en": "In this paper, we propose a geometric approach to deriving attention mechanisms and exploring potential new transformer architectures. We begin by formalizing the notions of knowledge worlds and attention pairings, then demonstrate how this framework naturally leads to the architectures of standard attention, causal attention, linear attention, tensor attention, and recurrent neural networks. Finally, we introduce several new geometric spaces that may insp"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -205,6 +447,28 @@
       "summary": {
         "ko": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
         "en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3fe372fb2e8166f0",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "Cloudflare links vulnerability discovery to defense with OpenAI",
+        "en": "Cloudflare links vulnerability discovery to defense with OpenAI"
+      },
+      "summary": {
+        "ko": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+        "en": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T22:39:13.427475Z",
+  "generatedAt": "2026-10-23T22:39:45.935838Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -59,6 +59,248 @@
   ],
   "articles": [
     {
+      "id": "30a34d758ba63be2",
+      "publishedAt": "2026-10-23T18:51:33Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "category": "ai",
+      "kind": "article",
+      "score": 49,
+      "title": {
+        "ko": "Bringing foundational models to the front lines of TB screening",
+        "en": "Bringing foundational models to the front lines of TB screening"
+      },
+      "summary": {
+        "ko": "Generative AI",
+        "en": "Generative AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ee4c22366ef7e7ab",
+      "publishedAt": "2026-10-23T17:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      },
+      "summary": {
+        "ko": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f8c156dba7886826",
+      "publishedAt": "2026-10-23T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Securing our frontier model training environment",
+        "en": "Securing our frontier model training environment"
+      },
+      "summary": {
+        "ko": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1a543055a02f9816",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "en": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+      },
+      "summary": {
+        "ko": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "38071abdd9d3d1fc",
+      "publishedAt": "2026-10-22T17:59:48Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31667v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+        "en": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning"
+      },
+      "summary": {
+        "ko": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broad",
+        "en": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broad"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2dcb543ffd0d1903",
+      "publishedAt": "2026-10-22T16:46:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31539v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization",
+        "en": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization"
+      },
+      "summary": {
+        "ko": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con",
+        "en": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ebafa1bcda9d3379",
+      "publishedAt": "2026-10-22T16:33:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31520v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+        "en": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models"
+      },
+      "summary": {
+        "ko": "Metaphor is a crucial aspect of human cognition. As such, we would like to understand how it is represented in large language models (LLMs) and how it might be controlled. We use mechanistic interpretability techniques to identify causal subspaces in a range of LLMs covering different architectures and sizes. We show that we are able to steer output on classification tasks across different parts of speech. We are also able to steer output on generation tas",
+        "en": "Metaphor is a crucial aspect of human cognition. As such, we would like to understand how it is represented in large language models (LLMs) and how it might be controlled. We use mechanistic interpretability techniques to identify causal subspaces in a range of LLMs covering different architectures and sizes. We show that we are able to steer output on classification tasks across different parts of speech. We are also able to steer output on generation tas"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "13727471de3dadeb",
+      "publishedAt": "2026-10-22T16:04:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31479v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon",
+        "en": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon"
+      },
+      "summary": {
+        "ko": "Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiment",
+        "en": "Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiment"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8dc057db0178a4d6",
+      "publishedAt": "2026-10-22T14:48:16Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31376v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
+        "en": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action"
+      },
+      "summary": {
+        "ko": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities, approvals and budgets. Since a transition fires only if the marks it needs are present, an injected request whose preconditions are unmet or already spent is refused regardless of its word",
+        "en": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities, approvals and budgets. Since a transition fires only if the marks it needs are present, an injected request whose preconditions are unmet or already spent is refused regardless of its word"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9bd85d88980d1be5",
+      "publishedAt": "2026-10-22T14:19:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31328v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions",
+        "en": "Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions"
+      },
+      "summary": {
+        "ko": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new",
+        "en": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c92da0387e15312d",
+      "publishedAt": "2026-10-22T06:24:31Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30797v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "OpenAI partially disproves Littlewood's 1961 $L^α$-flat theorem",
+        "en": "OpenAI partially disproves Littlewood's 1961 $L^α$-flat theorem"
+      },
+      "summary": {
+        "ko": "We present a counterexample, produced by OpenAI, to Littlewood's 1961 theorem on $L^α$-flat polynomials. The theorem asserts that no $L^α$-flat polynomials exist within the class of trigonometric polynomials of the form$$\\sum_{m=1}^{n} a_m \\cos(mθ+α_m), \\qquad n \\in \\mathbb{N}^*,$$satisfying$$k\\, n^2 \\sum_{m=1}^{n} a_m^2 \\;\\leq\\; \\sum_{m=1}^{n} m^2 a_m^2,$$where $k$ is an absolute constant (alternatively expressed on the right-hand side as $K = 1/k$). We s",
+        "en": "We present a counterexample, produced by OpenAI, to Littlewood's 1961 theorem on $L^α$-flat polynomials. The theorem asserts that no $L^α$-flat polynomials exist within the class of trigonometric polynomials of the form$$\\sum_{m=1}^{n} a_m \\cos(mθ+α_m), \\qquad n \\in \\mathbb{N}^*,$$satisfying$$k\\, n^2 \\sum_{m=1}^{n} a_m^2 \\;\\leq\\; \\sum_{m=1}^{n} m^2 a_m^2,$$where $k$ is an absolute constant (alternatively expressed on the right-hand side as $K = 1/k$). We s"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "6400feb681472530",
       "publishedAt": "2026-10-22T06:00:00Z",
       "source": "OpenAI",
@@ -73,6 +315,28 @@
       "summary": {
         "ko": "What forward deployed engineering means at OpenAI",
         "en": "What forward deployed engineering means at OpenAI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "de75888528ecfba0",
+      "publishedAt": "2026-10-22T05:10:10Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30739v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Stationary Half-space Geometric Last Passage Percolation without Random Shift",
+        "en": "Stationary Half-space Geometric Last Passage Percolation without Random Shift"
+      },
+      "summary": {
+        "ko": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,",
+        "en": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

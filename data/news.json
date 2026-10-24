@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:39:45.935838Z",
+  "generatedAt": "2026-10-24T22:37:49.916835Z",
   "demo": false,
   "health": {
     "ok": 7,
@@ -169,6 +169,94 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "20a7a7d0ca148066",
+      "publishedAt": "2026-10-22T17:59:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31663v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Phase Transition from Random Features to Fully Trainable Networks",
+        "en": "Phase Transition from Random Features to Fully Trainable Networks"
+      },
+      "summary": {
+        "ko": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater in",
+        "en": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater in"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4f3161add738ee4d",
+      "publishedAt": "2026-10-22T17:56:41Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31648v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles",
+        "en": "On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles"
+      },
+      "summary": {
+        "ko": "This paper is about the derivation of \"integrability results\" (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the explicit solutions to the PDEs provided by the original SLE/CLE martingale approach that AI now makes it possible to uncover. This provides s",
+        "en": "This paper is about the derivation of \"integrability results\" (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the explicit solutions to the PDEs provided by the original SLE/CLE martingale approach that AI now makes it possible to uncover. This provides s"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "37ff76642014ba5f",
+      "publishedAt": "2026-10-22T17:23:39Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31588v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+        "en": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act"
+      },
+      "summary": {
+        "ko": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while t",
+        "en": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while t"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3426d09b5eb33e6a",
+      "publishedAt": "2026-10-22T16:51:27Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31544v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning",
+        "en": "Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Agentic reinforcement learning rewards a complete episode, yet the policy needs credit for every decision inside it. Counterfactual branching estimates this credit by re-running the episode after an alternative decision, but the branch draws its sampling noise independently of the factual episode, so the outcome difference mixes the effect of the decision with the luck of everything that follows. We observe that in agentic search the retriever, the corpus,",
+        "en": "Agentic reinforcement learning rewards a complete episode, yet the policy needs credit for every decision inside it. Counterfactual branching estimates this credit by re-running the episode after an alternative decision, but the branch draws its sampling noise independently of the factual episode, so the outcome difference mixes the effect of the decision with the luck of everything that follows. We observe that in agentic search the retriever, the corpus,"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "2dcb543ffd0d1903",
       "publishedAt": "2026-10-22T16:46:46Z",
       "source": "arXiv",
@@ -257,6 +345,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "7ccf935e75efb5fa",
+      "publishedAt": "2026-10-22T14:23:02Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31336v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Metric Conformal Prediction via the Conditional Expected Local Radius",
+        "en": "Metric Conformal Prediction via the Conditional Expected Local Radius"
+      },
+      "summary": {
+        "ko": "We introduce the conditional expected local radius (CELR) and develop a new conformal prediction method for non-Euclidean responses in general metric spaces. CELR measures local conditional probability concentration, allowing prediction sets to accommodate heterogeneity and multimodality without requiring densities or a vector space structure. Its conditional distribution yields a nonconformity score that is comparable across covariate values and avoids co",
+        "en": "We introduce the conditional expected local radius (CELR) and develop a new conformal prediction method for non-Euclidean responses in general metric spaces. CELR measures local conditional probability concentration, allowing prediction sets to accommodate heterogeneity and multimodality without requiring densities or a vector space structure. Its conditional distribution yields a nonconformity score that is comparable across covariate values and avoids co"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "9bd85d88980d1be5",
       "publishedAt": "2026-10-22T14:19:08Z",
       "source": "arXiv",
@@ -271,6 +381,50 @@
       "summary": {
         "ko": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new",
         "en": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e613c59d71559746",
+      "publishedAt": "2026-10-22T14:18:21Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31326v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments",
+        "en": "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments"
+      },
+      "summary": {
+        "ko": "Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiment",
+        "en": "Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiment"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "582b45ca122f8e98",
+      "publishedAt": "2026-10-22T13:43:45Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31274v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 52,
+      "title": {
+        "ko": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
+        "en": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding"
+      },
+      "summary": {
+        "ko": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs",
+        "en": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -337,6 +491,28 @@
       "summary": {
         "ko": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,",
         "en": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a5b493da7dce31f8",
+      "publishedAt": "2026-10-22T04:16:30Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30700v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "On Arithmetic-Progression Biases in Random Partitions: Limiting Laws and the Li-Zhao Conjecture",
+        "en": "On Arithmetic-Progression Biases in Random Partitions: Limiting Laws and the Li-Zhao Conjecture"
+      },
+      "summary": {
+        "ko": "Let $\\cR=\\{r+jm:j\\geq0\\}$ and $\\cS=\\{s+jm:j\\geq0\\}$ be disjoint arithmetic progressions of positive integers, and choose a partition of $n$ uniformly at random. We determine the limiting probability that the number of parts in $\\cR$ is larger than the number of parts in $\\cS$. More precisely, if $a=r/m$ and $b=s/m$, then this probability converges to $I_{1/2}(a,b)$, the regularized incomplete beta function. We prove the stronger distributional statement th",
+        "en": "Let $\\cR=\\{r+jm:j\\geq0\\}$ and $\\cS=\\{s+jm:j\\geq0\\}$ be disjoint arithmetic progressions of positive integers, and choose a partition of $n$ uniformly at random. We determine the limiting probability that the number of parts in $\\cR$ is larger than the number of parts in $\\cS$. More precisely, if $a=r/m$ and $b=s/m$, then this probability converges to $I_{1/2}(a,b)$, the regularized incomplete beta function. We prove the stronger distributional statement th"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T22:37:49.916835Z",
+  "generatedAt": "2026-10-25T22:36:46.367818Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -213,6 +213,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "16673ffe832be0be",
+      "publishedAt": "2026-10-22T17:37:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31607v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Quantum K-structure constants and cylindric Grothendieck polynomials for Grassmannians",
+        "en": "Quantum K-structure constants and cylindric Grothendieck polynomials for Grassmannians"
+      },
+      "summary": {
+        "ko": "We use the partition functions of a five-vertex exactly solvable lattice model from statistical mechanics to give new combinatorial formulae for the Schubert structure constants of torus-equivariant quantum K-theory rings of Grassmannians. The proofs build on our earlier results where we identified the transfer matrices of these lattice models geometrically as multiplications by the Hirzebruch $λ_y$ classes of the tautological subbundle and the (dual) quot",
+        "en": "We use the partition functions of a five-vertex exactly solvable lattice model from statistical mechanics to give new combinatorial formulae for the Schubert structure constants of torus-equivariant quantum K-theory rings of Grassmannians. The proofs build on our earlier results where we identified the transfer matrices of these lattice models geometrically as multiplications by the Hirzebruch $λ_y$ classes of the tautological subbundle and the (dual) quot"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2bb6b6328dca3033",
+      "publishedAt": "2026-10-22T17:31:49Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31599v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Properties of theories whose algebras are free",
+        "en": "Properties of theories whose algebras are free"
+      },
+      "summary": {
+        "ko": "A hard theorem of Givant classifies the finitary algebraic theories for which every algebra is free. From it, one easily deduces that all such theories are minimal (adding any further equations makes them trivial) and have a well-defined notion of dimension (free algebras on sets of different cardinality are never isomorphic). We prove both these properties directly, without the aid of Givant's theorem.",
+        "en": "A hard theorem of Givant classifies the finitary algebraic theories for which every algebra is free. From it, one easily deduces that all such theories are minimal (adding any further equations makes them trivial) and have a well-defined notion of dimension (free algebras on sets of different cardinality are never isomorphic). We prove both these properties directly, without the aid of Givant's theorem."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "37ff76642014ba5f",
       "publishedAt": "2026-10-22T17:23:39Z",
       "source": "arXiv",
@@ -271,6 +315,50 @@
       "summary": {
         "ko": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con",
         "en": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "13b03288f0240ecb",
+      "publishedAt": "2026-10-22T16:42:30Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31533v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Triple Quantum Schubert Calculus",
+        "en": "Triple Quantum Schubert Calculus"
+      },
+      "summary": {
+        "ko": "We prove a triple quantum Pieri formula: the product of a quantum double Schubert polynomial $\\widetilde{\\mathfrak{S}}_u(x;y)$ by a quantum factorial elementary polynomial $\\widetilde{E}_{p,k}(x;z)$ in a second set of variables $z$ is a sum over chains in the quantum Bruhat graph, indexed by a quantum analogue of Sottile's relation, whose coefficients are monomials in the quantum parameters times polynomials in the differences $y_i-z_j$ with nonnegative in",
+        "en": "We prove a triple quantum Pieri formula: the product of a quantum double Schubert polynomial $\\widetilde{\\mathfrak{S}}_u(x;y)$ by a quantum factorial elementary polynomial $\\widetilde{E}_{p,k}(x;z)$ in a second set of variables $z$ is a sum over chains in the quantum Bruhat graph, indexed by a quantum analogue of Sottile's relation, whose coefficients are monomials in the quantum parameters times polynomials in the differences $y_i-z_j$ with nonnegative in"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4d450e06ea407ec9",
+      "publishedAt": "2026-10-22T16:35:09Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31524v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting",
+        "en": "Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting"
+      },
+      "summary": {
+        "ko": "Nonparametric estimation of joint probability distributions is a core problem in statistics, which is notoriously challenging with high-dimensional data. Such challenges also arise with conditional distribution estimation and have led to flexible algorithms that aim to tackle the ''curse of dimensionality'' by exploiting predictive structures of lower dimension than the ambient space. In this paper, we study the use of such conditional distribution estimat",
+        "en": "Nonparametric estimation of joint probability distributions is a core problem in statistics, which is notoriously challenging with high-dimensional data. Such challenges also arise with conditional distribution estimation and have led to flexible algorithms that aim to tackle the ''curse of dimensionality'' by exploiting predictive structures of lower dimension than the ambient space. In this paper, we study the use of such conditional distribution estimat"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -411,6 +499,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "478b6c7518509d50",
+      "publishedAt": "2026-10-22T14:08:52Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31315v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "The Value of System 1 Models in Medicine",
+        "en": "The Value of System 1 Models in Medicine"
+      },
+      "summary": {
+        "ko": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and",
+        "en": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fc5ca4f3c7d29acd",
+      "publishedAt": "2026-10-22T14:06:02Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31308v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "The Bayesian Learning Rule Beyond KL Geometry",
+        "en": "The Bayesian Learning Rule Beyond KL Geometry"
+      },
+      "summary": {
+        "ko": "The Bayesian learning rule (BLR) exploits the relation between Bayesian updating and the Kullback-Leibler divergence (KLD) to derive efficient additive updates for exponential family variational posteriors. The KL geometry is powerful but restrictive: combined with posterior families with parameter-dependent support it can lead to undefined objectives. We ask which non-KL geometries preserve the additive BLR computation. Previous works that use $f$-diverge",
+        "en": "The Bayesian learning rule (BLR) exploits the relation between Bayesian updating and the Kullback-Leibler divergence (KLD) to derive efficient additive updates for exponential family variational posteriors. The KL geometry is powerful but restrictive: combined with posterior families with parameter-dependent support it can lead to undefined objectives. We ask which non-KL geometries preserve the additive BLR computation. Previous works that use $f$-diverge"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e8999783ce8cfe30",
+      "publishedAt": "2026-10-22T13:55:31Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31293v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting",
+        "en": "RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting"
+      },
+      "summary": {
+        "ko": "Online semantic 3D Gaussian Splatting (3DGS) enables open-vocabulary scene understanding from streaming observations. However, existing methods recover geometric context missing from image-derived semantic features using an additionally learned 3D network, incurring extra training and runtime overhead. We observe that such geometric-semantic evidence may already exist in the agent's observation history and can be retrieved rather than learned. Based on thi",
+        "en": "Online semantic 3D Gaussian Splatting (3DGS) enables open-vocabulary scene understanding from streaming observations. However, existing methods recover geometric context missing from image-derived semantic features using an additionally learned 3D network, incurring extra training and runtime overhead. We observe that such geometric-semantic evidence may already exist in the agent's observation history and can be retrieved rather than learned. Based on thi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "582b45ca122f8e98",
       "publishedAt": "2026-10-22T13:43:45Z",
       "source": "arXiv",
@@ -425,6 +579,28 @@
       "summary": {
         "ko": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs",
         "en": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "268edfe7d9ca38bf",
+      "publishedAt": "2026-10-22T09:18:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.30976v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Rigidity, flexibility, and a sign error",
+        "en": "Rigidity, flexibility, and a sign error"
+      },
+      "summary": {
+        "ko": "The documents [OAI26a, OAI26b, OAI26c] claimed to prove cases of the Hodge conjecture via homological mirror symmetry, before being withdrawn by OpenAI. We discuss the source of the error (but do not analyse the rest of the argument).",
+        "en": "The documents [OAI26a, OAI26b, OAI26c] claimed to prove cases of the Hodge conjecture via homological mirror symmetry, before being withdrawn by OpenAI. We discuss the source of the error (but do not analyse the rest of the argument)."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:36:46.367818Z",
+  "generatedAt": "2026-10-26T22:42:38.531983Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -59,6 +59,138 @@
   ],
   "articles": [
     {
+      "id": "a9c488820a62ac4a",
+      "publishedAt": "2026-10-26T22:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "en": "Greptile takes bug detection beyond code review with GPT-6 Astra"
+      },
+      "summary": {
+        "ko": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "059aa6eec8d190ac",
+      "publishedAt": "2026-10-26T14:54:29Z",
+      "source": "Quanta Mathematics",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026",
+      "category": "math",
+      "kind": "article",
+      "score": 48,
+      "title": {
+        "ko": "How Voting Is Like a Klein Bottle",
+        "en": "How Voting Is Like a Klein Bottle"
+      },
+      "summary": {
+        "ko": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+        "en": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7d972df501d01ba1",
+      "publishedAt": "2026-10-26T13:45:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
+      },
+      "summary": {
+        "ko": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "en": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "27334100e818b985",
+      "publishedAt": "2026-10-26T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "ChatGPT’s expanding world of work",
+        "en": "ChatGPT’s expanding world of work"
+      },
+      "summary": {
+        "ko": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+        "en": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7e73eebe3e909303",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Fanatics and OpenAI streamline the fan experience",
+        "en": "How Fanatics and OpenAI streamline the fan experience"
+      },
+      "summary": {
+        "ko": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+        "en": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "742d30efdc4090c1",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+      },
+      "summary": {
+        "ko": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "30a34d758ba63be2",
       "publishedAt": "2026-10-23T18:51:33Z",
       "source": "Google Research",
@@ -73,6 +205,28 @@
       "summary": {
         "ko": "Generative AI",
         "en": "Generative AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9ed4e8cfda1ff1da",
+      "publishedAt": "2026-10-23T17:17:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32914v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 70,
+      "title": {
+        "ko": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
+        "en": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control"
+      },
+      "summary": {
+        "ko": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfact",
+        "en": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfact"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -103,6 +257,138 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "b21763c69541cfa7",
+      "publishedAt": "2026-10-23T16:58:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32891v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
+        "en": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations"
+      },
+      "summary": {
+        "ko": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimizatio",
+        "en": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimizatio"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c2b6b7fd42c60774",
+      "publishedAt": "2026-10-23T16:44:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32874v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 60,
+      "title": {
+        "ko": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
+        "en": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations"
+      },
+      "summary": {
+        "ko": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sentence it was shown, then rewriting the claim as its complement and replacing every probability p with 1 - p should return the complementary answer, so the two rep",
+        "en": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sentence it was shown, then rewriting the claim as its complement and replacing every probability p with 1 - p should return the complementary answer, so the two rep"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "db8afe90143a009b",
+      "publishedAt": "2026-10-23T16:34:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32864v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets",
+        "en": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets"
+      },
+      "summary": {
+        "ko": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such as maximum, minimum, and no-escape ranges, PoKER applies machine learning to predict kill probabilities more accurately by integrating the stochastic behaviors o",
+        "en": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such as maximum, minimum, and no-escape ranges, PoKER applies machine learning to predict kill probabilities more accurately by integrating the stochastic behaviors o"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d990c563c8613014",
+      "publishedAt": "2026-10-23T14:21:30Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32694v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "A genus-two spectral curve of the Riemann $Ξ$-function: Real Structure and Certified Arithmetic Separation of Periods",
+        "en": "A genus-two spectral curve of the Riemann $Ξ$-function: Real Structure and Certified Arithmetic Separation of Periods"
+      },
+      "summary": {
+        "ko": "We associate a compact genus-two real spectral core with a transverse logarithmic-derivative discriminant of the Riemann $Ξ$-function. Directed interval arithmetic certifies its branch geometry, a real $P_{\\mathrm{III}}(D_6)$ scalar-normal-form realization, and associated Kummer and Shioda--Inose models. Zero-action resonance reduces to rationality of two real period ratios. Their certified heat motion yields generic local nonresonance and Diophantine sepa",
+        "en": "We associate a compact genus-two real spectral core with a transverse logarithmic-derivative discriminant of the Riemann $Ξ$-function. Directed interval arithmetic certifies its branch geometry, a real $P_{\\mathrm{III}}(D_6)$ scalar-normal-form realization, and associated Kummer and Shioda--Inose models. Zero-action resonance reduces to rationality of two real period ratios. Their certified heat motion yields generic local nonresonance and Diophantine sepa"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4f437ef2e10139ff",
+      "publishedAt": "2026-10-23T13:38:42Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32620v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+        "en": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design"
+      },
+      "summary": {
+        "ko": "LLM agents optimize a ligand in a protein pocket by editing it step by step and docking each edit. Recent agents first spend extra dockings probing the complex with controlled edits; guidance induced from these probes is reported to help more than the chemical knowledge the model already carries. The probes are then discarded with the instance that produced them, so the obvious next step is to keep them in an experience base, letting a new pocket inherit w",
+        "en": "LLM agents optimize a ligand in a protein pocket by editing it step by step and docking each edit. Recent agents first spend extra dockings probing the complex with controlled edits; guidance induced from these probes is reported to help more than the chemical knowledge the model already carries. The probes are then discarded with the instance that produced them, so the obvious next step is to keep them in an experience base, letting a new pocket inherit w"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8d717456a025c1c7",
+      "publishedAt": "2026-10-23T13:28:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32604v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling",
+        "en": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling"
+      },
+      "summary": {
+        "ko": "Continuous diffusion models have emerged as a promising non-autoregressive paradigm for text generation over continuous embedding spaces. Along the continuous trajectory, the residual token identity directly shapes the denoising objective. However, the geometric trajectory misaligns with temporal progression, triggering severe temporal compression. In this paper, we show that embedding norm decay causes Euclidean distance to yield spurious overtaking, indi",
+        "en": "Continuous diffusion models have emerged as a promising non-autoregressive paradigm for text generation over continuous embedding spaces. Along the continuous trajectory, the residual token identity directly shapes the denoising objective. However, the geometric trajectory misaligns with temporal progression, triggering severe temporal compression. In this paper, we show that embedding norm decay causes Euclidean distance to yield spurious overtaking, indi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "f8c156dba7886826",
       "publishedAt": "2026-10-23T10:00:00Z",
       "source": "OpenAI",
@@ -117,6 +403,28 @@
       "summary": {
         "ko": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
         "en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "25aa970cf683ce1e",
+      "publishedAt": "2026-10-23T04:25:44Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32147v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "Implicit Neural Representations for Variational Problems on Graphons",
+        "en": "Implicit Neural Representations for Variational Problems on Graphons"
+      },
+      "summary": {
+        "ko": "We propose a neural exploratory framework for variational problems over graphons, i.e., symmetric measurable functions $[0,1]^2 \\to [0,1]$, that arise as limits of dense graph sequences. Such problems are central to two parts of the mathematical literature: extremal graph theory, which studies graph parameter optimisation under given restrictions, often for those graphs with a large number of vertices, and the large deviation theory of dense random graphs,",
+        "en": "We propose a neural exploratory framework for variational problems over graphons, i.e., symmetric measurable functions $[0,1]^2 \\to [0,1]$, that arise as limits of dense graph sequences. Such problems are central to two parts of the mathematical literature: extremal graph theory, which studies graph parameter optimisation under given restrictions, often for those graphs with a large number of vertices, and the large deviation theory of dense random graphs,"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T22:42:38.531983Z",
+  "generatedAt": "2026-10-27T22:43:00.079882Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -59,6 +59,72 @@
   ],
   "articles": [
     {
+      "id": "1c5b51464767c2ad",
+      "publishedAt": "2026-10-27T17:16:52Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "Build specialized multimodal models with LFM3",
+        "en": "Build specialized multimodal models with LFM3"
+      },
+      "summary": {
+        "ko": "Build specialized multimodal models with LFM3",
+        "en": "Build specialized multimodal models with LFM3"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c417f8e3d39d0b89",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
+      },
+      "summary": {
+        "ko": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "en": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c44dc9ed271ff418",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "How Check Point accelerates vulnerability research with Daybreak",
+        "en": "How Check Point accelerates vulnerability research with Daybreak"
+      },
+      "summary": {
+        "ko": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+        "en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "a9c488820a62ac4a",
       "publishedAt": "2026-10-26T22:00:00Z",
       "source": "OpenAI",
@@ -73,6 +139,94 @@
       "summary": {
         "ko": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
         "en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e0766fc8768d4a2f",
+      "publishedAt": "2026-10-26T16:39:55Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35720v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects",
+        "en": "Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects"
+      },
+      "summary": {
+        "ko": "Data distributions often possess one or more symmetries: for example, all orientations of any specific dog are included in the distribution of all possible dog pictures. Despite the omnipresence of such symmetries, modern generative modeling approaches may fail to incorporate or learn them, which can lead to lower sample efficiency and poorer generalization. To what extent do diffusion models fail to learn data distribution symmetries, and what sources of ",
+        "en": "Data distributions often possess one or more symmetries: for example, all orientations of any specific dog are included in the distribution of all possible dog pictures. Despite the omnipresence of such symmetries, modern generative modeling approaches may fail to incorporate or learn them, which can lead to lower sample efficiency and poorer generalization. To what extent do diffusion models fail to learn data distribution symmetries, and what sources of "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7fb00b6fe7235e10",
+      "publishedAt": "2026-10-26T15:22:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35596v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 73,
+      "title": {
+        "ko": "KAPPA: Checking the Proofs in Statistics Papers with Lean 4 and Language Model Agents",
+        "en": "KAPPA: Checking the Proofs in Statistics Papers with Lean 4 and Language Model Agents"
+      },
+      "summary": {
+        "ko": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional",
+        "en": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2a12695530a258b2",
+      "publishedAt": "2026-10-26T15:22:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35595v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 75,
+      "title": {
+        "ko": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
+        "en": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean"
+      },
+      "summary": {
+        "ko": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We present a staged pipeline modelled after research methodolo",
+        "en": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We present a staged pipeline modelled after research methodolo"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7af612fe00a154ac",
+      "publishedAt": "2026-10-26T15:15:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35586v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 60,
+      "title": {
+        "ko": "Linear Probes Transfer from Base to Distilled Language Models despite Rotation",
+        "en": "Linear Probes Transfer from Base to Distilled Language Models despite Rotation"
+      },
+      "summary": {
+        "ko": "Linear probes, classifiers that read a language model's internal activations, are widely used to detect harmful requests. They are cheap to train and run, and an auditor who has trained one would like to reuse it when the model is replaced by a successor rather than retrain it for every release. We test how well probes can be reused. For four base models (Qwen2.5-Math-7B, Llama-3.1-8B, Qwen2.5-14B, Qwen2.5-32B) we train a probe on the base model with the X",
+        "en": "Linear probes, classifiers that read a language model's internal activations, are widely used to detect harmful requests. They are cheap to train and run, and an auditor who has trained one would like to reuse it when the model is replaced by a successor rather than retrain it for every release. We test how well probes can be reused. For four base models (Qwen2.5-Math-7B, Llama-3.1-8B, Qwen2.5-14B, Qwen2.5-32B) we train a probe on the base model with the X"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -103,6 +257,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "aa5fc217ee5089d6",
+      "publishedAt": "2026-10-26T14:32:43Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35505v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Constraint Learning by Optimizing over Trained Neural Networks: A Pragmatic Tutorial",
+        "en": "Constraint Learning by Optimizing over Trained Neural Networks: A Pragmatic Tutorial"
+      },
+      "summary": {
+        "ko": "Constraint learning is an emerging paradigm of modeling optimization problems with the help of machine learning. In this paradigm, trained machine learning models are embedded into the optimization model. For example, we can learn constraints empirically from available data, or we can avoid using a nonlinear objective function by learning a simpler approximation for it. Neural networks become a compelling option if the machine learning models must capture ",
+        "en": "Constraint learning is an emerging paradigm of modeling optimization problems with the help of machine learning. In this paradigm, trained machine learning models are embedded into the optimization model. For example, we can learn constraints empirically from available data, or we can avoid using a nonlinear objective function by learning a simpler approximation for it. Neural networks become a compelling option if the machine learning models must capture "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8eb6001a836a6e50",
+      "publishedAt": "2026-10-26T14:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Working with academic communities to build scientific understanding",
+        "en": "Working with academic communities to build scientific understanding"
+      },
+      "summary": {
+        "ko": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "en": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "da2d760f0c7964d1",
+      "publishedAt": "2026-10-26T14:11:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35480v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "GPDPO: Learning from Reward Conflicts via Group Pareto-Dominance Policy Optimization",
+        "en": "GPDPO: Learning from Reward Conflicts via Group Pareto-Dominance Policy Optimization"
+      },
+      "summary": {
+        "ko": "Multi-reward reinforcement learning offers a promising framework for aligning large language models (LLMs) with diverse objectives, but conflicting reward signals can induce ambiguous update directions and hinder stable optimization. Existing approaches address such conflicts through reward reweighting, gradient coordination, or rollout filtering, yet they primarily operate on per-response or group-level optimization signals and underexploit relational inf",
+        "en": "Multi-reward reinforcement learning offers a promising framework for aligning large language models (LLMs) with diverse objectives, but conflicting reward signals can induce ambiguous update directions and hinder stable optimization. Existing approaches address such conflicts through reward reweighting, gradient coordination, or rollout filtering, yet they primarily operate on per-response or group-level optimization signals and underexploit relational inf"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "7d972df501d01ba1",
       "publishedAt": "2026-10-26T13:45:00Z",
       "source": "OpenAI",
@@ -117,6 +337,50 @@
       "summary": {
         "ko": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
         "en": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "831536d01d3a37b8",
+      "publishedAt": "2026-10-26T13:43:54Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35447v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Geometry of holonomic modules over the first Weyl algebra",
+        "en": "Geometry of holonomic modules over the first Weyl algebra"
+      },
+      "summary": {
+        "ko": "We give a geometric description of the formal local data of holonomic modules over the first Weyl algebra, the algebra of differential operators in one variable. The exponential part of the associated formal meromorphic connection is encoded by a truncated jet of an affine plane curve at infinity, and the regular part by a regular formal meromorphic connection. We prove that these geometric data uniquely determine the `elementary' blocks in the formal deco",
+        "en": "We give a geometric description of the formal local data of holonomic modules over the first Weyl algebra, the algebra of differential operators in one variable. The exponential part of the associated formal meromorphic connection is encoded by a truncated jet of an affine plane curve at infinity, and the regular part by a regular formal meromorphic connection. We prove that these geometric data uniquely determine the `elementary' blocks in the formal deco"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b1ae58c91462916f",
+      "publishedAt": "2026-10-26T11:58:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.35287v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Scott-type inequalities for trinomial $h^*$-polynomials",
+        "en": "Scott-type inequalities for trinomial $h^*$-polynomials"
+      },
+      "summary": {
+        "ko": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell=",
+        "en": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell="
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -183,6 +447,28 @@
       "summary": {
         "ko": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
         "en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "35e334c198740f74",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "category": "ai",
+      "kind": "article",
+      "score": 44,
+      "title": {
+        "ko": "Introducing GPT-6.1 Terra",
+        "en": "Introducing GPT-6.1 Terra"
+      },
+      "summary": {
+        "ko": "Bringing fast and capable computer use to everyone",
+        "en": "Bringing fast and capable computer use to everyone"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -447,6 +733,28 @@
       "summary": {
         "ko": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
         "en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3b5a2a6a27ab5490",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/anima",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "en": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live"
+      },
+      "summary": {
+        "ko": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+        "en": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T22:43:00.079882Z",
+  "generatedAt": "2026-10-28T22:47:57.462039Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,94 @@
   ],
   "articles": [
     {
+      "id": "3e32bae570ff21ee",
+      "publishedAt": "2026-10-28T17:00:58Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini 4 Carbon: Our next frontier model",
+        "en": "Gemini 4 Carbon: Our next frontier model"
+      },
+      "summary": {
+        "ko": "Gemini 4 Carbon: Our next frontier model",
+        "en": "Gemini 4 Carbon: Our next frontier model"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a395c7da350b5086",
+      "publishedAt": "2026-10-28T13:15:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "en": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+      },
+      "summary": {
+        "ko": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e2ed7680c50ae3f0",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "The future of the firm",
+        "en": "The future of the firm"
+      },
+      "summary": {
+        "ko": "How AI might enter the org chart—beneath, beside, and between us.",
+        "en": "How AI might enter the org chart—beneath, beside, and between us."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "709cc8e2bd467b79",
+      "publishedAt": "2026-10-28T09:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/legora",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Legora is building the agentic operating system for legal work",
+        "en": "Legora is building the agentic operating system for legal work"
+      },
+      "summary": {
+        "ko": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "1c5b51464767c2ad",
       "publishedAt": "2026-10-27T17:16:52Z",
       "source": "Hugging Face",
@@ -73,6 +161,204 @@
       "summary": {
         "ko": "Build specialized multimodal models with LFM3",
         "en": "Build specialized multimodal models with LFM3"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "838eb06eb48323c2",
+      "publishedAt": "2026-10-27T17:15:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37570v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation",
+        "en": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation"
+      },
+      "summary": {
+        "ko": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It learns monotonic promotion-response curves from production logs by interpreting single-token outputs as conversion-threshold probabilities, while conditioning on session context such as day and delivery shift. In a productio",
+        "en": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It learns monotonic promotion-response curves from production logs by interpreting single-token outputs as conversion-threshold probabilities, while conditioning on session context such as day and delivery shift. In a productio"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e96ac0218ea23053",
+      "publishedAt": "2026-10-27T16:45:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37524v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 69,
+      "title": {
+        "ko": "GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\\times$ Length Extrapolation in Linear Time",
+        "en": "GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\\times$ Length Extrapolation in Linear Time"
+      },
+      "summary": {
+        "ko": "Self-attention mechanisms have established the Transformer as the dominant backbone across natural language processing, source code intelligence, and automated theorem proving. However, all-to-all pairwise token comparison enforces a quadratic $\\mathcal{O}(N^2)$ compute and memory barrier alongside severe softmax attention dilution as sequence length $N$ scales beyond the training horizon. Inspired by recent advances in algebraic graph learning (\\textbf{WP",
+        "en": "Self-attention mechanisms have established the Transformer as the dominant backbone across natural language processing, source code intelligence, and automated theorem proving. However, all-to-all pairwise token comparison enforces a quadratic $\\mathcal{O}(N^2)$ compute and memory barrier alongside severe softmax attention dilution as sequence length $N$ scales beyond the training horizon. Inspired by recent advances in algebraic graph learning (\\textbf{WP"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9764cff4daa03134",
+      "publishedAt": "2026-10-27T16:45:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37523v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 52,
+      "title": {
+        "ko": "The Structure Gap: When More Data Cannot Replace Structured Reasoning",
+        "en": "The Structure Gap: When More Data Cannot Replace Structured Reasoning"
+      },
+      "summary": {
+        "ko": "A persistent belief in modern AI is that sufficiently large learners trained on sufficiently much data can make explicit domain knowledge optional. This paper examines a limitation of that belief. We define structure-encoded problems: tasks whose input-output map is determined, or sharply constrained, by known structure such as a solver, symmetry group, graph, physical law, measurement operator, grammar, combinatorial search space, or optimization objectiv",
+        "en": "A persistent belief in modern AI is that sufficiently large learners trained on sufficiently much data can make explicit domain knowledge optional. This paper examines a limitation of that belief. We define structure-encoded problems: tasks whose input-output map is determined, or sharply constrained, by known structure such as a solver, symmetry group, graph, physical law, measurement operator, grammar, combinatorial search space, or optimization objectiv"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5fc0e98aa4422b42",
+      "publishedAt": "2026-10-27T15:02:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37370v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 70,
+      "title": {
+        "ko": "The Geometry of Manifold Learning: Singular foliations via Deep Learning models",
+        "en": "The Geometry of Manifold Learning: Singular foliations via Deep Learning models"
+      },
+      "summary": {
+        "ko": "Deep learning algorithms have become widely used and successful across a wide range of tasks. A key challenge is determining whether these algorithms truly capture the intrinsic geometry of their training data in order to better understand what they learn from data. In this theoretical work, we explore a new geometric structure defined on the data space by a trained neural network through the Data Information Matrix (DIM), a variation of the Fisher Informa",
+        "en": "Deep learning algorithms have become widely used and successful across a wide range of tasks. A key challenge is determining whether these algorithms truly capture the intrinsic geometry of their training data in order to better understand what they learn from data. In this theoretical work, we explore a new geometric structure defined on the data space by a trained neural network through the Data Information Matrix (DIM), a variation of the Fisher Informa"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1e3ebf94e41ebe19",
+      "publishedAt": "2026-10-27T15:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/retell-ai",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Retell uses OpenAI models to help power 100M monthly calls",
+        "en": "Retell uses OpenAI models to help power 100M monthly calls"
+      },
+      "summary": {
+        "ko": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "en": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "006e800c98233f68",
+      "publishedAt": "2026-10-27T13:52:25Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37255v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+        "en": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces"
+      },
+      "summary": {
+        "ko": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and judged by how an already trained model performs under them, which assumes that what the model learned under one harness carries over to the next. We ask what a policy learns from its harness and what survives when the harness changes. Under KL-regularized contr",
+        "en": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and judged by how an already trained model performs under them, which assumes that what the model learned under one harness carries over to the next. We ask what a policy learns from its harness and what survives when the harness changes. Under KL-regularized contr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "908b03041a553d4f",
+      "publishedAt": "2026-10-27T12:21:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37119v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 52,
+      "title": {
+        "ko": "Fractal transference principle for conformal iterated function systems",
+        "en": "Fractal transference principle for conformal iterated function systems"
+      },
+      "summary": {
+        "ko": "We establish a complex one-dimensional fractal transference principle connecting density combinatorics with the fractal geometry of complex continued fractions. Our framework applies to a broad class of conformal iterated function systems indexed by lattice points, including those associated with the Hurwitz continued fraction, and transfers positive-density combinatorial patterns to digit sets while preserving the maximal Hausdorff dimension. As applicati",
+        "en": "We establish a complex one-dimensional fractal transference principle connecting density combinatorics with the fractal geometry of complex continued fractions. Our framework applies to a broad class of conformal iterated function systems indexed by lattice points, including those associated with the Hurwitz continued fraction, and transfers positive-density combinatorial patterns to digit sets while preserving the maximal Hausdorff dimension. As applicati"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "49b450c7c887f4c5",
+      "publishedAt": "2026-10-27T12:10:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37113v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Spectral delocalization and central limit theorems for Fourier functionals of stationary Gaussian fields",
+        "en": "Spectral delocalization and central limit theorems for Fourier functionals of stationary Gaussian fields"
+      },
+      "summary": {
+        "ko": "We characterize Gaussian fluctuations of Fourier-Hermite functionals of stationary Gaussian fields on locally compact Abelian groups via spectral delocalization: conditional on the total spectral sum being near the probed frequency, no partial sum concentrates. Under suitable assumptions, this reduces Gaussian convergence to small-ball estimates for convolution powers of the spectral measure, without model-specific contraction estimates. On $\\mathbb T^d$, ",
+        "en": "We characterize Gaussian fluctuations of Fourier-Hermite functionals of stationary Gaussian fields on locally compact Abelian groups via spectral delocalization: conditional on the total spectral sum being near the probed frequency, no partial sum concentrates. Under suitable assumptions, this reduces Gaussian convergence to small-ball estimates for convolution powers of the spectral measure, without model-specific contraction estimates. On $\\mathbb T^d$, "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "18871c2e97466842",
+      "publishedAt": "2026-10-27T11:23:00Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37053v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "A sparse canonical Rado theorem",
+        "en": "A sparse canonical Rado theorem"
+      },
+      "summary": {
+        "ko": "Canonical Ramsey theory studies structured colour patterns in colourings with arbitrarily many colours. Lefmann's canonical Rado theorem extends the canonical van der Waerden theorem of Erdős and Graham to partition-regular linear systems. Recently, Alvarado, Kohayakawa, Morris, Mota and Ortega proved a sparse canonical van der Waerden theorem for random set $[n]_p$. In this paper, we prove a sparse canonical Rado theorem. For every irredundant partition-r",
+        "en": "Canonical Ramsey theory studies structured colour patterns in colourings with arbitrarily many colours. Lefmann's canonical Rado theorem extends the canonical van der Waerden theorem of Erdős and Graham to partition-regular linear systems. Recently, Alvarado, Kohayakawa, Morris, Mota and Ortega proved a sparse canonical van der Waerden theorem for random set $[n]_p$. In this paper, we prove a sparse canonical Rado theorem. For every irredundant partition-r"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T22:47:57.462039Z",
+  "generatedAt": "2026-10-29T22:49:47.941745Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -58,6 +58,94 @@
     }
   ],
   "articles": [
+    {
+      "id": "9349f418e7bc7ab4",
+      "publishedAt": "2026-10-29T17:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "An updated Model Spec for more capable and beneficial AI",
+        "en": "An updated Model Spec for more capable and beneficial AI"
+      },
+      "summary": {
+        "ko": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0f01adb2acab0a67",
+      "publishedAt": "2026-10-29T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "How we detect frontier model misalignment",
+        "en": "How we detect frontier model misalignment"
+      },
+      "summary": {
+        "ko": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "en": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d948735545c20cf3",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "How Ropes & Gray is developing AI for transactional diligence",
+        "en": "How Ropes & Gray is developing AI for transactional diligence"
+      },
+      "summary": {
+        "ko": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "en": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "718617961cab3abc",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+      },
+      "summary": {
+        "ko": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "3e32bae570ff21ee",
       "publishedAt": "2026-10-28T17:00:58Z",
@@ -139,6 +227,28 @@
       "summary": {
         "ko": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
         "en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6e30f27552cd05a0",
+      "publishedAt": "2026-10-27T17:21:19Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37580v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "Spectral Braids: A Topological Descriptor for Dynamic Directed Networks",
+        "en": "Spectral Braids: A Topological Descriptor for Dynamic Directed Networks"
+      },
+      "summary": {
+        "ko": "Eigenvalues are a workhorse of graph machine learning: spectral clustering, spectral graph neural networks, and graph kernels all summarize a network by the eigenvalues of a matrix. These eigenvalues are almost always treated as a static list of numbers. When a graph changes, however, its eigenvalues move, and when the matrix is not symmetric, they move in the complex plane, where they can wind around each other. The pattern of this winding is a braid, a c",
+        "en": "Eigenvalues are a workhorse of graph machine learning: spectral clustering, spectral graph neural networks, and graph kernels all summarize a network by the eigenvalues of a matrix. These eigenvalues are almost always treated as a static list of numbers. When a graph changes, however, its eigenvalues move, and when the matrix is not symmetric, they move in the complex plane, where they can wind around each other. The pattern of this winding is a braid, a c"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -235,6 +345,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "fc558ae27cdde423",
+      "publishedAt": "2026-10-27T16:05:13Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37473v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions",
+        "en": "QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions"
+      },
+      "summary": {
+        "ko": "Quickest detection problems (QDPs) arise in a wide range of applications. However, the complementarity structure of the associated variational inequalities poses substantial challenges for traditional numerical methods, particularly in high-dimensional settings. We propose a PINN-based framework for estimating the optimal stopping boundary in QDPs with high-dimensional diffusion processes and spatial dependence, while overcoming the curse of dimensionality",
+        "en": "Quickest detection problems (QDPs) arise in a wide range of applications. However, the complementarity structure of the associated variational inequalities poses substantial challenges for traditional numerical methods, particularly in high-dimensional settings. We propose a PINN-based framework for estimating the optimal stopping boundary in QDPs with high-dimensional diffusion processes and spatial dependence, while overcoming the curse of dimensionality"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "82e97139ebb1a803",
+      "publishedAt": "2026-10-27T15:22:00Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37407v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution",
+        "en": "Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution"
+      },
+      "summary": {
+        "ko": "Agentic Entity Resolution (ER) systems iteratively plan actions, retrieve evidence, revise hypotheses, and propose graph mutations. An erroneous identity hypothesis may condition later retrieval and produce apparent confirmation. This paper proposes a Digital Identity Optimization (DIO) and Ontology of Digital Identity (ODI)-informed authorization boundary between evidence available for agent reasoning and evidence eligible to authorize persistent identity",
+        "en": "Agentic Entity Resolution (ER) systems iteratively plan actions, retrieve evidence, revise hypotheses, and propose graph mutations. An erroneous identity hypothesis may condition later retrieval and produce apparent confirmation. This paper proposes a Digital Identity Optimization (DIO) and Ontology of Digital Identity (ODI)-informed authorization boundary between evidence available for agent reasoning and evidence eligible to authorize persistent identity"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6cb927f001331e97",
+      "publishedAt": "2026-10-27T15:12:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37388v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Para-Gaussian Approximations of Random Deep Neural Networks",
+        "en": "Para-Gaussian Approximations of Random Deep Neural Networks"
+      },
+      "summary": {
+        "ko": "It is known that randomly initialized neural networks have Gaussian behaviour in the $n\\to \\infty$ limit. Unfortunately, this approximation can be poor for finite $n$ and gets worse as one goes deeper into the network. In this work, we develop a more accurate approximation that is \\emph{slightly} non-Gaussian, which we call the para-Gaussian distribution and is constructed from the Hermite polynomials. We show how this para-Gaussian approximation can lead ",
+        "en": "It is known that randomly initialized neural networks have Gaussian behaviour in the $n\\to \\infty$ limit. Unfortunately, this approximation can be poor for finite $n$ and gets worse as one goes deeper into the network. In this work, we develop a more accurate approximation that is \\emph{slightly} non-Gaussian, which we call the para-Gaussian distribution and is constructed from the Hermite polynomials. We show how this para-Gaussian approximation can lead "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5fc0e98aa4422b42",
       "publishedAt": "2026-10-27T15:02:29Z",
       "source": "arXiv",
@@ -279,6 +455,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "f36588d4ae914191",
+      "publishedAt": "2026-10-27T14:33:14Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37320v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "The window process of slightly subcritical frozen percolation",
+        "en": "The window process of slightly subcritical frozen percolation"
+      },
+      "summary": {
+        "ko": "We study the frozen percolation model on the complete graph $K_n$, where each edge appears at rate~$1/n$ and connected components are destroyed by lightning strikes hitting vertices at rate $λ_n$ (thus the rate at which a connected component is destroyed is linear in its size). We focus on the slightly subcritical sub-regime of the self-organized critical (SOC) regime, assuming $(\\ln n)^{4/3}n^{-1/3} \\ll λ_n \\ll 1$. Our main object of study is the so-calle",
+        "en": "We study the frozen percolation model on the complete graph $K_n$, where each edge appears at rate~$1/n$ and connected components are destroyed by lightning strikes hitting vertices at rate $λ_n$ (thus the rate at which a connected component is destroyed is linear in its size). We focus on the slightly subcritical sub-regime of the self-organized critical (SOC) regime, assuming $(\\ln n)^{4/3}n^{-1/3} \\ll λ_n \\ll 1$. Our main object of study is the so-calle"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "687393fb1cf50fc6",
+      "publishedAt": "2026-10-27T14:08:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37281v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "RPSD: Retrieval-Privileged On-Policy Self-Distillation with Optimal Transport",
+        "en": "RPSD: Retrieval-Privileged On-Policy Self-Distillation with Optimal Transport"
+      },
+      "summary": {
+        "ko": "Sequential recommendation predicts a user's next interaction from historical behavior. Recent LLM-based methods recast this task as generative recommendation and increasingly adopt reinforcement learning such as GRPO for post-training. However, these methods suffer from two limitations, namely credit-blind optimization, where a sequence-level reward is shared across all generated tokens, and collaborative-blind supervision, where each training signal is de",
+        "en": "Sequential recommendation predicts a user's next interaction from historical behavior. Recent LLM-based methods recast this task as generative recommendation and increasingly adopt reinforcement learning such as GRPO for post-training. However, these methods suffer from two limitations, namely credit-blind optimization, where a sequence-level reward is shared across all generated tokens, and collaborative-blind supervision, where each training signal is de"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f680968378df04e2",
+      "publishedAt": "2026-10-27T13:59:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37266v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Watermark Basins: Black-Box Detection of Distilled LLMs",
+        "en": "Watermark Basins: Black-Box Detection of Distilled LLMs"
+      },
+      "summary": {
+        "ko": "Proprietary language models and their reasoning traces are vulnerable to API-based distillation, where an adversary trains a student model on the teacher model's outputs. To obtain evidence of distillation, model providers can watermark the teacher's outputs, aiming to leave a radioactive signal in the student's outputs. Existing black-box detectors search for such radioactivity using token-level statistics of the suspect model's outputs. However, token-le",
+        "en": "Proprietary language models and their reasoning traces are vulnerable to API-based distillation, where an adversary trains a student model on the teacher model's outputs. To obtain evidence of distillation, model providers can watermark the teacher's outputs, aiming to leave a radioactive signal in the student's outputs. Existing black-box detectors search for such radioactivity using token-level statistics of the suspect model's outputs. However, token-le"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "006e800c98233f68",
       "publishedAt": "2026-10-27T13:52:25Z",
       "source": "arXiv",
@@ -293,6 +535,28 @@
       "summary": {
         "ko": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and judged by how an already trained model performs under them, which assumes that what the model learned under one harness carries over to the next. We ask what a policy learns from its harness and what survives when the harness changes. Under KL-regularized contr",
         "en": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and judged by how an already trained model performs under them, which assumes that what the model learned under one harness carries over to the next. We ask what a policy learns from its harness and what survives when the harness changes. Under KL-regularized contr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d2b3c127749566e8",
+      "publishedAt": "2026-10-27T13:42:48Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37237v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "GraphRAGProv: GraphRAG Meets How-Provenance",
+        "en": "GraphRAGProv: GraphRAG Meets How-Provenance"
+      },
+      "summary": {
+        "ko": "GraphRAG systems often use knowledge graphs to retrieve relevant context for an LLM that produces the final answer. That makes answers more inscrutable and therefore less appealing for domains where transparency is paramount. We present GraphRAGProv, an architecture that executes SPARQL queries over source-grounded RDF graphs to compute answers and their how-provenance polynomials. These polynomials record which statement occurrences were used and how they",
+        "en": "GraphRAG systems often use knowledge graphs to retrieve relevant context for an LLM that produces the final answer. That makes answers more inscrutable and therefore less appealing for domains where transparency is paramount. We present GraphRAGProv, an architecture that executes SPARQL queries over source-grounded RDF graphs to compute answers and their how-provenance polynomials. These polynomials record which statement occurrences were used and how they"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

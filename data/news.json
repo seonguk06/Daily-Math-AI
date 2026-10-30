@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T22:49:47.941745Z",
+  "generatedAt": "2026-10-30T22:45:29.136856Z",
   "demo": false,
   "health": {
     "ok": 7,
@@ -59,6 +59,94 @@
   ],
   "articles": [
     {
+      "id": "84abd1857de5dfd9",
+      "publishedAt": "2026-10-30T09:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Making it easier for websites to express AI training preferences",
+        "en": "Making it easier for websites to express AI training preferences"
+      },
+      "summary": {
+        "ko": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a86d24c59c826150",
+      "publishedAt": "2026-10-30T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Community safety report and new protections for teens",
+        "en": "Community safety report and new protections for teens"
+      },
+      "summary": {
+        "ko": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+        "en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "574dbaf7fc8731e4",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Fair use benefits everyone",
+        "en": "Fair use benefits everyone"
+      },
+      "summary": {
+        "ko": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7b4f6cb5d643aced",
+      "publishedAt": "2026-10-29T17:39:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40551v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 63,
+      "title": {
+        "ko": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs",
+        "en": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs"
+      },
+      "summary": {
+        "ko": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for mathematical constants whose correctness can be checked numerically, while their proofs may require non-obvious ",
+        "en": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for mathematical constants whose correctness can be checked numerically, while their proofs may require non-obvious "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "9349f418e7bc7ab4",
       "publishedAt": "2026-10-29T17:00:00Z",
       "source": "OpenAI",
@@ -73,6 +161,160 @@
       "summary": {
         "ko": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
         "en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "535d412dc13a9320",
+      "publishedAt": "2026-10-29T16:59:18Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40449v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Reinforcement learning for control of partial differential equations",
+        "en": "Reinforcement learning for control of partial differential equations"
+      },
+      "summary": {
+        "ko": "Controlling dynamical systems governed by partial differential equations (PDEs) remains a challenging task in scientific computing, owing to high-dimensional state spaces, distributed actuation, nonlinear dynamics, and stringent real-time constraints. Reinforcement learning (RL) has emerged as a promising paradigm for synthesizing feedback controllers that adapt to varying operating conditions and can be deployed efficiently in real-time. This review provi",
+        "en": "Controlling dynamical systems governed by partial differential equations (PDEs) remains a challenging task in scientific computing, owing to high-dimensional state spaces, distributed actuation, nonlinear dynamics, and stringent real-time constraints. Reinforcement learning (RL) has emerged as a promising paradigm for synthesizing feedback controllers that adapt to varying operating conditions and can be deployed efficiently in real-time. This review provi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "73e9ac0bbbc4f6d7",
+      "publishedAt": "2026-10-29T16:24:55Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40382v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 73,
+      "title": {
+        "ko": "Beyond Selected Breakthroughs: Evaluating Language Models on Randomly Sampled Mathematical Conjectures",
+        "en": "Beyond Selected Breakthroughs: Evaluating Language Models on Randomly Sampled Mathematical Conjectures"
+      },
+      "summary": {
+        "ko": "The last year has seen a shift in AI-assisted mathematics, with frontier language models producing proofs of and counterexamples to long-standing open conjectures. However, studying only the current set of major breakthroughs provides an incomplete picture of LLM capabilities and the computational resources needed to achieve reported results. To address this, we introduce a new dataset, OpenConjecture, which collects conjectures from mathematics papers pub",
+        "en": "The last year has seen a shift in AI-assisted mathematics, with frontier language models producing proofs of and counterexamples to long-standing open conjectures. However, studying only the current set of major breakthroughs provides an incomplete picture of LLM capabilities and the computational resources needed to achieve reported results. To address this, we introduce a new dataset, OpenConjecture, which collects conjectures from mathematics papers pub"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9eab66b98f90f9af",
+      "publishedAt": "2026-10-29T16:19:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40369v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "Half-Optimal Induced Matchings in Random Graphs: Online and Low-Degree Algorithms",
+        "en": "Half-Optimal Induced Matchings in Random Graphs: Online and Low-Degree Algorithms"
+      },
+      "summary": {
+        "ko": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver",
+        "en": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8388f793f49476f1",
+      "publishedAt": "2026-10-29T14:00:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40095v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "On the Erdős--Ginzburg--Ziv Problem for $\\mathbb{Z}_n^r$",
+        "en": "On the Erdős--Ginzburg--Ziv Problem for $\\mathbb{Z}_n^r$"
+      },
+      "summary": {
+        "ko": "The Erdős--Ginzburg--Ziv problem is a classical extremal problem in discrete geometry. We prove that, for all positive integers $n$ and $r$, every sequence of $4^r n$ lattice points in $\\mathbb{Z}^r$ contains $n$ points whose centroid is again a lattice point.",
+        "en": "The Erdős--Ginzburg--Ziv problem is a classical extremal problem in discrete geometry. We prove that, for all positive integers $n$ and $r$, every sequence of $4^r n$ lattice points in $\\mathbb{Z}^r$ contains $n$ points whose centroid is again a lattice point."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6960a3a736175699",
+      "publishedAt": "2026-10-29T13:54:41Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40082v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "A total variation threshold for the first coordinates of uniform parking functions via Lorentzian polynomials",
+        "en": "A total variation threshold for the first coordinates of uniform parking functions via Lorentzian polynomials"
+      },
+      "summary": {
+        "ko": "Let $π_n$ be a uniform parking function of size $n$. We determine the scale at which its first $k$ coordinates cease to be close in total variation to $k$ independent uniform variables on $\\{1,\\ldots,n\\}$. The distance is comparable to $1\\wedge \\sqrt{k\\log(k+1)/n}$, uniformly for $n\\ge2$ and $1\\le k\\le n$, and tends to one above the scale $n/\\log n$. At the critical scale $k\\simλn/\\log n$, it converges to $2Φ(\\sqrt{λ/π})-1$, where $Φ$ is the standard norma",
+        "en": "Let $π_n$ be a uniform parking function of size $n$. We determine the scale at which its first $k$ coordinates cease to be close in total variation to $k$ independent uniform variables on $\\{1,\\ldots,n\\}$. The distance is comparable to $1\\wedge \\sqrt{k\\log(k+1)/n}$, uniformly for $n\\ge2$ and $1\\le k\\le n$, and tends to one above the scale $n/\\log n$. At the critical scale $k\\simλn/\\log n$, it converges to $2Φ(\\sqrt{λ/π})-1$, where $Φ$ is the standard norma"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3969bf169e8a929f",
+      "publishedAt": "2026-10-29T12:19:33Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39911v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Least common multiples of polynomial values: averaging, ray classes, and Galois statistics",
+        "en": "Least common multiples of polynomial values: averaging, ray classes, and Galois statistics"
+      },
+      "summary": {
+        "ko": "We study analogues over number fields and the probabilistic congruence input that enters averaged versions of this problem. We prove an asymptotic formula for the least common multiple of ideals in a fixed ray class, record local equidistribution estimates for random $S_n$-polynomials, and give a conditional reduction of the averaged higher degree problem to explicit dispersion and large prime collision estimates. We also formulate an individual quadratic ",
+        "en": "We study analogues over number fields and the probabilistic congruence input that enters averaged versions of this problem. We prove an asymptotic formula for the least common multiple of ideals in a fixed ray class, record local equidistribution estimates for random $S_n$-polynomials, and give a conditional reduction of the averaged higher degree problem to explicit dispersion and large prime collision estimates. We also formulate an individual quadratic "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e52c52626111e47b",
+      "publishedAt": "2026-10-29T11:34:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39856v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Moments of characteristic polynomials at random matrix Gram points",
+        "en": "Moments of characteristic polynomials at random matrix Gram points"
+      },
+      "summary": {
+        "ko": "We evaluate the characteristic polynomial of a random unitary matrix at the points on the unit circle where the polynomial takes real values. In analogy to the Riemann zeta function we call these the ``random matrix Gram points''. On the random matrix side we answer in the affirmative a question of Richard Hall, who expected that zeta on the Gram points should be larger than typical. We prove that for any fixed positive $k$, the $2k$th moment of the charac",
+        "en": "We evaluate the characteristic polynomial of a random unitary matrix at the points on the unit circle where the polynomial takes real values. In analogy to the Riemann zeta function we call these the ``random matrix Gram points''. On the random matrix side we answer in the affirmative a question of Richard Hall, who expected that zeta on the Gram points should be larger than typical. We prove that for any fixed positive $k$, the $2k$th moment of the charac"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -117,6 +359,28 @@
       "summary": {
         "ko": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
         "en": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "85f94c0fe8f02a81",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/credit-saison",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "en": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot"
+      },
+      "summary": {
+        "ko": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+        "en": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

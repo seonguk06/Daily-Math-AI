@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T22:45:29.136856Z",
+  "generatedAt": "2026-10-31T22:42:17.039348Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -125,6 +125,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "9e95b3dbb8b3923d",
+      "publishedAt": "2026-10-29T17:55:25Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40618v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "An ODE-based Sampler for Discrete Diffusion Models",
+        "en": "An ODE-based Sampler for Discrete Diffusion Models"
+      },
+      "summary": {
+        "ko": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consistency distillation. In this paper we address the question whether an analogous formulation exists for discrete diffusion models and answer it affirmatively by introducing exponential residual flows (ERFs). Our framework augments the discrete",
+        "en": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consistency distillation. In this paper we address the question whether an analogous formulation exists for discrete diffusion models and answer it affirmatively by introducing exponential residual flows (ERFs). Our framework augments the discrete"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "7b4f6cb5d643aced",
       "publishedAt": "2026-10-29T17:39:04Z",
       "source": "arXiv",
@@ -139,6 +161,28 @@
       "summary": {
         "ko": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for mathematical constants whose correctness can be checked numerically, while their proofs may require non-obvious ",
         "en": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for mathematical constants whose correctness can be checked numerically, while their proofs may require non-obvious "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7e842044afca8984",
+      "publishedAt": "2026-10-29T17:20:31Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40503v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "Algebraic World Model: From Exploration to Proofs",
+        "en": "Algebraic World Model: From Exploration to Proofs"
+      },
+      "summary": {
+        "ko": "AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specifications. This raises a natural question: can it reason rigorously about an unknown world? We introduce the Algebraic World Model (AWM), a framework that turns interaction with unfamiliar environments into explicit mathematical models supporting formal reasoning. AW",
+        "en": "AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specifications. This raises a natural question: can it reason rigorously about an unknown world? We introduce the Algebraic World Model (AWM), a framework that turns interaction with unfamiliar environments into explicit mathematical models supporting formal reasoning. AW"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -191,6 +235,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "45c751d922ec1dd2",
+      "publishedAt": "2026-10-29T16:44:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40418v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting",
+        "en": "IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting"
+      },
+      "summary": {
+        "ko": "This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting model is built on a four-branch architecture that separately encodes plant-level temporal history and inverter-level spatial cloud dynamics through a graph attention encoder with a learned adjacency, known-future solar geometry, and the current meteorological state, fused through gated cross-atte",
+        "en": "This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting model is built on a four-branch architecture that separately encodes plant-level temporal history and inverter-level spatial cloud dynamics through a graph attention encoder with a learned adjacency, known-future solar geometry, and the current meteorological state, fused through gated cross-atte"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7c3b45b058ff3eb1",
+      "publishedAt": "2026-10-29T16:32:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40394v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+        "en": "Scaling Mathematical Proof Supervision from Structured Textbooks"
+      },
+      "summary": {
+        "ko": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K structured proof-supervision records while preserving chapt",
+        "en": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K structured proof-supervision records while preserving chapt"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "73e9ac0bbbc4f6d7",
       "publishedAt": "2026-10-29T16:24:55Z",
       "source": "arXiv",
@@ -227,6 +315,28 @@
       "summary": {
         "ko": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver",
         "en": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "416a150c890fa23e",
+      "publishedAt": "2026-10-29T14:32:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40145v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 39,
+      "title": {
+        "ko": "A lifted entropy splitting lemma and applications",
+        "en": "A lifted entropy splitting lemma and applications"
+      },
+      "summary": {
+        "ko": "We give a matrix lifting of the entropy-splitting theorem of Csiszár, Körner, Lovász, Marton, and Simonyi, and show several applications. We use it to prove the Cartesian-product inequality conjectured by Sinjorgo and Sotirov for the generalized Lovász theta number, and we also answer the saturation and convexification questions of Carli Silva, Coutinho, Oliveira, and Tunçel on the same theme. For the strong Hoffman bound, we answer a question of Wocjan, E",
+        "en": "We give a matrix lifting of the entropy-splitting theorem of Csiszár, Körner, Lovász, Marton, and Simonyi, and show several applications. We use it to prove the Cartesian-product inequality conjectured by Sinjorgo and Sotirov for the generalized Lovász theta number, and we also answer the saturation and convexification questions of Carli Silva, Coutinho, Oliveira, and Tunçel on the same theme. For the strong Hoffman bound, we answer a question of Wocjan, E"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -279,6 +389,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "97c18cc83738e99b",
+      "publishedAt": "2026-10-29T12:26:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39920v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Lie point symmetry analysis of a dependent jump-diffusion risk model with exponential claim sizes",
+        "en": "Lie point symmetry analysis of a dependent jump-diffusion risk model with exponential claim sizes"
+      },
+      "summary": {
+        "ko": "We carry out a Lie point symmetry analysis of the coupled integro-differential system satisfied by the conditional Gerber--Shiu functions of a dependent jump-diffusion risk model. In the model, claim sizes are exponential, the intensity of the next claim arrival depends on whether the current claim exceeds a random threshold, and both the volatility and the premium rate may depend on the surplus. We write the system as the restriction to the half-line of a",
+        "en": "We carry out a Lie point symmetry analysis of the coupled integro-differential system satisfied by the conditional Gerber--Shiu functions of a dependent jump-diffusion risk model. In the model, claim sizes are exponential, the intensity of the next claim arrival depends on whether the current claim exceeds a random threshold, and both the volatility and the premium rate may depend on the surplus. We write the system as the restriction to the half-line of a"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "3969bf169e8a929f",
       "publishedAt": "2026-10-29T12:19:33Z",
       "source": "arXiv",
@@ -301,6 +433,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "8a3ed52357314f38",
+      "publishedAt": "2026-10-29T12:18:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39908v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 39,
+      "title": {
+        "ko": "Low-rank matrices with three prescribed off-diagonal values over $\\mathbb{F}_p$",
+        "en": "Low-rank matrices with three prescribed off-diagonal values over $\\mathbb{F}_p$"
+      },
+      "summary": {
+        "ko": "Let $p$ be a prime such that $2$ is a primitive root modulo $p$. We prove that, for every three-element set $L\\subseteq\\mathbb{F}_p$ and every integer $n\\geq1$, there exists a symmetric $n\\times n$ matrix over $\\mathbb{F}_p$ with zero diagonal, off-diagonal entries in $L$, and rank $O_{p,L}(n^{1/3})$. This answers a question of Bukh for all such primes and, in particular, settles the case $L=\\{1,4,6\\}\\subseteq\\mathbb{F}_{19}$ singled out on his problem lis",
+        "en": "Let $p$ be a prime such that $2$ is a primitive root modulo $p$. We prove that, for every three-element set $L\\subseteq\\mathbb{F}_p$ and every integer $n\\geq1$, there exists a symmetric $n\\times n$ matrix over $\\mathbb{F}_p$ with zero diagonal, off-diagonal entries in $L$, and rank $O_{p,L}(n^{1/3})$. This answers a question of Bukh for all such primes and, in particular, settles the case $L=\\{1,4,6\\}\\subseteq\\mathbb{F}_{19}$ singled out on his problem lis"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "e52c52626111e47b",
       "publishedAt": "2026-10-29T11:34:34Z",
       "source": "arXiv",
@@ -315,6 +469,28 @@
       "summary": {
         "ko": "We evaluate the characteristic polynomial of a random unitary matrix at the points on the unit circle where the polynomial takes real values. In analogy to the Riemann zeta function we call these the ``random matrix Gram points''. On the random matrix side we answer in the affirmative a question of Richard Hall, who expected that zeta on the Gram points should be larger than typical. We prove that for any fixed positive $k$, the $2k$th moment of the charac",
         "en": "We evaluate the characteristic polynomial of a random unitary matrix at the points on the unit circle where the polynomial takes real values. In analogy to the Riemann zeta function we call these the ``random matrix Gram points''. On the random matrix side we answer in the affirmative a question of Richard Hall, who expected that zeta on the Gram points should be larger than typical. We prove that for any fixed positive $k$, the $2k$th moment of the charac"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d358e0409f5ef2a1",
+      "publishedAt": "2026-10-29T10:44:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39799v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Solid Arithmetic D-modules",
+        "en": "Solid Arithmetic D-modules"
+      },
+      "summary": {
+        "ko": "We introduce a solid ring of arithmetic differential operators analogue to Berthelot's D-dagger, and its derived infinity-category of solid quasi-coherent modules. We show that there is a fully faithful functor from Berthelot's derived category of bounded complexes of D-dagger-modules with coherent cohomology into our new category.",
+        "en": "We introduce a solid ring of arithmetic differential operators analogue to Berthelot's D-dagger, and its derived infinity-category of solid quasi-coherent modules. We show that there is a fully faithful functor from Berthelot's derived category of bounded complexes of D-dagger-modules with coherent cohomology into our new category."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

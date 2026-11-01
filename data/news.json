@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T22:42:17.039348Z",
+  "generatedAt": "2026-11-01T22:42:53.893726Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -147,6 +147,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "09813ad3bba008a8",
+      "publishedAt": "2026-10-29T17:47:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40589v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+        "en": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins"
+      },
+      "summary": {
+        "ko": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Here, we present an autonomous research laboratory in which agents based on large language models assess one another's work and can stop or redirect investigations. T",
+        "en": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Here, we present an autonomous research laboratory in which agents based on large language models assess one another's work and can stop or redirect investigations. T"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8d57a35c344cc10d",
+      "publishedAt": "2026-10-29T17:40:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40560v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "FARMS: A Verifiable Foundation for Automated Computational Science",
+        "en": "FARMS: A Verifiable Foundation for Automated Computational Science"
+      },
+      "summary": {
+        "ko": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and reuse with explicit guarantees. Here we present FARMS, a faithful and efficient foundation that transforms computational mathematics into AI-ready computing knowledge. FARMS connects formal statements to source context, algorithmic meaning and quantitative guarant",
+        "en": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and reuse with explicit guarantees. Here we present FARMS, a faithful and efficient foundation that transforms computational mathematics into AI-ready computing knowledge. FARMS connects formal statements to source context, algorithmic meaning and quantitative guarant"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "7b4f6cb5d643aced",
       "publishedAt": "2026-10-29T17:39:04Z",
       "source": "arXiv",
@@ -257,6 +301,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "1b0b8b60589f5948",
+      "publishedAt": "2026-10-29T16:39:17Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40408v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Geometric Proofs of Riemann-Type Theta Relations",
+        "en": "Geometric Proofs of Riemann-Type Theta Relations"
+      },
+      "summary": {
+        "ko": "We present a geometric method for deriving theta function identities from automorphisms of positive definite quadratic forms. Given an automorphism of a quadratic form with matrix $A$, we construct a rational isometry of $I_n\\otimes A$ that fixes the diagonal subspace pointwise. Elementary lattice decompositions and finite character sums then yield explicit transformation formulas for the associated theta functions. As applications, we give a geometric pro",
+        "en": "We present a geometric method for deriving theta function identities from automorphisms of positive definite quadratic forms. Given an automorphism of a quadratic form with matrix $A$, we construct a rational isometry of $I_n\\otimes A$ that fixes the diagonal subspace pointwise. Elementary lattice decompositions and finite character sums then yield explicit transformation formulas for the associated theta functions. As applications, we give a geometric pro"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "72c72b0d81ab995a",
+      "publishedAt": "2026-10-29T16:38:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40407v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "SCARL: Sequence Confidence-Aligned Reinforcement Learning",
+        "en": "SCARL: Sequence Confidence-Aligned Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Reinforcement learning with verifiable rewards (RLVR) improves language-model reasoning by scoring sampled responses with a rule-based verifier and reinforcing those that pass. Where a classifier's training couples predicted probability to labels, nothing ties an RLVR policy's confidence in a response to its reward: aligned training would drive responses with the same advantage toward equal confidence, yet the advantage is blind to confidence. Under this s",
+        "en": "Reinforcement learning with verifiable rewards (RLVR) improves language-model reasoning by scoring sampled responses with a rule-based verifier and reinforcing those that pass. Where a classifier's training couples predicted probability to labels, nothing ties an RLVR policy's confidence in a response to its reward: aligned training would drive responses with the same advantage toward equal confidence, yet the advantage is blind to confidence. Under this s"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "7c3b45b058ff3eb1",
       "publishedAt": "2026-10-29T16:32:59Z",
       "source": "arXiv",
@@ -315,6 +403,28 @@
       "summary": {
         "ko": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver",
         "en": "For many optimization problems on random graphs, most prominently the largest independent set problem, natural algorithms reach only half the optimum, and such factor-two gaps are known to be sharp within broad algorithmic classes. We prove such a gap for finding large induced matchings in Erdős-Rényi random graphs. In the worst case, requiring a matching to be induced turns a polynomial-time solvable problem into an NP-hard one; our results reveal an aver"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "aa1a4adf933c7fb7",
+      "publishedAt": "2026-10-29T14:58:32Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.40214v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 33,
+      "title": {
+        "ko": "DYNAS: A Dynamic Network Penetration Testing Framework Using Deep Hierarchical Reinforcement Learning",
+        "en": "DYNAS: A Dynamic Network Penetration Testing Framework Using Deep Hierarchical Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "As network scale and uncertainty complicate automated penetration testing, reinforcement learning (RL) environments must support controlled evaluation under defensive and non-stationary conditions. We present DYNAS (Dynamic Network Attack Simulator), which combines parameterized large-scale scenario generation with stateful intrusion detection responses, explicit scan false-positive and false-negative noise, temporary service unavailability, and duration-b",
+        "en": "As network scale and uncertainty complicate automated penetration testing, reinforcement learning (RL) environments must support controlled evaluation under defensive and non-stationary conditions. We present DYNAS (Dynamic Network Attack Simulator), which combines parameterized large-scale scenario generation with stateful intrusion detection responses, explicit scan false-positive and false-negative noise, temporary service unavailability, and duration-b"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -389,6 +499,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "e9fd3602e10e50f9",
+      "publishedAt": "2026-10-29T12:50:33Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39953v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 36,
+      "title": {
+        "ko": "On self-similar random quotients of the line",
+        "en": "On self-similar random quotients of the line"
+      },
+      "summary": {
+        "ko": "A surprisingly wide variety of important random fractal metric spaces in modern probability theory can be viewed as self-similar random quotients of the real line, including the continuum random tree, Liouville quantum gravity surfaces, the trace of Brownian motion in $\\mathbb{R}^d$, and self-similar ($s=2d$) long-range percolation on $\\mathbb{R}$. We prove that the metric and resistance growth dimensions are well-defined in a certain sense for every rando",
+        "en": "A surprisingly wide variety of important random fractal metric spaces in modern probability theory can be viewed as self-similar random quotients of the real line, including the continuum random tree, Liouville quantum gravity surfaces, the trace of Brownian motion in $\\mathbb{R}^d$, and self-similar ($s=2d$) long-range percolation on $\\mathbb{R}$. We prove that the metric and resistance growth dimensions are well-defined in a certain sense for every rando"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "97c18cc83738e99b",
       "publishedAt": "2026-10-29T12:26:38Z",
       "source": "arXiv",
@@ -447,6 +579,50 @@
       "summary": {
         "ko": "Let $p$ be a prime such that $2$ is a primitive root modulo $p$. We prove that, for every three-element set $L\\subseteq\\mathbb{F}_p$ and every integer $n\\geq1$, there exists a symmetric $n\\times n$ matrix over $\\mathbb{F}_p$ with zero diagonal, off-diagonal entries in $L$, and rank $O_{p,L}(n^{1/3})$. This answers a question of Bukh for all such primes and, in particular, settles the case $L=\\{1,4,6\\}\\subseteq\\mathbb{F}_{19}$ singled out on his problem lis",
         "en": "Let $p$ be a prime such that $2$ is a primitive root modulo $p$. We prove that, for every three-element set $L\\subseteq\\mathbb{F}_p$ and every integer $n\\geq1$, there exists a symmetric $n\\times n$ matrix over $\\mathbb{F}_p$ with zero diagonal, off-diagonal entries in $L$, and rank $O_{p,L}(n^{1/3})$. This answers a question of Bukh for all such primes and, in particular, settles the case $L=\\{1,4,6\\}\\subseteq\\mathbb{F}_{19}$ singled out on his problem lis"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "078510db1176e174",
+      "publishedAt": "2026-10-29T11:51:52Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39874v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 36,
+      "title": {
+        "ko": "Isospectral congruence manifolds, spectral rigidity, and a converse to Vignéras",
+        "en": "Isospectral congruence manifolds, spectral rigidity, and a converse to Vignéras"
+      },
+      "summary": {
+        "ko": "Let $B$ be a quaternion division algebra over a number field $k$ that gives rise to arithmetic Fuchsian or Kleinian groups, and let $\\mathcal{O}$ be a maximal order of $B$. We show that every closed orientable Riemannian manifold isospectral to a principal congruence hyperbolic surface $X_\\mathcal{O}(\\mathfrak{a})$ is isometric to $X_{\\mathcal{O}'}(\\mathfrak{a})$ for some maximal order $\\mathcal{O}'$ of $B$, provided that no prime factor of $\\mathfrak{a}$ ",
+        "en": "Let $B$ be a quaternion division algebra over a number field $k$ that gives rise to arithmetic Fuchsian or Kleinian groups, and let $\\mathcal{O}$ be a maximal order of $B$. We show that every closed orientable Riemannian manifold isospectral to a principal congruence hyperbolic surface $X_\\mathcal{O}(\\mathfrak{a})$ is isometric to $X_{\\mathcal{O}'}(\\mathfrak{a})$ for some maximal order $\\mathcal{O}'$ of $B$, provided that no prime factor of $\\mathfrak{a}$ "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7c68b584c4f2cce9",
+      "publishedAt": "2026-10-29T11:40:09Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.39863v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 39,
+      "title": {
+        "ko": "From Trees to Binary Trees: Approximation Algorithms and a PTAS",
+        "en": "From Trees to Binary Trees: Approximation Algorithms and a PTAS"
+      },
+      "summary": {
+        "ko": "Kellerhals, Krebs, Nichterlein, and Schmid introduced the optimization problem Tree in Binary Tree (TBT), where, given a tree $T$, the task is to find a binary tree $S^*$ with $V(T)=V(S^*)$ that minimizes $\\sum_{uv\\in E(T)} \\operatorname{dist}_{S^*}(u,v)$. They also introduced the variant Tree in Binary Tree With Steiner Nodes (TBT-SN), where the condition $V(T)=V(S^*)$ is relaxed to $V(T)\\subseteq V(S^*)$. We give a simple linear-time $\\frac{8}{3}$-approx",
+        "en": "Kellerhals, Krebs, Nichterlein, and Schmid introduced the optimization problem Tree in Binary Tree (TBT), where, given a tree $T$, the task is to find a binary tree $S^*$ with $V(T)=V(S^*)$ that minimizes $\\sum_{uv\\in E(T)} \\operatorname{dist}_{S^*}(u,v)$. They also introduced the variant Tree in Binary Tree With Steiner Nodes (TBT-SN), where the condition $V(T)=V(S^*)$ is relaxed to $V(T)\\subseteq V(S^*)$. We give a simple linear-time $\\frac{8}{3}$-approx"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

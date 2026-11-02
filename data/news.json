@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T22:42:53.893726Z",
+  "generatedAt": "2026-11-02T22:50:06.030483Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -59,6 +59,248 @@
   ],
   "articles": [
     {
+      "id": "5d33ed0c66ace544",
+      "publishedAt": "2026-11-02T15:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Introducing the Grid Protectors Program",
+        "en": "Introducing the Grid Protectors Program"
+      },
+      "summary": {
+        "ko": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+        "en": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5a014341bc3fc0f1",
+      "publishedAt": "2026-11-02T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lifeval",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "LifeVal",
+        "en": "LifeVal"
+      },
+      "summary": {
+        "ko": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4094d4340f9e66f9",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "category": "ai",
+      "kind": "article",
+      "score": 44,
+      "title": {
+        "ko": "Qodo builds context into AI code review with Codex",
+        "en": "Qodo builds context into AI code review with Codex"
+      },
+      "summary": {
+        "ko": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8a17364a41eb6950",
+      "publishedAt": "2026-10-30T17:47:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.42107v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Band Random Graphs: Connectivity, Geometry, and Transport",
+        "en": "Band Random Graphs: Connectivity, Geometry, and Transport"
+      },
+      "summary": {
+        "ko": "Let $G(n,p,m)$ be the random subgraph of the cycle power $C_n^m$ obtained by retaining each edge independently with probability $p$. We study connectivity, component geometry, and random walks throughout the regime $\\log n\\ll m 1$, uniformly over $p\\geq c\\log n/(2m)$, the lazy-walk spectral gap is asymptotic in probability to that of $C_n^m$. In the same range, the mean hitting time of simple random walk satisfies, uniformly over distinct $x,y$, $$ H_G(x,y",
+        "en": "Let $G(n,p,m)$ be the random subgraph of the cycle power $C_n^m$ obtained by retaining each edge independently with probability $p$. We study connectivity, component geometry, and random walks throughout the regime $\\log n\\ll m 1$, uniformly over $p\\geq c\\log n/(2m)$, the lazy-walk spectral gap is asymptotic in probability to that of $C_n^m$. In the same range, the mean hitting time of simple random walk satisfies, uniformly over distinct $x,y$, $$ H_G(x,y"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "293d9ee4740f0abc",
+      "publishedAt": "2026-10-30T17:46:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.42104v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "Hyperbolic Inverse Reinforcement Learning",
+        "en": "Hyperbolic Inverse Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the underlying features. While prior IRL reward functions have been implemented through a variety of techniques including linear weights, neural networks, or other function approximators, none make assumptions about the geometry of the underlying feature space. Insp",
+        "en": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the underlying features. While prior IRL reward functions have been implemented through a variety of techniques including linear weights, neural networks, or other function approximators, none make assumptions about the geometry of the underlying feature space. Insp"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a28043250cae5d18",
+      "publishedAt": "2026-10-30T16:54:16Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.42024v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation",
+        "en": "Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) can help discover mathematical equations from data, but most LLM-guided symbolic regression methods focus on a single best equation without quantifying uncertainty over alternative functional forms. This is challenging because distinct equations can fit the observed data similarly while producing substantially different extrapolations. Our experiments on the LLM-SRBench dataset show that standard conformal intervals achieve nom",
+        "en": "Large language models (LLMs) can help discover mathematical equations from data, but most LLM-guided symbolic regression methods focus on a single best equation without quantifying uncertainty over alternative functional forms. This is challenging because distinct equations can fit the observed data similarly while producing substantially different extrapolations. Our experiments on the LLM-SRBench dataset show that standard conformal intervals achieve nom"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "363a956b20caa319",
+      "publishedAt": "2026-10-30T16:05:17Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41949v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning",
+        "en": "Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Few-step flow models generate samples through a handful of large denoising transitions. Applying GRPO to such models requires introducing stochasticity into the denoising transitions, and when a single transition spans a wide range of noise levels, the choice of the resulting stochastic policy becomes a major factor in optimization. Recent constructions constrain the policy to preserve the target flow coefficients, but this constraint admits a family of po",
+        "en": "Few-step flow models generate samples through a handful of large denoising transitions. Applying GRPO to such models requires introducing stochasticity into the denoising transitions, and when a single transition spans a wide range of noise levels, the choice of the resulting stochastic policy becomes a major factor in optimization. Recent constructions constrain the policy to preserve the target flow coefficients, but this constraint admits a family of po"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6a2ab7e2181a09df",
+      "publishedAt": "2026-10-30T14:42:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41822v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Trainable Vector Quantization for Large Language Models",
+        "en": "Trainable Vector Quantization for Large Language Models"
+      },
+      "summary": {
+        "ko": "Vector Quantization (VQ) is a rapidly evolving technique for compressing Large Language Model (LLM) weights, reducing memory usage, and speeding up inference. However, extreme compression deteriorates model performance, which is challenging to recover due to the discrete nature of VQ parameters. Existing methods employ training-free approaches that are limited to layer-wise reconstruction loss minimization. To address this limitation, we propose TVQ, a nov",
+        "en": "Vector Quantization (VQ) is a rapidly evolving technique for compressing Large Language Model (LLM) weights, reducing memory usage, and speeding up inference. However, extreme compression deteriorates model performance, which is challenging to recover due to the discrete nature of VQ parameters. Existing methods employ training-free approaches that are limited to layer-wise reconstruction loss minimization. To address this limitation, we propose TVQ, a nov"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7e0889f04add26a5",
+      "publishedAt": "2026-10-30T14:30:47Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41803v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 47,
+      "title": {
+        "ko": "What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer",
+        "en": "What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer"
+      },
+      "summary": {
+        "ko": "Detectors can flag hijacked large language model (LLM) agents from the traces of the tools they call. In the eleven evaluations we audited, attacks or anomalies make up 16% to 86% of the test samples, no evaluation varies that share, and six report no test on data from a second benchmark or source. We ask what such evaluations hide. On the AgentDrift and AgentDojo benchmarks we test trained detectors that read tool identities, behavior, call sequences, ste",
+        "en": "Detectors can flag hijacked large language model (LLM) agents from the traces of the tools they call. In the eleven evaluations we audited, attacks or anomalies make up 16% to 86% of the test samples, no evaluation varies that share, and six report no test on data from a second benchmark or source. We ask what such evaluations hide. On the AgentDrift and AgentDojo benchmarks we test trained detectors that read tool identities, behavior, call sequences, ste"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "59623d61a7aaaf73",
+      "publishedAt": "2026-10-30T14:18:30Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+      "category": "ai",
+      "kind": "article",
+      "score": 49,
+      "title": {
+        "ko": "Speeding up planning decisions with AI",
+        "en": "Speeding up planning decisions with AI"
+      },
+      "summary": {
+        "ko": "Google DeepMind and UK government work together to reduce planning assessment times",
+        "en": "Google DeepMind and UK government work together to reduce planning assessment times"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4e4d198f6a8881a2",
+      "publishedAt": "2026-10-30T10:59:49Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41569v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 52,
+      "title": {
+        "ko": "On sign patterns of Fourier coefficients of theta quotients",
+        "en": "On sign patterns of Fourier coefficients of theta quotients"
+      },
+      "summary": {
+        "ko": "Motivated by conjectures of Schlosser and Zhou on sign patterns of Fourier coefficients of infinite products, we study two families of theta quotients and their positive integral powers. We determine asymptotic formulas for their Fourier coefficients and use them to obtain explicit eventual periodic sign patterns. Our results provide new instances of the sign phenomena observed by Schlosser and Zhou and illustrate how dominant cusps determine the resulting",
+        "en": "Motivated by conjectures of Schlosser and Zhou on sign patterns of Fourier coefficients of infinite products, we study two families of theta quotients and their positive integral powers. We determine asymptotic formulas for their Fourier coefficients and use them to obtain explicit eventual periodic sign patterns. Our results provide new instances of the sign phenomena observed by Schlosser and Zhou and illustrate how dominant cusps determine the resulting"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "84abd1857de5dfd9",
       "publishedAt": "2026-10-30T09:30:00Z",
       "source": "OpenAI",
@@ -95,6 +337,28 @@
       "summary": {
         "ko": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
         "en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fef79b9e5f21cacb",
+      "publishedAt": "2026-10-30T06:43:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41325v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "A reciprocal Schoenberg inequality and its extensions",
+        "en": "A reciprocal Schoenberg inequality and its extensions"
+      },
+      "summary": {
+        "ko": "We study reciprocal moments of the critical points of a polynomial with a simple zero at the origin. A positive similarity transforms a reciprocal derivative companion into a complex symmetric matrix. This gives a short proof of the reciprocal Schoenberg inequality and a refinement for every elementary symmetric function. We determine the optimal constants in the corresponding inequalities for every positive exponent, including the sublinear range, and ext",
+        "en": "We study reciprocal moments of the critical points of a polynomial with a simple zero at the origin. A positive similarity transforms a reciprocal derivative companion into a complex symmetric matrix. This gives a short proof of the reciprocal Schoenberg inequality and a refinement for every elementary symmetric function. We determine the optimal constants in the corresponding inequalities for every positive exponent, including the sublinear range, and ext"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

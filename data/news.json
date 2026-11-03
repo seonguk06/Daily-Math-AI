@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T22:50:06.030483Z",
+  "generatedAt": "2026-11-03T22:52:35.215348Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,248 @@
   ],
   "articles": [
     {
+      "id": "8d86676710497099",
+      "publishedAt": "2026-11-03T17:15:21Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "StateBench: Testing how language models track state changes over long documents",
+        "en": "StateBench: Testing how language models track state changes over long documents"
+      },
+      "summary": {
+        "ko": "StateBench: Testing how language models track state changes over long documents",
+        "en": "StateBench: Testing how language models track state changes over long documents"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "23c4f130369cb972",
+      "publishedAt": "2026-11-03T17:01:49Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Agentic cheminformatics with Google Antigravity",
+        "en": "Agentic cheminformatics with Google Antigravity"
+      },
+      "summary": {
+        "ko": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fc87a45dcfbf03d4",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Heimstaden is changing residential real estate management with AI",
+        "en": "Heimstaden is changing residential real estate management with AI"
+      },
+      "summary": {
+        "ko": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+        "en": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "34e7d62615202d0d",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Cisco defends at machine speed with OpenAI",
+        "en": "How Cisco defends at machine speed with OpenAI"
+      },
+      "summary": {
+        "ko": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+        "en": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "019edb616369c332",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
+      },
+      "summary": {
+        "ko": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+        "en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a6f54d325d31634f",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "Transformers Model Integration Contracts",
+        "en": "Transformers Model Integration Contracts"
+      },
+      "summary": {
+        "ko": "Transformers Model Integration Contracts",
+        "en": "Transformers Model Integration Contracts"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f2751631c0ee308c",
+      "publishedAt": "2026-11-02T18:17:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03555v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
+        "en": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study"
+      },
+      "summary": {
+        "ko": "The Model Context Protocol (MCP) lets agentic AI frameworks connect language models to external tool providers, but it carries attacker-controlled content (tool descriptions, schema fields, and response data) into model context without validation. Prior benchmarks measure model compliance with poisoned instructions without confirming real execution. We present the first cross-framework measurement of MCP tool poisoning with real tool execution. A 25-class ",
+        "en": "The Model Context Protocol (MCP) lets agentic AI frameworks connect language models to external tool providers, but it carries attacker-controlled content (tool descriptions, schema fields, and response data) into model context without validation. Prior benchmarks measure model compliance with poisoned instructions without confirming real execution. We present the first cross-framework measurement of MCP tool poisoning with real tool execution. A 25-class "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0d297090385ad5a7",
+      "publishedAt": "2026-11-02T18:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Preparing our next security sprint to harden OpenAI",
+        "en": "Preparing our next security sprint to harden OpenAI"
+      },
+      "summary": {
+        "ko": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "en": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e15d0ffba712acef",
+      "publishedAt": "2026-11-02T16:20:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03377v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks",
+        "en": "Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks"
+      },
+      "summary": {
+        "ko": "Every multimodal-LLM multiple-choice benchmark ends with a scoring rule that converts a model's response, often free-form text rather than a clean option letter, into a right/wrong verdict, buried in its code. Unlike the dataset, this rule is chosen without justification and left unexamined, yet it sets the published number. We reproduce the official scorers of eight peer-reviewed benchmarks on five open vision-language models (VLMs) that fit a single 16 G",
+        "en": "Every multimodal-LLM multiple-choice benchmark ends with a scoring rule that converts a model's response, often free-form text rather than a clean option letter, into a right/wrong verdict, buried in its code. Unlike the dataset, this rule is chosen without justification and left unexamined, yet it sets the published number. We reproduce the official scorers of eight peer-reviewed benchmarks on five open vision-language models (VLMs) that fit a single 16 G"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9f8b76bc7f95aca5",
+      "publishedAt": "2026-11-02T15:31:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03293v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning",
+        "en": "ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning"
+      },
+      "summary": {
+        "ko": "Zeroth-order (ZO) optimization enables memory-efficient large language model (LLM) fine-tuning, and recent methods incorporate curvature-aware strategies. However, in the high-dimensional parameter space of LLMs, these methods inherently suffer from exploding gradient variance and prohibitive costs. Conversely, confining updates to a low-dimensional subspace reduces variance but discards critical high-dimensional information, degrading performance. This cr",
+        "en": "Zeroth-order (ZO) optimization enables memory-efficient large language model (LLM) fine-tuning, and recent methods incorporate curvature-aware strategies. However, in the high-dimensional parameter space of LLMs, these methods inherently suffer from exploding gradient variance and prohibitive costs. Conversely, confining updates to a low-dimensional subspace reduces variance but discards critical high-dimensional information, degrading performance. This cr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5f796bfd2bcb305a",
+      "publishedAt": "2026-11-02T15:07:18Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03260v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning",
+        "en": "The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Zeroth-order (ZO) optimization has emerged as a promising approach for memory-efficient large language model (LLM) post-training, yet its reliable application to reinforcement learning with verifiable rewards (RLVR) remains largely unexplored. Motivated by the distinct data regimes of on-policy RL and fixed-data optimization, we develop a generic variance-theoretic framework to investigate what limits the reliability of ZO gradient estimation. Our analysis",
+        "en": "Zeroth-order (ZO) optimization has emerged as a promising approach for memory-efficient large language model (LLM) post-training, yet its reliable application to reinforcement learning with verifiable rewards (RLVR) remains largely unexplored. Motivated by the distinct data regimes of on-policy RL and fixed-data optimization, we develop a generic variance-theoretic framework to investigate what limits the reliability of ZO gradient estimation. Our analysis"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5d33ed0c66ace544",
       "publishedAt": "2026-11-02T15:00:00Z",
       "source": "OpenAI",
@@ -81,6 +323,94 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "f8d43d45e84df800",
+      "publishedAt": "2026-11-02T14:48:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03233v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "Axion 1.0: Open Agent Foundation Models, Simplified",
+        "en": "Axion 1.0: Open Agent Foundation Models, Simplified"
+      },
+      "summary": {
+        "ko": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-awa",
+        "en": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-awa"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "88869bc2de49cdd1",
+      "publishedAt": "2026-11-02T14:46:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03225v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Human Variations on AI Mathematics",
+        "en": "Human Variations on AI Mathematics"
+      },
+      "summary": {
+        "ko": "This article is motivated by the OpenAI manuscripts \"Minimal metrics and interior injectivity for nef adjoints\" and \"Log abundance in characteristic zero\". We establish a jet comparison for metrics with minimal singularities and use it to prove a dlt-type extension theorem. Combined with geometric arguments from the latter manuscript, this yields an alternative analytic proof of its Theorem~3.1.",
+        "en": "This article is motivated by the OpenAI manuscripts \"Minimal metrics and interior injectivity for nef adjoints\" and \"Log abundance in characteristic zero\". We establish a jet comparison for metrics with minimal singularities and use it to prove a dlt-type extension theorem. Combined with geometric arguments from the latter manuscript, this yields an alternative analytic proof of its Theorem~3.1."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2a2dc59a7550a030",
+      "publishedAt": "2026-11-02T14:08:17Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03169v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "An Erdős-Pach-Pollack-Tuza theorem for oriented diameter",
+        "en": "An Erdős-Pach-Pollack-Tuza theorem for oriented diameter"
+      },
+      "summary": {
+        "ko": "The oriented diameter of a bridgeless graph is the minimum diameter of its strong orientations. Erdős, Pach, Pollack and Tuza proved that every connected graph of order $n$ and minimum degree $δ\\ge 2$ has diameter at most $3n/(δ+1)-1$, which is sharp up to an additive constant. Cochran and Wang conjectured that the oriented diameter obeys the same bound up to an absolute additive constant. We prove this conjecture: every bridgeless graph of order $n$ and m",
+        "en": "The oriented diameter of a bridgeless graph is the minimum diameter of its strong orientations. Erdős, Pach, Pollack and Tuza proved that every connected graph of order $n$ and minimum degree $δ\\ge 2$ has diameter at most $3n/(δ+1)-1$, which is sharp up to an additive constant. Cochran and Wang conjectured that the oriented diameter obeys the same bound up to an absolute additive constant. We prove this conjecture: every bridgeless graph of order $n$ and m"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "78b1e5d3ea0a57d7",
+      "publishedAt": "2026-11-02T13:38:56Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.03124v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Hodge--Riemann relations for $m$-positive and generalized $m$-positive forms",
+        "en": "Hodge--Riemann relations for $m$-positive and generalized $m$-positive forms"
+      },
+      "summary": {
+        "ko": "We study Hodge--Riemann relations for ordinary, sequential, and weak $m$-positive real $(1,1)$-forms in complex dimension $d$. For ordinary $m$-positive forms, we prove the fully mixed relations in every permitted bidegree without assuming semipositivity, generalizing results by Xiao. As a generalization of ordinary $m$-positivity, sequential $m$-positivity is defined by the hyperbolicity cones of successive directional derivatives of the determinant. We f",
+        "en": "We study Hodge--Riemann relations for ordinary, sequential, and weak $m$-positive real $(1,1)$-forms in complex dimension $d$. For ordinary $m$-positive forms, we prove the fully mixed relations in every permitted bidegree without assuming semipositivity, generalizing results by Xiao. As a generalization of ordinary $m$-positivity, sequential $m$-positivity is defined by the hyperbolicity cones of successive directional derivatives of the determinant. We f"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5a014341bc3fc0f1",
       "publishedAt": "2026-11-02T09:00:00Z",
       "source": "OpenAI",
@@ -95,6 +425,28 @@
       "summary": {
         "ko": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
         "en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "945f879ef3a469b4",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "en": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+      },
+      "summary": {
+        "ko": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+        "en": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -1019,6 +1371,28 @@
       "summary": {
         "ko": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
         "en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "16681fd606d5f699",
+      "publishedAt": "2026-10-28T19:40:49Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/ads/customers/evernote",
+      "category": "ai",
+      "kind": "article",
+      "score": 56,
+      "title": {
+        "ko": "Evernote turns AI-driven discovery into paid subscriptions",
+        "en": "Evernote turns AI-driven discovery into paid subscriptions"
+      },
+      "summary": {
+        "ko": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+        "en": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T22:52:35.215348Z",
+  "generatedAt": "2026-11-04T22:54:36.586097Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,182 @@
   ],
   "articles": [
     {
+      "id": "18868753b53dd265",
+      "publishedAt": "2026-11-04T18:07:05Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "Agile Deliberation: How AI helps humans define the gray areas",
+        "en": "Agile Deliberation: How AI helps humans define the gray areas"
+      },
+      "summary": {
+        "ko": "Data Mining & Modeling",
+        "en": "Data Mining & Modeling"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8c416cac2e1213d0",
+      "publishedAt": "2026-11-04T15:32:52Z",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104",
+      "category": "ai",
+      "kind": "article",
+      "score": 63,
+      "title": {
+        "ko": "New Research Tests Whether AI Models Know Their Own Thoughts",
+        "en": "New Research Tests Whether AI Models Know Their Own Thoughts"
+      },
+      "summary": {
+        "ko": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine",
+        "en": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1be4fdd8e6ca80f0",
+      "publishedAt": "2026-11-04T14:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "en": "OpenAI to acquire Pierre Computer Company, Inc."
+      },
+      "summary": {
+        "ko": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+        "en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fbaa86a829ad59fd",
+      "publishedAt": "2026-11-04T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "A thousand fewer paths to root",
+        "en": "A thousand fewer paths to root"
+      },
+      "summary": {
+        "ko": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+        "en": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a3433e936d2c04bf",
+      "publishedAt": "2026-11-04T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "en": "Daybreak Red is now available in AWS GovCloud (US-East)"
+      },
+      "summary": {
+        "ko": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+        "en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "981785a01550309d",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "en": "DevRev delivers autonomous self-service with GPT-6.1 Sol"
+      },
+      "summary": {
+        "ko": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "en": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4079641725d4c0e0",
+      "publishedAt": "2026-11-03T18:59:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05373v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 70,
+      "title": {
+        "ko": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+        "en": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization"
+      },
+      "summary": {
+        "ko": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, large-margin preference-pair selection and a DPO-style contrastive update. We re-implement DNO-Prct independently and study it on two open-weight instruct models, Lla",
+        "en": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, large-margin preference-pair selection and a DPO-style contrastive update. We re-implement DNO-Prct independently and study it on two open-weight instruct models, Lla"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8dd25abc5b113f71",
+      "publishedAt": "2026-11-03T17:55:25Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05270v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "iGC: Antibody Optimization via Reinforcement Learning over a Learned Somatic Hypermutation Prior",
+        "en": "iGC: Antibody Optimization via Reinforcement Learning over a Learned Somatic Hypermutation Prior"
+      },
+      "summary": {
+        "ko": "Antibody affinity maturation is a natural optimization process in which B cells acquire mutations through somatic hypermutation (SHM), undergo selection for improved antigen binding, and iteratively evolve toward higher affinity. Computationally modeling this process requires capturing both biologically plausible mutations and antigen-specific selection. However, existing mutation models do not directly optimize binding, while affinity optimization often n",
+        "en": "Antibody affinity maturation is a natural optimization process in which B cells acquire mutations through somatic hypermutation (SHM), undergo selection for improved antigen binding, and iteratively evolve toward higher affinity. Computationally modeling this process requires capturing both biologically plausible mutations and antigen-specific selection. However, existing mutation models do not directly optimize binding, while affinity optimization often n"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "8d86676710497099",
       "publishedAt": "2026-11-03T17:15:21Z",
       "source": "Hugging Face",
@@ -103,6 +279,138 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "1194a9673c44db09",
+      "publishedAt": "2026-11-03T16:38:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05171v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 70,
+      "title": {
+        "ko": "AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion",
+        "en": "AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion"
+      },
+      "summary": {
+        "ko": "Predictive models for laser powder bed fusion (LPBF) are rarely used on the shop floor because querying them requires programming and model-specific knowledge. We present AgentAM, a large language model (LLM) agent that gives process engineers natural-language access to CFD-trained surrogates of spatter and melt pool geometry for SS316L through the Model Context Protocol (MCP). Polynomial surrogates trained on 279 single-track simulations predict melt pool",
+        "en": "Predictive models for laser powder bed fusion (LPBF) are rarely used on the shop floor because querying them requires programming and model-specific knowledge. We present AgentAM, a large language model (LLM) agent that gives process engineers natural-language access to CFD-trained surrogates of spatter and melt pool geometry for SS316L through the Model Context Protocol (MCP). Polynomial surrogates trained on 279 single-track simulations predict melt pool"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d3e13c321ee6e55e",
+      "publishedAt": "2026-11-03T15:22:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05058v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 67,
+      "title": {
+        "ko": "Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action",
+        "en": "Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action"
+      },
+      "summary": {
+        "ko": "Recent multimodal language models can reason directly about robot scenes, but it is unclear whether they need to repeatedly reinterpret raw visual observations at every step of an interaction. We propose shifting routine spatial reasoning from images to text and symbols through a 3D geometric abstraction that is refreshed locally from observations and read directly by the language models. Specifically, our interface represents scene geometry via typed, evi",
+        "en": "Recent multimodal language models can reason directly about robot scenes, but it is unclear whether they need to repeatedly reinterpret raw visual observations at every step of an interaction. We propose shifting routine spatial reasoning from images to text and symbols through a 3D geometric abstraction that is refreshed locally from observations and read directly by the language models. Specifically, our interface represents scene geometry via typed, evi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "14462f7d818e934f",
+      "publishedAt": "2026-11-03T14:57:52Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05015v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "The integer spectrum of a superintegrable quantum field theory",
+        "en": "The integer spectrum of a superintegrable quantum field theory"
+      },
+      "summary": {
+        "ko": "In our previous article CMP 407 (2026) 131, we explored the rich algebraic structures arising from a specific quantum many-body Hamiltonian quartic in the bosonic creation-annihilation operators. This Hamiltonian originated from the works of Gérard and Grellier on classical turbulent energy transfer in a Lax-integrable setting, and its quantum version respects hierarchies of polynomial conservation laws all of which possess purely integer spectra, as does ",
+        "en": "In our previous article CMP 407 (2026) 131, we explored the rich algebraic structures arising from a specific quantum many-body Hamiltonian quartic in the bosonic creation-annihilation operators. This Hamiltonian originated from the works of Gérard and Grellier on classical turbulent energy transfer in a Lax-integrable setting, and its quantum version respects hierarchies of polynomial conservation laws all of which possess purely integer spectra, as does "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1e12c81e1fd359b9",
+      "publishedAt": "2026-11-03T14:52:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.05003v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference",
+        "en": "Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference"
+      },
+      "summary": {
+        "ko": "Pervasive Capability Degradation (PCD) refers to the phenomenon in which supervised fine-tuning (SFT), while adapting a large language model (LLM) to a target task, often erodes the general capabilities acquired during pre-training. Prevailing explanations attribute PCD to macroscopic distribution shift and therefore lack microscopic manipulability, leaving existing mitigation methods without a complete theoretical foundation. In this paper, we first devel",
+        "en": "Pervasive Capability Degradation (PCD) refers to the phenomenon in which supervised fine-tuning (SFT), while adapting a large language model (LLM) to a target task, often erodes the general capabilities acquired during pre-training. Prevailing explanations attribute PCD to macroscopic distribution shift and therefore lack microscopic manipulability, leaving existing mitigation methods without a complete theoretical foundation. In this paper, we first devel"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "25493a43cba550c7",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Accelerating engineering for the physical world",
+        "en": "Accelerating engineering for the physical world"
+      },
+      "summary": {
+        "ko": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+        "en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "501ec7cec83e3edb",
+      "publishedAt": "2026-11-03T11:50:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.04730v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Finding Integer Roots of Polynomials in Nearly Optimal Time",
+        "en": "Finding Integer Roots of Polynomials in Nearly Optimal Time"
+      },
+      "summary": {
+        "ko": "Let $f\\in\\mathbb Z[x]$ be a polynomial of degree $n$ with integer coefficients of absolute value less than $2^b$. Using Pan's approximate factorization theorem, we give a deterministic algorithm that finds all distinct integer roots of $f$ in $\\widetilde O(nb)$ bit operations. This matches the bit size of the input up to logarithmic factors and does not require $f$ to be square-free. Since we were unable to verify parts of the running time analysis of Pan'",
+        "en": "Let $f\\in\\mathbb Z[x]$ be a polynomial of degree $n$ with integer coefficients of absolute value less than $2^b$. Using Pan's approximate factorization theorem, we give a deterministic algorithm that finds all distinct integer roots of $f$ in $\\widetilde O(nb)$ bit operations. This matches the bit size of the input up to logarithmic factors and does not require $f$ to be square-free. Since we were unable to verify parts of the running time analysis of Pan'"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "fc87a45dcfbf03d4",
       "publishedAt": "2026-11-03T08:00:00Z",
       "source": "OpenAI",
@@ -139,6 +447,28 @@
       "summary": {
         "ko": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
         "en": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "726ccdab03105300",
+      "publishedAt": "2026-11-03T07:59:36Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.04471v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Algebraicity, Hodge Gradings, and the Geometry of Period Images",
+        "en": "Algebraicity, Hodge Gradings, and the Geometry of Period Images"
+      },
+      "summary": {
+        "ko": "We prove the algebraicity of period images in arithmetic quotients without using o-minimality. The proof uses infinitesimal neighborhoods and formal algebraization to recover the images and the maps from their algebraic sources. Hodge positivity and an algebraic ampleness criterion yield the Griffiths polarization and quasi-projectivity. For lifted images, we construct Stein neighborhoods and holomorphic matrix realizations of the Hodge filtration. On clos",
+        "en": "We prove the algebraicity of period images in arithmetic quotients without using o-minimality. The proof uses infinitesimal neighborhoods and formal algebraization to recover the images and the maps from their algebraic sources. Hodge positivity and an algebraic ampleness criterion yield the Griffiths polarization and quasi-projectivity. For lifted images, we construct Stein neighborhoods and holomorphic matrix realizations of the Hodge filtration. On clos"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -235,6 +565,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "bca108e4c77bd86b",
+      "publishedAt": "2026-11-02T18:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Rewarding defenders with bigger bug bounties",
+        "en": "Rewarding defenders with bigger bug bounties"
+      },
+      "summary": {
+        "ko": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+        "en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "e15d0ffba712acef",
       "publishedAt": "2026-11-02T16:20:07Z",
       "source": "arXiv",
@@ -271,6 +623,28 @@
       "summary": {
         "ko": "Zeroth-order (ZO) optimization enables memory-efficient large language model (LLM) fine-tuning, and recent methods incorporate curvature-aware strategies. However, in the high-dimensional parameter space of LLMs, these methods inherently suffer from exploding gradient variance and prohibitive costs. Conversely, confining updates to a low-dimensional subspace reduces variance but discards critical high-dimensional information, degrading performance. This cr",
         "en": "Zeroth-order (ZO) optimization enables memory-efficient large language model (LLM) fine-tuning, and recent methods incorporate curvature-aware strategies. However, in the high-dimensional parameter space of LLMs, these methods inherently suffer from exploding gradient variance and prohibitive costs. Conversely, confining updates to a low-dimensional subspace reduces variance but discards critical high-dimensional information, degrading performance. This cr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "277870ffc8d71544",
+      "publishedAt": "2026-11-02T15:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Scaling Git at OpenAI",
+        "en": "Scaling Git at OpenAI"
+      },
+      "summary": {
+        "ko": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+        "en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

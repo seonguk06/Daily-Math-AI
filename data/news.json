@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:54:36.586097Z",
+  "generatedAt": "2026-11-05T22:55:04.696187Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,116 @@
   ],
   "articles": [
     {
+      "id": "1750855042e8ceec",
+      "publishedAt": "2026-11-05T17:05:16Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+      },
+      "summary": {
+        "ko": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "14e90e72d3401ddf",
+      "publishedAt": "2026-11-05T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
+      },
+      "summary": {
+        "ko": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "en": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "25fa4dd18ec78a48",
+      "publishedAt": "2026-11-05T02:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Setting a new standard for responsible AI infrastructure",
+        "en": "Setting a new standard for responsible AI infrastructure"
+      },
+      "summary": {
+        "ko": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+        "en": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "938bbbd179a129d2",
+      "publishedAt": "2026-11-04T18:59:48Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06917v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Using topology to reveal all mutually unbiased bases in dimension six",
+        "en": "Using topology to reveal all mutually unbiased bases in dimension six"
+      },
+      "summary": {
+        "ko": "Mutually unbiased bases (MUBs) describe complementary quantum measurements: certainty in one basis gives no information about the others. In dimension six, triples of MUBs are known, but whether a fourth basis could exist remained unresolved for over three decades. OpenAI recently reported a proof that none exists. Here we use the topology of the space of complex Hadamard matrices, which describe transitions between MUBs, to characterize all sets in dimens",
+        "en": "Mutually unbiased bases (MUBs) describe complementary quantum measurements: certainty in one basis gives no information about the others. In dimension six, triples of MUBs are known, but whether a fourth basis could exist remained unresolved for over three decades. OpenAI recently reported a proof that none exists. Here we use the topology of the space of complex Hadamard matrices, which describe transitions between MUBs, to characterize all sets in dimens"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "612ba637df07c6b4",
+      "publishedAt": "2026-11-04T18:40:56Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06886v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Off-Diagonal Induced Ramsey Numbers",
+        "en": "Off-Diagonal Induced Ramsey Numbers"
+      },
+      "summary": {
+        "ko": "Given graphs $F$ and $H$, the induced Ramsey number $r_{\\mathrm{ind}}(F,H)$ is the smallest integer $n$ for which there exists a graph $G$ on $n$ vertices such that every red-blue colouring of $E(G)$ contains either a blue induced copy of $F$ or a red induced copy of $H$. A conjecture of Kohayakawa, Prömel and Rödl asserts that, for every fixed graph $F$, this number is polynomial in $v(H)$. We prove this conjecture, showing that there is an absolute const",
+        "en": "Given graphs $F$ and $H$, the induced Ramsey number $r_{\\mathrm{ind}}(F,H)$ is the smallest integer $n$ for which there exists a graph $G$ on $n$ vertices such that every red-blue colouring of $E(G)$ contains either a blue induced copy of $F$ or a red induced copy of $H$. A conjecture of Kohayakawa, Prömel and Rödl asserts that, for every fixed graph $F$, this number is polynomial in $v(H)$. We prove this conjecture, showing that there is an absolute const"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "18868753b53dd265",
       "publishedAt": "2026-11-04T18:07:05Z",
       "source": "Google Research",
@@ -73,6 +183,50 @@
       "summary": {
         "ko": "Data Mining & Modeling",
         "en": "Data Mining & Modeling"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b646e4c4c85a09ef",
+      "publishedAt": "2026-11-04T17:41:09Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06827v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2",
+        "en": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2"
+      },
+      "summary": {
+        "ko": "We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks. For the NVARC Qwen3-4B grid model, we built a corpus of 12,000 executable rules in a typed language and 95,993 tasks; a rule is admitted only if its behaviour on a fixed probe set differs from that of ever",
+        "en": "We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks. For the NVARC Qwen3-4B grid model, we built a corpus of 12,000 executable rules in a typed language and 95,993 tasks; a rule is admitted only if its behaviour on a fixed probe set differs from that of ever"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "bc2bd81adb21417c",
+      "publishedAt": "2026-11-04T16:11:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06718v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Symmetry Breaking at the Edge of Stability via Central Flow Analysis",
+        "en": "Symmetry Breaking at the Edge of Stability via Central Flow Analysis"
+      },
+      "summary": {
+        "ko": "Continuous symmetries in neural networks lead to conserved quantities that are invariant under gradient flow, such as layer balancedness in linear and ReLU networks. Finite-step gradient descent need not preserve these laws, particularly at the edge of stability (EOS), where the iterates oscillate around a smoother trajectory, which can be described by the central flow dynamics (Cohen et al., 2025). We study how gradient flow conservation laws evolve under",
+        "en": "Continuous symmetries in neural networks lead to conserved quantities that are invariant under gradient flow, such as layer balancedness in linear and ReLU networks. Finite-step gradient descent need not preserve these laws, particularly at the edge of stability (EOS), where the iterates oscillate around a smoother trajectory, which can be described by the central flow dynamics (Cohen et al., 2025). We study how gradient flow conservation laws evolve under"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -125,6 +279,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "d584b3e3bc118f4d",
+      "publishedAt": "2026-11-04T14:18:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06554v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management",
+        "en": "RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management"
+      },
+      "summary": {
+        "ko": "Resource management for distributed edge networks hosting different services has been handled efficiently using Reinforcement learning (RL). Reward generalization in complex workflows is still an open issue within the RL realm. Therefore, this work proposes RAGAM-AI, a hybrid framework that combines the capabilities of RL algorithms and Generative-AI (Gen-AI) for powering an Agentic AI workflow that optimizes resource allocation at the Multi-access Edge Co",
+        "en": "Resource management for distributed edge networks hosting different services has been handled efficiently using Reinforcement learning (RL). Reward generalization in complex workflows is still an open issue within the RL realm. Therefore, this work proposes RAGAM-AI, a hybrid framework that combines the capabilities of RL algorithms and Generative-AI (Gen-AI) for powering an Agentic AI workflow that optimizes resource allocation at the Multi-access Edge Co"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e02662a26beb65f5",
+      "publishedAt": "2026-11-04T13:24:54Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06483v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+        "en": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?"
+      },
+      "summary": {
+        "ko": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth $K$ and interaction depth $T$ via $Pass@(K,T)$, we show that trajectory-level RL advantages depend on sufficient turn budgets, diminishing significantly when budgets tighten. Besides, agentic RL does not uniformly elevate single-step decision quality; rather, its stre",
+        "en": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth $K$ and interaction depth $T$ via $Pass@(K,T)$, we show that trajectory-level RL advantages depend on sufficient turn budgets, diminishing significantly when budgets tighten. Besides, agentic RL does not uniformly elevate single-step decision quality; rather, its stre"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "bb38545a3136c59c",
+      "publishedAt": "2026-11-04T09:58:27Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06250v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "A Polynomial Erdős-Pósa bound for Eulerian digraphs",
+        "en": "A Polynomial Erdős-Pósa bound for Eulerian digraphs"
+      },
+      "summary": {
+        "ko": "In [Combinatorica 1996], Reed, Robertson, Seymour and Thomas proved Younger's conjecture dating back to 1973 that states that directed cycles have the Erdős-Pósa property. Specifically, they showed that every directed graph $D$ contains either $k$ arc-disjoint cycles or a set of at most $f(k)$ arcs that intersect every directed cycle. The function $f$, depending only on $k$, is however notoriously large--in fact, not even elementary. The first improvement ",
+        "en": "In [Combinatorica 1996], Reed, Robertson, Seymour and Thomas proved Younger's conjecture dating back to 1973 that states that directed cycles have the Erdős-Pósa property. Specifically, they showed that every directed graph $D$ contains either $k$ arc-disjoint cycles or a set of at most $f(k)$ arcs that intersect every directed cycle. The function $f$, depending only on $k$, is however notoriously large--in fact, not even elementary. The first improvement "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "fbaa86a829ad59fd",
       "publishedAt": "2026-11-04T08:00:00Z",
       "source": "OpenAI",
@@ -169,6 +389,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "3e630309c4b48c0e",
+      "publishedAt": "2026-11-04T06:32:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06030v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Capelli Operators and the Bernstein-Sato polynomials of Minors",
+        "en": "Capelli Operators and the Bernstein-Sato polynomials of Minors"
+      },
+      "summary": {
+        "ko": "For every ideal of minors of a generic complex matrix, we determine all roots and their multiplicities in the Bernstein-Sato polynomial. These roots lie in explicit rational intervals indexed by the rank strata. Every nonintegral root is simple, whereas the multiplicity of each integral root equals the number of labels producing that root. We deduce the strong motivic monodromy conjecture, including the inequality relating pole orders to root multiplicitie",
+        "en": "For every ideal of minors of a generic complex matrix, we determine all roots and their multiplicities in the Bernstein-Sato polynomial. These roots lie in explicit rational intervals indexed by the rank strata. Every nonintegral root is simple, whereas the multiplicity of each integral root equals the number of labels producing that root. We deduce the strong motivic monodromy conjecture, including the inequality relating pole orders to root multiplicitie"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "981785a01550309d",
       "publishedAt": "2026-11-04T00:00:00Z",
       "source": "OpenAI",
@@ -183,6 +425,28 @@
       "summary": {
         "ko": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
         "en": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "295354ff422b0d4d",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Introducing Images 2.6",
+        "en": "Introducing Images 2.6"
+      },
+      "summary": {
+        "ko": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+        "en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

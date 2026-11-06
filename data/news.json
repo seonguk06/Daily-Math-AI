@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T22:55:04.696187Z",
+  "generatedAt": "2026-11-06T22:49:44.652613Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,138 @@
   ],
   "articles": [
     {
+      "id": "08a83d58613fad43",
+      "publishedAt": "2026-11-06T15:48:54Z",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106",
+      "category": "math",
+      "kind": "article",
+      "score": 48,
+      "title": {
+        "ko": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+        "en": "A Strange Quantum Theorem Has Killed Einstein’s Reality"
+      },
+      "summary": {
+        "ko": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
+        "en": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a0a44ed09dc9a108",
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+      },
+      "summary": {
+        "ko": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5f721228af3682c2",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Measuring how AI agents handle everyday wet-lab science",
+        "en": "Measuring how AI agents handle everyday wet-lab science"
+      },
+      "summary": {
+        "ko": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "en": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e68c75837c28ac1b",
+      "publishedAt": "2026-11-05T18:59:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08483v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+        "en": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization"
+      },
+      "summary": {
+        "ko": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swar",
+        "en": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swar"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7ff8d40ec8215628",
+      "publishedAt": "2026-11-05T18:19:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08421v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+        "en": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems"
+      },
+      "summary": {
+        "ko": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form representation of the governing system. We formulate intrinsic Lie point-symmetry discovery as an operator-theoretic problem on sampled jet-space data. Admissible generators are identified from a sampled determining operator and separated from re",
+        "en": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form representation of the governing system. We formulate intrinsic Lie point-symmetry discovery as an operator-theoretic problem on sampled jet-space data. Admissible generators are identified from a sampled determining operator and separated from re"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c746a650290fe268",
+      "publishedAt": "2026-11-05T17:56:33Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08379v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Module-Aware Optimization for Graph Neural Networks",
+        "en": "Module-Aware Optimization for Graph Neural Networks"
+      },
+      "summary": {
+        "ko": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-matrix structure through orthogonalized updates. For Graph Neural Networks (GNNs), however, the effective geometry of its weight matrices is shaped not only by its learned channel-mixing weights, but also by the graph-propagated representations it acts on. Thus,",
+        "en": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-matrix structure through orthogonalized updates. For Graph Neural Networks (GNNs), however, the effective geometry of its weight matrices is shaped not only by its learned channel-mixing weights, but also by the graph-propagated representations it acts on. Thus,"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "1750855042e8ceec",
       "publishedAt": "2026-11-05T17:05:16Z",
       "source": "Google DeepMind",
@@ -73,6 +205,138 @@
       "summary": {
         "ko": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
         "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "616c68177b707eae",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Australian universities are creating AI-native graduates",
+        "en": "Australian universities are creating AI-native graduates"
+      },
+      "summary": {
+        "ko": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+        "en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "43a63f6d452c9b93",
+      "publishedAt": "2026-11-05T16:36:49Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08262v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 72,
+      "title": {
+        "ko": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model",
+        "en": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model"
+      },
+      "summary": {
+        "ko": "Multimodal language models can simulate different observers, yet it remains unclear how assigned perspectives reshape their internal representations and whether these changes govern their judgements. Here, we investigate the representational geometry of persona-conditioned visual interestingness in Qwen3-VL-8B-Instruct. Across 100 images and 53 prompting conditions, we systematically vary persona content and the linguistic framing used to introduce it, whi",
+        "en": "Multimodal language models can simulate different observers, yet it remains unclear how assigned perspectives reshape their internal representations and whether these changes govern their judgements. Here, we investigate the representational geometry of persona-conditioned visual interestingness in Qwen3-VL-8B-Instruct. Across 100 images and 53 prompting conditions, we systematically vary persona content and the linguistic framing used to introduce it, whi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "58daab572eafab32",
+      "publishedAt": "2026-11-05T14:23:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08070v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\"",
+        "en": "Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring \"Weight-Space Programming\""
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) have recently been reported to read and write the raw weights of neural networks directly, a capability termed weight-space programming. We ask whether the reading side of this capability reflects reasoning about weight flows or a combination of local arithmetic at the network's edges and memorized priors over public datasets. We test Claude Opus 5.5 on small convolutional networks of about 125,000 parameters trained on five im",
+        "en": "Large language models (LLMs) have recently been reported to read and write the raw weights of neural networks directly, a capability termed weight-space programming. We ask whether the reading side of this capability reflects reasoning about weight flows or a combination of local arithmetic at the network's edges and memorized priors over public datasets. We test Claude Opus 5.5 on small convolutional networks of about 125,000 parameters trained on five im"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "62a08f4d6d40a73b",
+      "publishedAt": "2026-11-05T14:02:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08048v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 61,
+      "title": {
+        "ko": "Performance metrics in machine learning: a scenario-based guide from the confusion matrix to calibration, regression and uncertainty",
+        "en": "Performance metrics in machine learning: a scenario-based guide from the confusion matrix to calibration, regression and uncertainty"
+      },
+      "summary": {
+        "ko": "Performance metrics can yield different conclusions from the same predictions. This methodological tutorial explains the effects of class prevalence, decision thresholds, aggregation rules and software conventions through controlled scenarios. Twenty-two confusion-matrix metrics are organized in a prevalence-coded map. Fifteen scenarios cover binary and multi-class classification, score discrimination, probability calibration, regression, uncertainty and c",
+        "en": "Performance metrics can yield different conclusions from the same predictions. This methodological tutorial explains the effects of class prevalence, decision thresholds, aggregation rules and software conventions through controlled scenarios. Twenty-two confusion-matrix metrics are organized in a prevalence-coded map. Fifteen scenarios cover binary and multi-class classification, score discrimination, probability calibration, regression, uncertainty and c"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "74a485b399e599ac",
+      "publishedAt": "2026-11-05T12:42:36Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07944v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 71,
+      "title": {
+        "ko": "Constructive Probability, Foundations and Numerical Analysis for mathematical finance and machine learning",
+        "en": "Constructive Probability, Foundations and Numerical Analysis for mathematical finance and machine learning"
+      },
+      "summary": {
+        "ko": "This monograph sets out a constructive theory of stochastic processes in the continuum, in the sense of constructive field theory: the continuum is not postulated but reached as the limit of a sequence of lattice approximations, with the renormalisation the limit requires exhibited rather than assumed, and the limit controlled by estimates that can be checked. The primitive object is not a sigma-algebra but de Finetti's prevision, the price of finitely man",
+        "en": "This monograph sets out a constructive theory of stochastic processes in the continuum, in the sense of constructive field theory: the continuum is not postulated but reached as the limit of a sequence of lattice approximations, with the renormalisation the limit requires exhibited rather than assumed, and the limit controlled by estimates that can be checked. The primitive object is not a sigma-algebra but de Finetti's prevision, the price of finitely man"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "86727174349b8318",
+      "publishedAt": "2026-11-05T10:26:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07785v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Geometric Functional Inequalities for Markov Processes: An Invitation via the Langevin Diffusion",
+        "en": "Geometric Functional Inequalities for Markov Processes: An Invitation via the Langevin Diffusion"
+      },
+      "summary": {
+        "ko": "Functional inequalities provide a language for reasoning about the long-time properties of ergodic Markov processes in terms of their macroscopic geometry. This article offers an informal introduction to functional inequalities for readers who are more familiar with probabilistic tools based around couplings, Lyapunov techniques, and similar. The main ideas are developed through the overdamped Langevin diffusion, where various functionals related to this c",
+        "en": "Functional inequalities provide a language for reasoning about the long-time properties of ergodic Markov processes in terms of their macroscopic geometry. This article offers an informal introduction to functional inequalities for readers who are more familiar with probabilistic tools based around couplings, Lyapunov techniques, and similar. The main ideas are developed through the overdamped Langevin diffusion, where various functionals related to this c"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -103,6 +367,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "db9792e954d44701",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "Merge builds product and business tools with OpenAI technology",
+        "en": "Merge builds product and business tools with OpenAI technology"
+      },
+      "summary": {
+        "ko": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+        "en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "25fa4dd18ec78a48",
       "publishedAt": "2026-11-05T02:00:00Z",
       "source": "OpenAI",
@@ -117,6 +403,50 @@
       "summary": {
         "ko": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
         "en": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2d1d326185a62641",
+      "publishedAt": "2026-11-05T00:45:15Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "category": "mathai",
+      "kind": "article",
+      "score": 59,
+      "title": {
+        "ko": "Flipsnack grows product signups with conversion optimization",
+        "en": "Flipsnack grows product signups with conversion optimization"
+      },
+      "summary": {
+        "ko": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+        "en": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a8e215d1c3fca63a",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/franklin-templeton",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "Franklin Templeton uses OpenAI to support investment research",
+        "en": "Franklin Templeton uses OpenAI to support investment research"
+      },
+      "summary": {
+        "ko": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+        "en": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

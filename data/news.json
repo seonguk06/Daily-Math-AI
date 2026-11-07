@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T22:49:44.652613Z",
+  "generatedAt": "2026-11-07T22:45:03.477467Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -191,6 +191,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "38ce734255979353",
+      "publishedAt": "2026-11-05T17:42:31Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08364v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "SHORE: Stability-Hybrid On-Policy Reinforcement Learning for Online Bin Packing",
+        "en": "SHORE: Stability-Hybrid On-Policy Reinforcement Learning for Online Bin Packing"
+      },
+      "summary": {
+        "ko": "Online 3D bin packing with a processing buffer requires choosing which box to pack, its orientation, and its placement while keeping the stack stable under unknown future arrivals. A collapse ends the episode and forfeits the remaining volume. Existing methods use geometric rules or hard stability masks, limiting how risk can influence the joint choice of box, orientation, and placement. We propose Stability-Hybrid On-Policy Reinforcement Learning (SHORE),",
+        "en": "Online 3D bin packing with a processing buffer requires choosing which box to pack, its orientation, and its placement while keeping the stack stable under unknown future arrivals. A collapse ends the episode and forfeits the remaining volume. Existing methods use geometric rules or hard stability masks, limiting how risk can influence the joint choice of box, orientation, and placement. We propose Stability-Hybrid On-Policy Reinforcement Learning (SHORE),"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "67908d79725aea02",
+      "publishedAt": "2026-11-05T17:12:58Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08315v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation",
+        "en": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) are increasingly used in biomedical and cognitive neuroscience, but their ability to reason reliably over heterogeneous knowledge graphs (KGs) remains unclear. We benchmark five LLMs (GPT-5.1, Gemini 2.0 Pro, Llama 3, Qwen, and BioGPT) across five KGs: DrugBank, NeuroSynth, Cognitive Atlas, Brain Map, and GDPKG. We introduce a multitier query dataset to evaluate reasoning depth and factual accuracy under KG-aware (graph-grounde",
+        "en": "Large language models (LLMs) are increasingly used in biomedical and cognitive neuroscience, but their ability to reason reliably over heterogeneous knowledge graphs (KGs) remains unclear. We benchmark five LLMs (GPT-5.1, Gemini 2.0 Pro, Llama 3, Qwen, and BioGPT) across five KGs: DrugBank, NeuroSynth, Cognitive Atlas, Brain Map, and GDPKG. We introduce a multitier query dataset to evaluate reasoning depth and factual accuracy under KG-aware (graph-grounde"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "1750855042e8ceec",
       "publishedAt": "2026-11-05T17:05:16Z",
       "source": "Google DeepMind",
@@ -235,6 +279,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "3c947c5d2a1b4c5b",
+      "publishedAt": "2026-11-05T16:44:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08277v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation",
+        "en": "LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation"
+      },
+      "summary": {
+        "ko": "Neural theorem proving increasingly uses retrieved premises and project context to support proof generation. Evaluating these resources requires measuring the advantage of target-selected declarations over comparable alternatives and how this advantage depends on training. We introduce LeanContext, a benchmark of 129,826 Lean whole-proof generation problems, to investigate these questions. We group selected complete preceding mathematical declarations as M",
+        "en": "Neural theorem proving increasingly uses retrieved premises and project context to support proof generation. Evaluating these resources requires measuring the advantage of target-selected declarations over comparable alternatives and how this advantage depends on training. We introduce LeanContext, a benchmark of 129,826 Lean whole-proof generation problems, to investigate these questions. We group selected complete preceding mathematical declarations as M"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "43a63f6d452c9b93",
       "publishedAt": "2026-11-05T16:36:49Z",
       "source": "arXiv",
@@ -249,6 +315,28 @@
       "summary": {
         "ko": "Multimodal language models can simulate different observers, yet it remains unclear how assigned perspectives reshape their internal representations and whether these changes govern their judgements. Here, we investigate the representational geometry of persona-conditioned visual interestingness in Qwen3-VL-8B-Instruct. Across 100 images and 53 prompting conditions, we systematically vary persona content and the linguistic framing used to introduce it, whi",
         "en": "Multimodal language models can simulate different observers, yet it remains unclear how assigned perspectives reshape their internal representations and whether these changes govern their judgements. Here, we investigate the representational geometry of persona-conditioned visual interestingness in Qwen3-VL-8B-Instruct. Across 100 images and 53 prompting conditions, we systematically vary persona content and the linguistic framing used to introduce it, whi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4bfabc27be4e32c4",
+      "publishedAt": "2026-11-05T15:31:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08175v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+        "en": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?"
+      },
+      "summary": {
+        "ko": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images ",
+        "en": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -323,6 +411,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "234be25f7a2233a5",
+      "publishedAt": "2026-11-05T12:10:58Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07890v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "The second reconstruction transition for random graphs from 2-neighborhoods",
+        "en": "The second reconstruction transition for random graphs from 2-neighborhoods"
+      },
+      "summary": {
+        "ko": "We prove that, with high probability, the Erdős--Rényi random graph $G(n,p)$ is reconstructible up to isomorphism from the multiset of its rooted induced 2-neighborhoods whenever $p\\geq n^{-3/4}(\\log n)^3$. Together with the non-reconstructibility result of Johnston, Kronenberg, Roberts and Scott, our result locates the second reconstruction transition at the scale $p=n^{-3/4}$ up to polylogarithmic factors, resolving a question they posed. Our proof relie",
+        "en": "We prove that, with high probability, the Erdős--Rényi random graph $G(n,p)$ is reconstructible up to isomorphism from the multiset of its rooted induced 2-neighborhoods whenever $p\\geq n^{-3/4}(\\log n)^3$. Together with the non-reconstructibility result of Johnston, Kronenberg, Roberts and Scott, our result locates the second reconstruction transition at the scale $p=n^{-3/4}$ up to polylogarithmic factors, resolving a question they posed. Our proof relie"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "86727174349b8318",
       "publishedAt": "2026-11-05T10:26:37Z",
       "source": "arXiv",
@@ -367,6 +477,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "a0af1e6eab989003",
+      "publishedAt": "2026-11-05T08:08:42Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07626v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Combinatorics of noncommutative harmonic oscillator determinant",
+        "en": "Combinatorics of noncommutative harmonic oscillator determinant"
+      },
+      "summary": {
+        "ko": "We obtain an explicit evaluation of the determinants that appear in the denominators of the integrands for the iterated integrals expressing special values of the spectral zeta function of the noncommutative harmonic oscillator at integers greater than 1. The determinants in question are those of cyclic tridiagonal matrices; their explicit evaluation is carried out, in addition to the inclusion-exclusion principle, conceptionally using combinatorial argume",
+        "en": "We obtain an explicit evaluation of the determinants that appear in the denominators of the integrands for the iterated integrals expressing special values of the spectral zeta function of the noncommutative harmonic oscillator at integers greater than 1. The determinants in question are those of cyclic tridiagonal matrices; their explicit evaluation is carried out, in addition to the inclusion-exclusion principle, conceptionally using combinatorial argume"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "afaceb812be346f7",
+      "publishedAt": "2026-11-05T08:01:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07617v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "On a problem due to Erdős concerning $w_1(n)$",
+        "en": "On a problem due to Erdős concerning $w_1(n)$"
+      },
+      "summary": {
+        "ko": "Adopting notation from Erdős [Congress. Numer., 1980], we define $w_1(n) = w(n)$ for positive integers $n$ so that $w(1) = 0$ and so that: If $n > 1$ and $n = \\prod p^{α_p}$, then $w(n) = \\sum_{p^{α_p} \\parallel n} \\frac{n}{p^{α_p}}$. By then defining $V(x)=\\bigl|\\{w(n):1\\le n\\le x\\}\\bigr|$ for $x \\geq 1$, Erdős considered whether or not $V(x) = o(x)$ and left this as an open problem. This same problem was also given as an open problem in Guy's famous text",
+        "en": "Adopting notation from Erdős [Congress. Numer., 1980], we define $w_1(n) = w(n)$ for positive integers $n$ so that $w(1) = 0$ and so that: If $n > 1$ and $n = \\prod p^{α_p}$, then $w(n) = \\sum_{p^{α_p} \\parallel n} \\frac{n}{p^{α_p}}$. By then defining $V(x)=\\bigl|\\{w(n):1\\le n\\le x\\}\\bigr|$ for $x \\geq 1$, Erdős considered whether or not $V(x) = o(x)$ and left this as an open problem. This same problem was also given as an open problem in Guy's famous text"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "db9792e954d44701",
       "publishedAt": "2026-11-05T08:00:00Z",
       "source": "OpenAI",
@@ -381,6 +535,28 @@
       "summary": {
         "ko": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
         "en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "887ec47c0d3ebf62",
+      "publishedAt": "2026-11-05T05:15:25Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07460v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "Approximate independence of typical marginals of high-dimensional probability measures",
+        "en": "Approximate independence of typical marginals of high-dimensional probability measures"
+      },
+      "summary": {
+        "ko": "For many probability measures on $\\mathbb{R}^n$, and for $k$ sufficiently smaller than $n$, most $k$-dimensional coordinate marginals are close to product measures. We prove this in two regimes, which notably involve no exchangeability assumptions as in prior theorems of de Finetti type. First, for log-concave measures, the quantitative bound depends on the measure only through the operator norm of its correlation matrix, and $k$ may grow polynomially with",
+        "en": "For many probability measures on $\\mathbb{R}^n$, and for $k$ sufficiently smaller than $n$, most $k$-dimensional coordinate marginals are close to product measures. We prove this in two regimes, which notably involve no exchangeability assumptions as in prior theorems of de Finetti type. First, for log-concave measures, the quantitative bound depends on the measure only through the operator norm of its correlation matrix, and $k$ may grow polynomially with"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

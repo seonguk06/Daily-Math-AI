@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T22:45:03.477467Z",
+  "generatedAt": "2026-11-08T22:44:45.073242Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -169,6 +169,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "b2e36ad857c9ad74",
+      "publishedAt": "2026-11-05T18:17:39Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08414v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
+        "en": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the low-rank increment that LoRA optimizes remains unclear. Tracking the singular spectrum and subspaces of LoRA updates on mathematical reasoning tasks, we find that RL concentrates the spectrum at every learning rate, while SFT expands it at ",
+        "en": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the low-rank increment that LoRA optimizes remains unclear. Tracking the singular spectrum and subspaces of LoRA updates on mathematical reasoning tasks, we find that RL concentrates the spectrum at every learning rate, while SFT expands it at "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "c746a650290fe268",
       "publishedAt": "2026-11-05T17:56:33Z",
       "source": "arXiv",
@@ -279,6 +301,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "f80c0d455d242b1c",
+      "publishedAt": "2026-11-05T16:53:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08289v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Fourier level inequalities on the discrete cube via complex hypercontractivity and Riesz transforms",
+        "en": "Fourier level inequalities on the discrete cube via complex hypercontractivity and Riesz transforms"
+      },
+      "summary": {
+        "ko": "Eldan's level-$1{:}3$ inequality is a central tool in his second-order correlation inequalities for increasing Boolean functions. His proof is going to Gaussian space and uses an entropy estimate for second Hermite tensors. We give a direct proof on the discrete hypercube. For increasing real-valued functions $f,g:\\{0,1\\}^n\\to\\mathbb R$, we prove $$ W_3[f,g]\\ge -2W_1[f,g]\\log\\!\\left(\\frac{\\sqrt{\\mathrm{Var}(f)\\mathrm{Var}(g)}}{W_1[f,g]}\\right). $$ The proo",
+        "en": "Eldan's level-$1{:}3$ inequality is a central tool in his second-order correlation inequalities for increasing Boolean functions. His proof is going to Gaussian space and uses an entropy estimate for second Hermite tensors. We give a direct proof on the discrete hypercube. For increasing real-valued functions $f,g:\\{0,1\\}^n\\to\\mathbb R$, we prove $$ W_3[f,g]\\ge -2W_1[f,g]\\log\\!\\left(\\frac{\\sqrt{\\mathrm{Var}(f)\\mathrm{Var}(g)}}{W_1[f,g]}\\right). $$ The proo"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "3c947c5d2a1b4c5b",
       "publishedAt": "2026-11-05T16:44:59Z",
       "source": "arXiv",
@@ -323,6 +367,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "248ce427ab6d18c8",
+      "publishedAt": "2026-11-05T16:17:48Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08236v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Beyond Quadratic Attention: Separable Gaussian Operators for ODE Vision Transformers",
+        "en": "Beyond Quadratic Attention: Separable Gaussian Operators for ODE Vision Transformers"
+      },
+      "summary": {
+        "ko": "Self-attention carries a quadratic cost in token count, which limits how far Vision Transformers can scale with input resolution. We introduce SSoG, a separable sum-of-Gaussians spatial operator that replaces dense self-attention with a learned mixture of axis-factorized Gaussian kernels, reducing the per-layer cost from $\\mathcal{O}(N^2)$ to subquadratic in $N$. Unlike dot-product self-attention, whose Lipschitz constant is unbounded outside a compact inp",
+        "en": "Self-attention carries a quadratic cost in token count, which limits how far Vision Transformers can scale with input resolution. We introduce SSoG, a separable sum-of-Gaussians spatial operator that replaces dense self-attention with a learned mixture of axis-factorized Gaussian kernels, reducing the per-layer cost from $\\mathcal{O}(N^2)$ to subquadratic in $N$. Unlike dot-product self-attention, whose Lipschitz constant is unbounded outside a compact inp"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "4bfabc27be4e32c4",
       "publishedAt": "2026-11-05T15:31:15Z",
       "source": "arXiv",
@@ -345,6 +411,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "416f530db0f727ca",
+      "publishedAt": "2026-11-05T15:01:17Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08136v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels",
+        "en": "How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels"
+      },
+      "summary": {
+        "ko": "Anomaly detection (AD) is often framed as a representation-learning problem, where strong performance is expected to require learned features or AD-specific optimization. However, this view can overlook the intrinsic separability of anomalies from normal references, even in the absence of learned representations. We therefore investigate how far untrained neural networks can go in anomaly detection. To this end, we propose PRISM, a framework combining fixe",
+        "en": "Anomaly detection (AD) is often framed as a representation-learning problem, where strong performance is expected to require learned features or AD-specific optimization. However, this view can overlook the intrinsic separability of anomalies from normal references, even in the absence of learned representations. We therefore investigate how far untrained neural networks can go in anomaly detection. To this end, we propose PRISM, a framework combining fixe"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "58daab572eafab32",
       "publishedAt": "2026-11-05T14:23:07Z",
       "source": "arXiv",
@@ -359,6 +447,28 @@
       "summary": {
         "ko": "Large language models (LLMs) have recently been reported to read and write the raw weights of neural networks directly, a capability termed weight-space programming. We ask whether the reading side of this capability reflects reasoning about weight flows or a combination of local arithmetic at the network's edges and memorized priors over public datasets. We test Claude Opus 5.5 on small convolutional networks of about 125,000 parameters trained on five im",
         "en": "Large language models (LLMs) have recently been reported to read and write the raw weights of neural networks directly, a capability termed weight-space programming. We ask whether the reading side of this capability reflects reasoning about weight flows or a combination of local arithmetic at the network's edges and memorized priors over public datasets. We test Claude Opus 5.5 on small convolutional networks of about 125,000 parameters trained on five im"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6f9570271aab4306",
+      "publishedAt": "2026-11-05T14:10:35Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08054v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models",
+        "en": "NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models"
+      },
+      "summary": {
+        "ko": "Diet is a major determinant of health, yet accurate dietary assessment from free-living meal images remains challenging. Existing retrieval-based Vision-Language Model (VLM) approaches to nutrient estimation typically rely on textual food representations, while, to our knowledge, direct grounding on visually similar annotated meals has not been investigated. We present NutriVisRAG, a retrieval-augmented generation framework that uses a vision encoder to re",
+        "en": "Diet is a major determinant of health, yet accurate dietary assessment from free-living meal images remains challenging. Existing retrieval-based Vision-Language Model (VLM) approaches to nutrient estimation typically rely on textual food representations, while, to our knowledge, direct grounding on visually similar annotated meals has not been investigated. We present NutriVisRAG, a retrieval-augmented generation framework that uses a vision encoder to re"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -403,6 +513,28 @@
       "summary": {
         "ko": "This monograph sets out a constructive theory of stochastic processes in the continuum, in the sense of constructive field theory: the continuum is not postulated but reached as the limit of a sequence of lattice approximations, with the renormalisation the limit requires exhibited rather than assumed, and the limit controlled by estimates that can be checked. The primitive object is not a sigma-algebra but de Finetti's prevision, the price of finitely man",
         "en": "This monograph sets out a constructive theory of stochastic processes in the continuum, in the sense of constructive field theory: the continuum is not postulated but reached as the limit of a sequence of lattice approximations, with the renormalisation the limit requires exhibited rather than assumed, and the limit controlled by estimates that can be checked. The primitive object is not a sigma-algebra but de Finetti's prevision, the price of finitely man"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0382690711e74332",
+      "publishedAt": "2026-11-05T12:30:09Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07921v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Towards a twistless converse theorem",
+        "en": "Towards a twistless converse theorem"
+      },
+      "summary": {
+        "ko": "We prove a finiteness theorem for Dirichlet series satisfying the Euler product, analytic continuation, and functional equation expected of a holomorphic newform. For any fixed level $N$, even weight $k$, and exponent $σ$, only finitely many such series have Dirichlet coefficients $\\ll n^σ$. No hypotheses on twists by Dirichlet characters are assumed. The proof combines a combinatorial spanning theorem for Ramanujan sums with an operator-theoretic argument",
+        "en": "We prove a finiteness theorem for Dirichlet series satisfying the Euler product, analytic continuation, and functional equation expected of a holomorphic newform. For any fixed level $N$, even weight $k$, and exponent $σ$, only finitely many such series have Dirichlet coefficients $\\ll n^σ$. No hypotheses on twists by Dirichlet characters are assumed. The proof combines a combinatorial spanning theorem for Ramanujan sums with an operator-theoretic argument"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -535,6 +667,50 @@
       "summary": {
         "ko": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
         "en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5f80f2d21b9a68bb",
+      "publishedAt": "2026-11-05T07:32:53Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07581v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Probability model of connectedness for graphs with logarithmical degree",
+        "en": "Probability model of connectedness for graphs with logarithmical degree"
+      },
+      "summary": {
+        "ko": "For a graph $G$ of order $N$, an integer $k$ with $0\\leq k < N$ and a real number $p$ with $0\\leq p\\leq 1$, let $p(G,k)$ and $t(G,p)$ be the probabilities that $G$ is disconnected when $k$ vertices are removed randomly and when each vertex is removed independently with probability $p$, respectively. We deduce a formula of $p(G,k)$ for Harary graphs and show that the phase transition on $p(G,k)$ and $t(G,p)$ occurs in the class that has logarithmical degree",
+        "en": "For a graph $G$ of order $N$, an integer $k$ with $0\\leq k < N$ and a real number $p$ with $0\\leq p\\leq 1$, let $p(G,k)$ and $t(G,p)$ be the probabilities that $G$ is disconnected when $k$ vertices are removed randomly and when each vertex is removed independently with probability $p$, respectively. We deduce a formula of $p(G,k)$ for Harary graphs and show that the phase transition on $p(G,k)$ and $t(G,p)$ occurs in the class that has logarithmical degree"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d3dbe2e9c2bc82a0",
+      "publishedAt": "2026-11-05T07:18:39Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07568v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Generalized Chromatic Polynomials of Cycles and uni-cyclic Graphs",
+        "en": "Generalized Chromatic Polynomials of Cycles and uni-cyclic Graphs"
+      },
+      "summary": {
+        "ko": "In \\cite{R81}, Read obtained an explicit formula for the generalized chromatic polynomials of cycle graphs using the classical deletion-contraction principle. In this paper, we take a linear-algebraic approach and present a new proof of Read's formula by realizing the generalized chromatic polynomials of cycle graphs as traces of certain linear operators. As an application of this approach, we also derive explicit formulas for the generalized chromatic pol",
+        "en": "In \\cite{R81}, Read obtained an explicit formula for the generalized chromatic polynomials of cycle graphs using the classical deletion-contraction principle. In this paper, we take a linear-algebraic approach and present a new proof of Read's formula by realizing the generalized chromatic polynomials of cycle graphs as traces of certain linear operators. As an application of this approach, we also derive explicit formulas for the generalized chromatic pol"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

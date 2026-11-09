@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T22:44:45.073242Z",
+  "generatedAt": "2026-11-09T22:53:18.132149Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,182 @@
   ],
   "articles": [
     {
+      "id": "caa9073cefb43725",
+      "publishedAt": "2026-11-09T19:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "ChatGPT Enterprise now available in AWS Marketplace",
+        "en": "ChatGPT Enterprise now available in AWS Marketplace"
+      },
+      "summary": {
+        "ko": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "en": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "952d2516af2e9054",
+      "publishedAt": "2026-11-09T13:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/control-room",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "en": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+      },
+      "summary": {
+        "ko": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "02e9abf47eaf3fa0",
+      "publishedAt": "2026-11-09T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "CodeRabbit scales agentic software development and ships 20x more",
+        "en": "CodeRabbit scales agentic software development and ships 20x more"
+      },
+      "summary": {
+        "ko": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "en": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2e34e84f0999c607",
+      "publishedAt": "2026-11-09T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/kuken",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Kuken Industries searches 70 years of drawings in minutes",
+        "en": "Kuken Industries searches 70 years of drawings in minutes"
+      },
+      "summary": {
+        "ko": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+        "en": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2b95767c13ca5c97",
+      "publishedAt": "2026-11-06T18:58:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09891v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "en": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse"
+      },
+      "summary": {
+        "ko": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic r",
+        "en": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic r"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c2fb5aeea36779d6",
+      "publishedAt": "2026-11-06T18:49:02Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09872v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+        "en": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external",
+        "en": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1c58415115c372cf",
+      "publishedAt": "2026-11-06T17:10:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09736v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 67,
+      "title": {
+        "ko": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+        "en": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs"
+      },
+      "summary": {
+        "ko": "OpenAI's agents breached Hugging Face in July 2026, and the same company released more than seven hundred AI-generated manuscripts of mathematical proofs in October 2026. The first event is read as a failure in security, while the second is read as a success in mathematics. We read both through the hybrid framework of our paper (Kim and Kang, 2026, arXiv:2611.01914), in which coding, proving, and learning from data are derivations by one and the same deduc",
+        "en": "OpenAI's agents breached Hugging Face in July 2026, and the same company released more than seven hundred AI-generated manuscripts of mathematical proofs in October 2026. The first event is read as a failure in security, while the second is read as a success in mathematics. We read both through the hybrid framework of our paper (Kim and Kang, 2026, arXiv:2611.01914), in which coding, proving, and learning from data are derivations by one and the same deduc"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8de27191fac18326",
+      "publishedAt": "2026-11-06T17:00:26Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09723v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 55,
+      "title": {
+        "ko": "Fixed-point acceleration on Neural Wasserstein manifolds",
+        "en": "Fixed-point acceleration on Neural Wasserstein manifolds"
+      },
+      "summary": {
+        "ko": "We propose a fixed-point acceleration method for optimization over probability measures, applicable to a variety of machine learning problems. We represent probability measures as pushforwards of a reference distribution through a neural network map and equip the parameter space with the induced pullback Wasserstein metric. This geometric structure allows natural gradient descent to be interpreted as a fixed-point iteration on a Riemannian manifold. We acc",
+        "en": "We propose a fixed-point acceleration method for optimization over probability measures, applicable to a variety of machine learning problems. We represent probability measures as pushforwards of a reference distribution through a neural network map and equip the parameter space with the induced pullback Wasserstein metric. This geometric structure allows natural gradient descent to be interpreted as a fixed-point iteration on a Riemannian manifold. We acc"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "08a83d58613fad43",
       "publishedAt": "2026-11-06T15:48:54Z",
       "source": "Quanta Magazine",
@@ -81,6 +257,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "12bf6cc85f406e85",
+      "publishedAt": "2026-11-06T14:36:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09522v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Atik: A Shared-Mesh Transformer Accelerator for RISC-V",
+        "en": "Atik: A Shared-Mesh Transformer Accelerator for RISC-V"
+      },
+      "summary": {
+        "ko": "Transformer inference repeatedly invokes dense matrix multiplication and attention, including its data-dependent softmax normalization. We present Atik, an open-source RoCC accelerator for RocketChip that executes matrix multiplication and dense attention through one shared fixed-point MAC mesh. Atik accepts and returns BF16 tensors, uses a streaming online-softmax schedule that never materializes the full score matrix, and is invoked through a small descr",
+        "en": "Transformer inference repeatedly invokes dense matrix multiplication and attention, including its data-dependent softmax normalization. We present Atik, an open-source RoCC accelerator for RocketChip that executes matrix multiplication and dense attention through one shared fixed-point MAC mesh. Atik accepts and returns BF16 tensors, uses a streaming online-softmax schedule that never materializes the full score matrix, and is invoked through a small descr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d39224ff81113ee9",
+      "publishedAt": "2026-11-06T13:22:42Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09448v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Reinforcement Learning with Verifiable Rewards",
+        "en": "Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Reinforcement Learning with Verifiable Rewards"
+      },
+      "summary": {
+        "ko": "Policy entropy is widely used to diagnose exploration and collapse in reinforcement learning with verifiable rewards (RLVR), yet its magnitude does not consistently track reasoning performance across optimization objectives. We argue that this ambiguity arises because global token entropy conflates uncertainty in successful and failed trajectories, diversity across correct solution strategies, and variation among realizations of the same strategy. We intro",
+        "en": "Policy entropy is widely used to diagnose exploration and collapse in reinforcement learning with verifiable rewards (RLVR), yet its magnitude does not consistently track reasoning performance across optimization objectives. We argue that this ambiguity arises because global token entropy conflates uncertainty in successful and failed trajectories, diversity across correct solution strategies, and variation among realizations of the same strategy. We intro"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "69d510e80996fc0c",
+      "publishedAt": "2026-11-06T12:55:19Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.09427v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Fluctuations of heat kernels and exit times on random graphs and application to the critical long-range percolation",
+        "en": "Fluctuations of heat kernels and exit times on random graphs and application to the critical long-range percolation"
+      },
+      "summary": {
+        "ko": "Let $\\mathcal{G}$ be a graph equipped with random conductance. We give sufficient conditions for the Markov chain on $\\mathcal{G}$ to exhibit large scale fluctuations in its on-diagonal heat kernel and in exit times. The conditions also imply non-tightness of the height process w.r.t. the quenched measure, while it is tight w.r.t. the annealed measure. As an application of the general theory, we prove large scale fluctuations for the simple random walk on ",
+        "en": "Let $\\mathcal{G}$ be a graph equipped with random conductance. We give sufficient conditions for the Markov chain on $\\mathcal{G}$ to exhibit large scale fluctuations in its on-diagonal heat kernel and in exit times. The conditions also imply non-tightness of the height process w.r.t. the quenched measure, while it is tight w.r.t. the annealed measure. As an application of the general theory, we prove large scale fluctuations for the simple random walk on "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "a0a44ed09dc9a108",
       "publishedAt": "2026-11-06T08:00:00Z",
       "source": "OpenAI",
@@ -95,6 +337,28 @@
       "summary": {
         "ko": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
         "en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "aaefba81e5b04253",
+      "publishedAt": "2026-11-06T04:38:18Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08973v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Polynomial complexity, random graphs, and strict ergodicity",
+        "en": "Polynomial complexity, random graphs, and strict ergodicity"
+      },
+      "summary": {
+        "ko": "We construct infinite words $w$ whose complexity functions are quadratically bounded, but whose discrete derivatives are not linearly bounded, resolving a question of Cassaigne. Moreover, we construct infinite words of polynomially bounded complexity, and subshifts of quasi-linear complexity, whose discrete derivatives do not decay compared to their complexity functions, thus exhibiting a typical exponentially-growing behavior. As an application, we give t",
+        "en": "We construct infinite words $w$ whose complexity functions are quadratically bounded, but whose discrete derivatives are not linearly bounded, resolving a question of Cassaigne. Moreover, we construct infinite words of polynomially bounded complexity, and subshifts of quasi-linear complexity, whose discrete derivatives do not decay compared to their complexity functions, thus exhibiting a typical exponentially-growing behavior. As an application, we give t"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

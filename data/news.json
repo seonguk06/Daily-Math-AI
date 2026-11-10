@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T22:53:18.132149Z",
+  "generatedAt": "2026-11-10T22:50:48.597142Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -59,6 +59,160 @@
   ],
   "articles": [
     {
+      "id": "55cb0588b3e8436e",
+      "publishedAt": "2026-11-10T16:03:47Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini 4 Carbon is now available",
+        "en": "Gemini 4 Carbon is now available"
+      },
+      "summary": {
+        "ko": "Gemini 4 Carbon is now available",
+        "en": "Gemini 4 Carbon is now available"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0e9fb0eb84f13acf",
+      "publishedAt": "2026-11-10T12:02:28Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "category": "proof",
+      "kind": "article",
+      "score": 67,
+      "title": {
+        "ko": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+      },
+      "summary": {
+        "ko": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+        "en": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0f0020abcf733229",
+      "publishedAt": "2026-11-10T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "Helping caregivers use AI in everyday life",
+        "en": "Helping caregivers use AI in everyday life"
+      },
+      "summary": {
+        "ko": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+        "en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "991ad48e8559b2fe",
+      "publishedAt": "2026-11-10T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Introducing Businesses in ChatGPT",
+        "en": "Introducing Businesses in ChatGPT"
+      },
+      "summary": {
+        "ko": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+        "en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "69d4d9d74efa0162",
+      "publishedAt": "2026-11-10T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Closing the AI guidance gap in education",
+        "en": "Closing the AI guidance gap in education"
+      },
+      "summary": {
+        "ko": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+        "en": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f3fc54cd1d78c100",
+      "publishedAt": "2026-11-10T07:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Work at the Frontier: AI’s effect on freelance work",
+        "en": "Work at the Frontier: AI’s effect on freelance work"
+      },
+      "summary": {
+        "ko": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+        "en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6b6709b612e5913e",
+      "publishedAt": "2026-11-09T19:51:47Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "en": "Gemini Robotics 2.5 accelerates real-world general dexterity"
+      },
+      "summary": {
+        "ko": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+        "en": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "caa9073cefb43725",
       "publishedAt": "2026-11-09T19:00:00Z",
       "source": "OpenAI",
@@ -81,6 +235,160 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "5a499dd9df645953",
+      "publishedAt": "2026-11-09T17:41:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12769v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions",
+        "en": "Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions"
+      },
+      "summary": {
+        "ko": "Stochastic Gradient Descent (SGD) is a workhorse algorithm for continuous optimization. It is a folk belief among deep learning practitioners that learning rate decay in SGD substantially improves performance. However, it has remained unclear whether learning rate decay offers an asymptotic advantage for global nonconvex optimization. We answer this question in the affirmative by demonstrating a natural class of nonconvex functions for which, we prove that",
+        "en": "Stochastic Gradient Descent (SGD) is a workhorse algorithm for continuous optimization. It is a folk belief among deep learning practitioners that learning rate decay in SGD substantially improves performance. However, it has remained unclear whether learning rate decay offers an asymptotic advantage for global nonconvex optimization. We answer this question in the affirmative by demonstrating a natural class of nonconvex functions for which, we prove that"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c2a625ff3bf90388",
+      "publishedAt": "2026-11-09T17:38:16Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12763v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+        "en": "PORT: Preference Optimization via Robust Token-Level Reweighting"
+      },
+      "summary": {
+        "ko": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses",
+        "en": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "aef2187b64d400ff",
+      "publishedAt": "2026-11-09T16:56:44Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12697v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "When is Polynomial Optimization SoS-Exact? Sufficient Regularization and Strict Gram Representations",
+        "en": "When is Polynomial Optimization SoS-Exact? Sufficient Regularization and Strict Gram Representations"
+      },
+      "summary": {
+        "ko": "Global minimization of multivariate polynomials is computationally difficult in general, and nonnegativity does not necessarily imply a sum-of-squares (SoS) representation. We show that adding sufficiently strong Euclidean regularization to a polynomial provides a general mechanism for overcoming such challenges. Namely, for any multivariate polynomial $P$ of degree at most $p$ with a nonzero linear coefficient, and any even integer $2d>p$, we prove that $",
+        "en": "Global minimization of multivariate polynomials is computationally difficult in general, and nonnegativity does not necessarily imply a sum-of-squares (SoS) representation. We show that adding sufficiently strong Euclidean regularization to a polynomial provides a general mechanism for overcoming such challenges. Namely, for any multivariate polynomial $P$ of degree at most $p$ with a nonzero linear coefficient, and any even integer $2d>p$, we prove that $"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "cb8b9b4836d0c624",
+      "publishedAt": "2026-11-09T15:56:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12613v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Budan--Fourier theorem for circuit polynomial systems",
+        "en": "Budan--Fourier theorem for circuit polynomial systems"
+      },
+      "summary": {
+        "ko": "We prove a Budan--Fourier theorem for linear combinations of analytic functions whose successive Wronskians are positive: the number of zeros of $g=\\sum_{k=1}^s c_kh_k$ in an interval $(a,b]$, counted with multiplicities, is bounded by the drop of the number of sign changes of the sequence of Wronskians $W(h_1,\\ldots,h_{k-1},g)$ between $a$ and $b$, and the difference is even. This refines the bound $s-1$ of Koiran, Portier and Tavenas, and we show that it",
+        "en": "We prove a Budan--Fourier theorem for linear combinations of analytic functions whose successive Wronskians are positive: the number of zeros of $g=\\sum_{k=1}^s c_kh_k$ in an interval $(a,b]$, counted with multiplicities, is bounded by the drop of the number of sign changes of the sequence of Wronskians $W(h_1,\\ldots,h_{k-1},g)$ between $a$ and $b$, and the difference is even. This refines the bound $s-1$ of Koiran, Portier and Tavenas, and we show that it"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4a76a59e479635d0",
+      "publishedAt": "2026-11-09T14:40:10Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12491v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 67,
+      "title": {
+        "ko": "Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery",
+        "en": "Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery"
+      },
+      "summary": {
+        "ko": "Bayesian optimization is widely used in active learning loops for materials science. Gaussian processes serve as the de-facto surrogate model family, but require task-dependent kernel choices and can lack the modeling capacity for complex relationships. Tabular foundation models (TFMs) have recently emerged as the state-of-the-art for predictive tasks on structured data, without requiring bespoke kernels or hyperparameter tuning. We evaluate two TFMs, TabP",
+        "en": "Bayesian optimization is widely used in active learning loops for materials science. Gaussian processes serve as the de-facto surrogate model family, but require task-dependent kernel choices and can lack the modeling capacity for complex relationships. Tabular foundation models (TFMs) have recently emerged as the state-of-the-art for predictive tasks on structured data, without requiring bespoke kernels or hyperparameter tuning. We evaluate two TFMs, TabP"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "df73866978af8b20",
+      "publishedAt": "2026-11-09T14:39:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12490v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "Semisimple Deformations of Contraction Algebras for Smooth Threefold Flops",
+        "en": "Semisimple Deformations of Contraction Algebras for Smooth Threefold Flops"
+      },
+      "summary": {
+        "ko": "Building on Bryan--Katz--Leung, Hua--Toda and Kawamata, we study deformations of contraction algebras and the local geometry of the scheme of associative algebra laws. Let $A$ be the basic contraction algebra of a completed projective flopping contraction of a smooth complex threefold. We construct a finite free polynomial family that is constant and semisimple away from the origin, with the original curve projectors fixed. For each restricted positive roo",
+        "en": "Building on Bryan--Katz--Leung, Hua--Toda and Kawamata, we study deformations of contraction algebras and the local geometry of the scheme of associative algebra laws. Let $A$ be the basic contraction algebra of a completed projective flopping contraction of a smooth complex threefold. We construct a finite free polynomial family that is constant and semisimple away from the origin, with the original curve projectors fixed. For each restricted positive roo"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "eeba1d1610a2e5d9",
+      "publishedAt": "2026-11-09T13:58:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12435v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "To SIMD or Not to SIMD: Comparing RVV vs. CGRA SoCs for Non-Linear Functions in AI",
+        "en": "To SIMD or Not to SIMD: Comparing RVV vs. CGRA SoCs for Non-Linear Functions in AI"
+      },
+      "summary": {
+        "ko": "Non-linear functions are an important class of operations in modern large language models. However, chip vendors building for AI have so far relied on traditional vector or scalar processing units for non-linear functions. The performance of these units has not kept pace with matrix multiplication units (MMUs), which can be found in both high-performance and edge-computing devices from almost every vendor. Reconfigurable units such as FPGAs and CGRAs have ",
+        "en": "Non-linear functions are an important class of operations in modern large language models. However, chip vendors building for AI have so far relied on traditional vector or scalar processing units for non-linear functions. The performance of these units has not kept pace with matrix multiplication units (MMUs), which can be found in both high-performance and edge-computing devices from almost every vendor. Reconfigurable units such as FPGAs and CGRAs have "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "952d2516af2e9054",
       "publishedAt": "2026-11-09T13:00:00Z",
       "source": "OpenAI",
@@ -95,6 +403,28 @@
       "summary": {
         "ko": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
         "en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2322dee0a1345cac",
+      "publishedAt": "2026-11-09T09:22:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.12107v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey",
+        "en": "Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey"
+      },
+      "summary": {
+        "ko": "Flow-based and diffusion-based models have become the principal means of learning and sampling high-dimensional probability distributions, from images and video to proteins, molecules and physical fields, and increasingly language. Each carries a simple law to the law of the data along a curve of probability measures, and behind the variety of their names lie three geometries, those of the state space on which the data live, of the space of probability mea",
+        "en": "Flow-based and diffusion-based models have become the principal means of learning and sampling high-dimensional probability distributions, from images and video to proteins, molecules and physical fields, and increasingly language. Each carries a simple law to the law of the data along a curve of probability measures, and behind the variety of their names lie three geometries, those of the state space on which the data live, of the space of probability mea"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T22:50:48.597142Z",
+  "generatedAt": "2026-11-11T22:58:02.197594Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -59,6 +59,138 @@
   ],
   "articles": [
     {
+      "id": "65b96c238445cded",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "ai",
+      "kind": "article",
+      "score": 44,
+      "title": {
+        "ko": "Gilbert + Tobin rethinks the business of law with AI",
+        "en": "Gilbert + Tobin rethinks the business of law with AI"
+      },
+      "summary": {
+        "ko": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ac94b61a25ade5ed",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "ChatGPT Plus for veterans and servicemembers",
+        "en": "ChatGPT Plus for veterans and servicemembers"
+      },
+      "summary": {
+        "ko": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "19b4fcb1faac9c9b",
+      "publishedAt": "2026-11-11T05:01:16Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+      },
+      "summary": {
+        "ko": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "55ff14dc4213127d",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "en": "JioStar’s chief architect on AI discovery at 500M-user scale"
+      },
+      "summary": {
+        "ko": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "en": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fcb358d24fde432a",
+      "publishedAt": "2026-11-10T18:31:36Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14467v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+        "en": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets"
+      },
+      "summary": {
+        "ko": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible ",
+        "en": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "85c5848b083b07e8",
+      "publishedAt": "2026-11-10T16:04:02Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14256v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+        "en": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents"
+      },
+      "summary": {
+        "ko": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymmetric mechanism transfer across four scenarios: multimodal reasoning, multimodal generation, GUI and Web navigation, and embodied manipulatio",
+        "en": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymmetric mechanism transfer across four scenarios: multimodal reasoning, multimodal generation, GUI and Web navigation, and embodied manipulatio"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "55cb0588b3e8436e",
       "publishedAt": "2026-11-10T16:03:47Z",
       "source": "Google DeepMind",
@@ -73,6 +205,116 @@
       "summary": {
         "ko": "Gemini 4 Carbon is now available",
         "en": "Gemini 4 Carbon is now available"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "114fdbe35224063b",
+      "publishedAt": "2026-11-10T15:32:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14210v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 60,
+      "title": {
+        "ko": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+        "en": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+      },
+      "summary": {
+        "ko": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights. Forward statistics define a",
+        "en": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights. Forward statistics define a"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "653f3c59c6ee9eeb",
+      "publishedAt": "2026-11-10T15:01:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14177v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "The elliptic Hall algebra and the combinatorics of affine Springer fibers",
+        "en": "The elliptic Hall algebra and the combinatorics of affine Springer fibers"
+      },
+      "summary": {
+        "ko": "For coprime positive integers $m,n$ and $k\\ge1$, we study the symmetric functions $e_k[-X^{m,n}Y]\\cdot1$ arising from the elliptic Hall algebra action. We identify their $ω_X$-transforms with the normalized bigraded Frobenius characteristics computed by Boixeda Alvarez--Hameister--Ma for the torus-equivariant Borel--Moore homology of the positive parts of homogeneous affine Springer fibers. We introduce cyclic LLT polynomials and determine their monomial e",
+        "en": "For coprime positive integers $m,n$ and $k\\ge1$, we study the symmetric functions $e_k[-X^{m,n}Y]\\cdot1$ arising from the elliptic Hall algebra action. We identify their $ω_X$-transforms with the normalized bigraded Frobenius characteristics computed by Boixeda Alvarez--Hameister--Ma for the torus-equivariant Borel--Moore homology of the positive parts of homogeneous affine Springer fibers. We introduce cyclic LLT polynomials and determine their monomial e"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4bcc46cd9719a393",
+      "publishedAt": "2026-11-10T14:10:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14123v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "A generalized Vojta-Rémond inequality over adelic curves",
+        "en": "A generalized Vojta-Rémond inequality over adelic curves"
+      },
+      "summary": {
+        "ko": "We extend Dill's generalized Vojta-Rémond inequality to proper adelic curves of characteristic zero, under an explicit Siegel hypothesis. The geometric case is closely related to recent work on Mordell-Lang plus geometric Bogomolov for semi-abelian varieties. Our formulation retains Dill's generality for products of distinct projective varieties. The appendix establishes the Siegel input for arithmetic function fields with nef and big polarizations on the ",
+        "en": "We extend Dill's generalized Vojta-Rémond inequality to proper adelic curves of characteristic zero, under an explicit Siegel hypothesis. The geometric case is closely related to recent work on Mordell-Lang plus geometric Bogomolov for semi-abelian varieties. Our formulation retains Dill's generality for products of distinct projective varieties. The appendix establishes the Siegel input for arithmetic function fields with nef and big polarizations on the "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "39d063a278c543be",
+      "publishedAt": "2026-11-10T13:59:49Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14106v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "ProofCoder: Continuous Reasoning for Automated Software Verification",
+        "en": "ProofCoder: Continuous Reasoning for Automated Software Verification"
+      },
+      "summary": {
+        "ko": "Formal verification using proof assistants provides strong correctness guarantees for software, but constructing proofs remains labor-intensive and requires significant expertise. Recent approaches based on large language models (LLMs) have shown promise in automating proof synthesis. However, these approaches typically constrain the model to a rigid tactic-generation loop, in which the surrounding system controls premise retrieval, proof-state management,",
+        "en": "Formal verification using proof assistants provides strong correctness guarantees for software, but constructing proofs remains labor-intensive and requires significant expertise. Recent approaches based on large language models (LLMs) have shown promise in automating proof synthesis. However, these approaches typically constrain the model to a rigid tactic-generation loop, in which the surrounding system controls premise retrieval, proof-state management,"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d75fc4cf7e5fd9ec",
+      "publishedAt": "2026-11-10T13:47:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14083v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models",
+        "en": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models"
+      },
+      "summary": {
+        "ko": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, softmax and sampling decision is determined by its inputs, and proves it with a constraint system whose relations provably never wrap modulo the 31-bit KoalaBear pr",
+        "en": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, softmax and sampling decision is determined by its inputs, and proves it with a constraint system whose relations provably never wrap modulo the 31-bit KoalaBear pr"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -125,6 +367,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "d31d88dd2e0b7e77",
+      "publishedAt": "2026-11-10T10:09:27Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.13848v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "A Moment Proof of the Hollman-Xiang Conjectures on Kloosterman Polynomials",
+        "en": "A Moment Proof of the Hollman-Xiang Conjectures on Kloosterman Polynomials"
+      },
+      "summary": {
+        "ko": "Let $F=\\F_{2^n}$ and let \\[ \\mathcal T_1=\\{t\\in F:\\Tr_{F/\\F_2}(t)=1\\}. \\] For an integer $u=\\sum_{i=0}^{n-1}u_i2^i$ of even binary weight, put \\[ L_u(X)=\\sum_{i=0}^{n-1}u_iX^{2^i}, \\qquad L_{1,u}(t)=t+L_u(t^{-1}). \\] Hollmann and Xiang conjectured that $L_{1,u}$ permutes $\\mathcal T_1$ if and only if $u\\in\\{0,3,6,10\\}$. We prove the necessity by a moment method; the sufficiency is their Theorem~4.1. The quadratic moment yields a cyclic autocorrelation iden",
+        "en": "Let $F=\\F_{2^n}$ and let \\[ \\mathcal T_1=\\{t\\in F:\\Tr_{F/\\F_2}(t)=1\\}. \\] For an integer $u=\\sum_{i=0}^{n-1}u_i2^i$ of even binary weight, put \\[ L_u(X)=\\sum_{i=0}^{n-1}u_iX^{2^i}, \\qquad L_{1,u}(t)=t+L_u(t^{-1}). \\] Hollmann and Xiang conjectured that $L_{1,u}$ permutes $\\mathcal T_1$ if and only if $u\\in\\{0,3,6,10\\}$. We prove the necessity by a moment method; the sufficiency is their Theorem~4.1. The quadratic moment yields a cyclic autocorrelation iden"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "991ad48e8559b2fe",
       "publishedAt": "2026-11-10T10:00:00Z",
       "source": "OpenAI",
@@ -169,6 +433,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "9092d5eb66f29547",
+      "publishedAt": "2026-11-10T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "en": "Singapore Airlines elevates travel & work with OpenAI technology"
+      },
+      "summary": {
+        "ko": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "en": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "f3fc54cd1d78c100",
       "publishedAt": "2026-11-10T07:00:00Z",
       "source": "OpenAI",
@@ -183,6 +469,28 @@
       "summary": {
         "ko": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
         "en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "37e4452e64c861cf",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cogent-security",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "en": "Cogent and OpenAI build cyber defense factories for enterprises"
+      },
+      "summary": {
+        "ko": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "en": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

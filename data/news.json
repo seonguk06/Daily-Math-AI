@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T22:58:02.197594Z",
+  "generatedAt": "2026-11-12T22:54:27.957379Z",
   "demo": false,
   "health": {
     "ok": 7,
@@ -58,6 +58,72 @@
     }
   ],
   "articles": [
+    {
+      "id": "a491aa90d650ab2b",
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "en": "How Amplitude ships product improvements in 1–2 days with OpenAI"
+      },
+      "summary": {
+        "ko": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "84ec87286cb35a64",
+      "publishedAt": "2026-11-12T19:07:35Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+      },
+      "summary": {
+        "ko": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d7c1da8cb7dc41da",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "category": "ai",
+      "kind": "article",
+      "score": 56,
+      "title": {
+        "ko": "Supporting research on AI and children’s safety",
+        "en": "Supporting research on AI and children’s safety"
+      },
+      "summary": {
+        "ko": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "en": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "65b96c238445cded",
       "publishedAt": "2026-11-12T00:00:00Z",
@@ -147,6 +213,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "c8669e10263a564f",
+      "publishedAt": "2026-11-10T18:58:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14517v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights",
+        "en": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights"
+      },
+      "summary": {
+        "ko": "Let C_h be the closure of the nonreal roots of integer polynomials with coefficients of modulus at most h. With the nonzero real roots included, the closure is connected at every height; without them, connectedness becomes arithmetic. We prove that C_h is connected exactly when h=q(q-1) is a pronic number 2, 6, 12, 20, ..., and has at least five components otherwise. At height two this confirms a twenty-year-old numerical observation of Shmerkin and Solomy",
+        "en": "Let C_h be the closure of the nonreal roots of integer polynomials with coefficients of modulus at most h. With the nonzero real roots included, the closure is connected at every height; without them, connectedness becomes arithmetic. We prove that C_h is connected exactly when h=q(q-1) is a pronic number 2, 6, 12, 20, ..., and has at least five components otherwise. At height two this confirms a twenty-year-old numerical observation of Shmerkin and Solomy"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "fcb358d24fde432a",
       "publishedAt": "2026-11-10T18:31:36Z",
       "source": "arXiv",
@@ -161,6 +249,72 @@
       "summary": {
         "ko": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible ",
         "en": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f622f9d2ba58b773",
+      "publishedAt": "2026-11-10T17:58:12Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14419v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 47,
+      "title": {
+        "ko": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+        "en": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning"
+      },
+      "summary": {
+        "ko": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended ",
+        "en": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c84d78d256e8a4ba",
+      "publishedAt": "2026-11-10T16:48:21Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14323v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 48,
+      "title": {
+        "ko": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance",
+        "en": "Auditing the Judge: Internal Signals for LLM Reasoning Assurance"
+      },
+      "summary": {
+        "ko": "Language-model systems use self-judgment to decide which answers to release, review, or recompute. Because intervention is costly, an assurance score must rank errors well at the available budget, not merely over the full ranking. We compare the judge's continuous verdict-token score with a supervised correctness probe trained on attention-head activations from the same prompt. Exact identities link fixed-budget error recall to residual risk and show that ",
+        "en": "Language-model systems use self-judgment to decide which answers to release, review, or recompute. Because intervention is costly, an assurance score must rank errors well at the available budget, not merely over the full ranking. We compare the judge's continuous verdict-token score with a supervised correctness probe trained on attention-head activations from the same prompt. Exact identities link fixed-budget error recall to residual risk and show that "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5c449639a6e05783",
+      "publishedAt": "2026-11-10T16:29:31Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14290v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Intermediate Growth and Rigidity in Primitive Circulant Spectral Algebras",
+        "en": "Intermediate Growth and Rigidity in Primitive Circulant Spectral Algebras"
+      },
+      "summary": {
+        "ko": "At prime graph orders, the complete nontrivial and primitive Fourier spectra of a circulant coincide. We show that this agreement conceals a strong algebraic separation when the graph order varies. For any nonempty finite jump set $S$, let $A_S^{\\mathrm{prim}}$ be the algebra of arithmetic functions obtained by evaluating symmetric power sums on the primitive spectrum, filtered by power-sum weight. Removing the common Euler-totient term gives a reduced, lo",
+        "en": "At prime graph orders, the complete nontrivial and primitive Fourier spectra of a circulant coincide. We show that this agreement conceals a strong algebraic separation when the graph order varies. For any nonempty finite jump set $S$, let $A_S^{\\mathrm{prim}}$ be the algebra of arithmetic functions obtained by evaluating symmetric power sums on the primitive spectrum, filtered by power-sum weight. Removing the common Euler-totient term gives a reduced, lo"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -257,6 +411,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "21d1b804c790e77a",
+      "publishedAt": "2026-11-10T14:46:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14160v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Zero-sum Ramsey numbers of forests and complete bipartite graphs",
+        "en": "Zero-sum Ramsey numbers of forests and complete bipartite graphs"
+      },
+      "summary": {
+        "ko": "For a graph $G$ and an integer $m\\ge2$ dividing $e(G)$, where $e(G)$ denotes the number of edges of $G$, the zero-sum Ramsey number $R(G,\\mathbb Z_m)$ is the least $N$ such that every $\\mathbb Z_m$-labeling of $E(K_N)$ contains a copy of $G$ whose edge labels sum to zero. Bialostocki and Dierker (1990) [4] conjectured that $R(F,\\mathbb Z_{e(F)})/R(F,2)\\to1$ uniformly over all forests $F$ as $e(F)\\to\\infty$, where $R(F,2)$ is the two-color Ramsey number, an",
+        "en": "For a graph $G$ and an integer $m\\ge2$ dividing $e(G)$, where $e(G)$ denotes the number of edges of $G$, the zero-sum Ramsey number $R(G,\\mathbb Z_m)$ is the least $N$ such that every $\\mathbb Z_m$-labeling of $E(K_N)$ contains a copy of $G$ whose edge labels sum to zero. Bialostocki and Dierker (1990) [4] conjectured that $R(F,\\mathbb Z_{e(F)})/R(F,2)\\to1$ uniformly over all forests $F$ as $e(F)\\to\\infty$, where $R(F,2)$ is the two-color Ramsey number, an"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "cdc0cb3c880d11e1",
+      "publishedAt": "2026-11-10T14:26:56Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14140v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Davenport Constants of High-Dimensional Integer Sets",
+        "en": "Davenport Constants of High-Dimensional Integer Sets"
+      },
+      "summary": {
+        "ko": "The Davenport constant of a finite set of integer vectors is the maximum length of an irreducible zero-sum sequence over that set. For nonempty sets closed under negation, it equals the largest $\\ell_1$-norm of a Graver basis element of the matrix formed by those vectors. We study extremal and average-case versions in growing dimension, with applications to integer programming. For integer cubes $[-R,R]^d \\cap \\mathbb{Z}^d$ and the sign cube $\\{-1,1\\}^d$, ",
+        "en": "The Davenport constant of a finite set of integer vectors is the maximum length of an irreducible zero-sum sequence over that set. For nonempty sets closed under negation, it equals the largest $\\ell_1$-norm of a Graver basis element of the matrix formed by those vectors. We study extremal and average-case versions in growing dimension, with applications to integer programming. For integer cubes $[-R,R]^d \\cap \\mathbb{Z}^d$ and the sign cube $\\{-1,1\\}^d$, "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "4bcc46cd9719a393",
       "publishedAt": "2026-11-10T14:10:29Z",
       "source": "arXiv",
@@ -315,6 +513,28 @@
       "summary": {
         "ko": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, softmax and sampling decision is determined by its inputs, and proves it with a constraint system whose relations provably never wrap modulo the 31-bit KoalaBear pr",
         "en": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, softmax and sampling decision is determined by its inputs, and proves it with a constraint system whose relations provably never wrap modulo the 31-bit KoalaBear pr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "92d36e29add22cbe",
+      "publishedAt": "2026-11-10T13:25:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.14060v1",
+      "category": "ai",
+      "kind": "paper",
+      "score": 44,
+      "title": {
+        "ko": "Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3",
+        "en": "Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3"
+      },
+      "summary": {
+        "ko": "A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position code, or token positions and order in its language model (LLM). Ablations show the ViT code is necessary; we test sufficiency by mirroring only a position code. In Qwen2.5-VL-7B, Qwen3-VL-4B and InternVL3-2B, mirroring ViT width positions reproduces the flipped-image answer on 84.3-93.2% of CV-Bench left-right ",
+        "en": "A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position code, or token positions and order in its language model (LLM). Ablations show the ViT code is necessary; we test sufficiency by mirroring only a position code. In Qwen2.5-VL-7B, Qwen3-VL-4B and InternVL3-2B, mirroring ViT width positions reproduces the flipped-image answer on 84.3-93.2% of CV-Bench left-right "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -425,6 +645,28 @@
       "summary": {
         "ko": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
         "en": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e31b9c180c04a62b",
+      "publishedAt": "2026-11-10T08:48:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.13747v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Essential $p$-dimension of simple algebras and noncrossed products of prime exponent",
+        "en": "Essential $p$-dimension of simple algebras and noncrossed products of prime exponent"
+      },
+      "summary": {
+        "ko": "Let $p$ be a prime and $F$ a field of characteristic different from $p$. For integers $n\\ge2$ and $1\\le m\\le n$, we complete the determination of the essential $p$-dimension of the class of central simple algebras of degree $p^n$ and exponent dividing $p^m$. In particular, we have $\\operatorname{ed}_p(\\operatorname{PGL}(p^n))=p^{2n-2}+1$, extending a result of Merkurjev for $n=2$. Using the comparison theorem of Chernousov and Merkurjev, we also determine ",
+        "en": "Let $p$ be a prime and $F$ a field of characteristic different from $p$. For integers $n\\ge2$ and $1\\le m\\le n$, we complete the determination of the essential $p$-dimension of the class of central simple algebras of degree $p^n$ and exponent dividing $p^m$. In particular, we have $\\operatorname{ed}_p(\\operatorname{PGL}(p^n))=p^{2n-2}+1$, extending a result of Merkurjev for $n=2$. Using the comparison theorem of Chernousov and Merkurjev, we also determine "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

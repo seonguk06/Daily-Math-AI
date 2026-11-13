@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T22:54:27.957379Z",
+  "generatedAt": "2026-11-13T22:51:44.876057Z",
   "demo": false,
   "health": {
     "ok": 7,
@@ -59,10 +59,76 @@
   ],
   "articles": [
     {
+      "id": "7d4d71d056da0286",
+      "publishedAt": "2026-11-13T15:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Introducing ChatGPT Wallet",
+        "en": "Introducing ChatGPT Wallet"
+      },
+      "summary": {
+        "ko": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "en": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6841e619fcd7e8d9",
+      "publishedAt": "2026-11-13T14:05:22Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+      },
+      "summary": {
+        "ko": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "a491aa90d650ab2b",
       "publishedAt": "2026-11-12T20:00:00Z",
       "source": "OpenAI",
       "url": "https://openai.com/index/amplitude",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "en": "How Amplitude ships product improvements in 1–2 days with OpenAI"
+      },
+      "summary": {
+        "ko": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "67672a694e389b29",
+      "publishedAt": "2026-11-12T20:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "category": "ai",
       "kind": "article",
       "score": 47,
@@ -95,6 +161,204 @@
       "summary": {
         "ko": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
         "en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "254d65d6a9675db1",
+      "publishedAt": "2026-11-12T18:52:33Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17287v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 65,
+      "title": {
+        "ko": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+        "en": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards"
+      },
+      "summary": {
+        "ko": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contai",
+        "en": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contai"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e5a4611a25d3f9ef",
+      "publishedAt": "2026-11-12T18:28:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17241v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 60,
+      "title": {
+        "ko": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+        "en": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery"
+      },
+      "summary": {
+        "ko": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deepe",
+        "en": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deepe"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d99062b65824dbf4",
+      "publishedAt": "2026-11-12T17:39:35Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17162v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "Symmetry in Time: A Representation Theory of Linear Recurrent Memory",
+        "en": "Symmetry in Time: A Representation Theory of Linear Recurrent Memory"
+      },
+      "summary": {
+        "ko": "State space models (SSMs) are an emerging alternative to Transformers. SSMs offer linear-time inference and parallel training, but most implementations make the parallel scan efficient by making the recurrence diagonal: each channel of the hidden state is multiplied by an input-dependent real or complex number. These numbers commute, so the state records which inputs occurred but not their order. We formalize this with representation theory, which explains",
+        "en": "State space models (SSMs) are an emerging alternative to Transformers. SSMs offer linear-time inference and parallel training, but most implementations make the parallel scan efficient by making the recurrence diagonal: each channel of the hidden state is multiplied by an input-dependent real or complex number. These numbers commute, so the state records which inputs occurred but not their order. We formalize this with representation theory, which explains"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e49a1526cac52f1e",
+      "publishedAt": "2026-11-12T16:33:51Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17052v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "Auditing AI peer reviewers: a benchmark on real scientific papers",
+        "en": "Auditing AI peer reviewers: a benchmark on real scientific papers"
+      },
+      "summary": {
+        "ko": "LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together with its false-positive rate on clean copies. We also present Skepthical, a multi-agent reviewer that verifies ci",
+        "en": "LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together with its false-positive rate on clean copies. We also present Skepthical, a multi-agent reviewer that verifies ci"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9daddc559ef57d5b",
+      "publishedAt": "2026-11-12T14:48:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16886v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 69,
+      "title": {
+        "ko": "LLM-Assisted Verification in Dafny",
+        "en": "LLM-Assisted Verification in Dafny"
+      },
+      "summary": {
+        "ko": "Formal verification of complex algorithms requires expertise in program specification, invariant construction, mathematical proof, and the management of automated theorem provers. Although large language models (LLMs) can generate program code and proof fragments, reliably developing complete machine-checked verifications remains challenging: it requires an iterative process of constructing and validating specifications and invariants, building proofs, dia",
+        "en": "Formal verification of complex algorithms requires expertise in program specification, invariant construction, mathematical proof, and the management of automated theorem provers. Although large language models (LLMs) can generate program code and proof fragments, reliably developing complete machine-checked verifications remains challenging: it requires an iterative process of constructing and validating specifications and invariants, building proofs, dia"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "93dbdc2017f81693",
+      "publishedAt": "2026-11-12T14:45:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16882v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models",
+        "en": "Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models"
+      },
+      "summary": {
+        "ko": "How does data shape language model (LM) behavior throughout pretraining? We investigate this question through a case study on entity comparison, e.g., Between France and Brazil, which country is larger?, across nine comparison tasks spanning five entity types. We begin with controlled experiments in which we train small LMs (163M parameters) on mixtures of natural text from pretraining corpora and synthetic task data. Our analysis identifies three distinct",
+        "en": "How does data shape language model (LM) behavior throughout pretraining? We investigate this question through a case study on entity comparison, e.g., Between France and Brazil, which country is larger?, across nine comparison tasks spanning five entity types. We begin with controlled experiments in which we train small LMs (163M parameters) on mixtures of natural text from pretraining corpora and synthetic task data. Our analysis identifies three distinct"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0fdaab0371d65712",
+      "publishedAt": "2026-11-12T12:31:51Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16713v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Higher moments of twisted Kloosterman sums and the arithmetic of algebraic varieties",
+        "en": "Higher moments of twisted Kloosterman sums and the arithmetic of algebraic varieties"
+      },
+      "summary": {
+        "ko": "For an odd prime $p,$ consider the affine varieties $X_k: \\sum\\limits_{i=1}^{k}(x_i+x_i^{-1})=0$ over the finite field $\\F_p.$ In this paper, a key feature of our work is arithmetic interpretation between the higher power moments of Kloosterman sums, modular forms and arithmetic geometry of the varieties $X_5$ and $X_6$ through their rational point counts. Our main results provide two distinct explicit formulas for the point count $\\#X_5(\\F_p).$ In the fir",
+        "en": "For an odd prime $p,$ consider the affine varieties $X_k: \\sum\\limits_{i=1}^{k}(x_i+x_i^{-1})=0$ over the finite field $\\F_p.$ In this paper, a key feature of our work is arithmetic interpretation between the higher power moments of Kloosterman sums, modular forms and arithmetic geometry of the varieties $X_5$ and $X_6$ through their rational point counts. Our main results provide two distinct explicit formulas for the point count $\\#X_5(\\F_p).$ In the fir"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b9840fd67063a36a",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Gondola doubles revenue as its team builds more with Codex",
+        "en": "Gondola doubles revenue as its team builds more with Codex"
+      },
+      "summary": {
+        "ko": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "en": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "75306d0a27e2bd61",
+      "publishedAt": "2026-11-12T11:41:03Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16665v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Proof of the Quasi Riemann Hypothesis using $\\mathbb Q[i]$",
+        "en": "Proof of the Quasi Riemann Hypothesis using $\\mathbb Q[i]$"
+      },
+      "summary": {
+        "ko": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I",
+        "en": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

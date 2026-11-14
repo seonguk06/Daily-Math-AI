@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T22:51:44.876057Z",
+  "generatedAt": "2026-11-14T22:45:33.483607Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -103,6 +103,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "a99dfdd20d85acbb",
+      "publishedAt": "2026-11-13T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "en": "Shield helps technicians hand off legacy portal work with OpenAI"
+      },
+      "summary": {
+        "ko": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "a491aa90d650ab2b",
       "publishedAt": "2026-11-12T20:00:00Z",
       "source": "OpenAI",
@@ -191,6 +213,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "4ce104f30d0fd5ae",
+      "publishedAt": "2026-11-12T18:34:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17246v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Programming Quantum Circuit Parameters with Large Language Models",
+        "en": "Programming Quantum Circuit Parameters with Large Language Models"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on ",
+        "en": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "e5a4611a25d3f9ef",
       "publishedAt": "2026-11-12T18:28:08Z",
       "source": "arXiv",
@@ -205,6 +249,50 @@
       "summary": {
         "ko": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deepe",
         "en": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deepe"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f8ac94d5bbea096a",
+      "publishedAt": "2026-11-12T18:19:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17223v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Combinatorial Bernoulli Factories with Polynomially Many Coins",
+        "en": "Combinatorial Bernoulli Factories with Polynomially Many Coins"
+      },
+      "summary": {
+        "ko": "We provide an efficient implementation of combinatorial Bernoulli factories. Such a factory turns coins of unknown biases $x$ into a random vertex of a polytope $P$ whose mean is exactly $x$. For every affine slice of the cube (the class of polytopes that admit a factory), we give a single algorithm whose expected number of coin flips and running time at every interior $x$ are polynomial in the dimension and in $1/{δ_*}$, where ${δ_*}=\\min_i\\{x_i,1-x_i\\}$ ",
+        "en": "We provide an efficient implementation of combinatorial Bernoulli factories. Such a factory turns coins of unknown biases $x$ into a random vertex of a polytope $P$ whose mean is exactly $x$. For every affine slice of the cube (the class of polytopes that admit a factory), we give a single algorithm whose expected number of coin flips and running time at every interior $x$ are polynomial in the dimension and in $1/{δ_*}$, where ${δ_*}=\\min_i\\{x_i,1-x_i\\}$ "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5b69826eead48a96",
+      "publishedAt": "2026-11-12T18:00:50Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Introducing Gemini 4 Hydrogen",
+        "en": "Introducing Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "ko": "Introducing Gemini 4 Hydrogen",
+        "en": "Introducing Gemini 4 Hydrogen"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -257,6 +345,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "67b74680bfa88581",
+      "publishedAt": "2026-11-12T15:56:13Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16991v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+        "en": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design"
+      },
+      "summary": {
+        "ko": "Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verification tools. We introduce \\textbf{AnalogLayoutWorld}, an open-source agent benchmark with 40 expert-reviewed t",
+        "en": "Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verification tools. We introduce \\textbf{AnalogLayoutWorld}, an open-source agent benchmark with 40 expert-reviewed t"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e36f4fc16d236753",
+      "publishedAt": "2026-11-12T15:16:19Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16929v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "SPADE: Soft Prompts for Ai-text DEtection",
+        "en": "SPADE: Soft Prompts for Ai-text DEtection"
+      },
+      "summary": {
+        "ko": "The easy access to Large Language Models (LLMs) has made AI-generated texts on the web increasingly ubiquitous, making AI-text detection a crucial task. Prompts greatly influence the generation process, but existing detectors focus solely on the generated texts --- supervised methods learn from labeled texts only, and zero-shot methods rely on the text's probability distributions --- ignoring the underlying generation process, which limits their robustness",
+        "en": "The easy access to Large Language Models (LLMs) has made AI-generated texts on the web increasingly ubiquitous, making AI-text detection a crucial task. Prompts greatly influence the generation process, but existing detectors focus solely on the generated texts --- supervised methods learn from labeled texts only, and zero-shot methods rely on the text's probability distributions --- ignoring the underlying generation process, which limits their robustness"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9e98f51fd71faf1a",
+      "publishedAt": "2026-11-12T14:51:51Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16895v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Human or Synthetic? What a Fixed Budget Buys for Post-Training",
+        "en": "Human or Synthetic? What a Fixed Budget Buys for Post-Training"
+      },
+      "summary": {
+        "ko": "Post-training of large language models typically combines supervised fine-tuning (SFT) with preference-based fine-tuning such as Direct Preference Optimization (DPO). Human-annotated and synthetically generated preference data differ substantially in per-sample cost, but prior work typically holds sample count fixed when comparing the two. In this work, we explicitly study the interplay between cost and performance by comparing the effect of post-training ",
+        "en": "Post-training of large language models typically combines supervised fine-tuning (SFT) with preference-based fine-tuning such as Direct Preference Optimization (DPO). Human-annotated and synthetically generated preference data differ substantially in per-sample cost, but prior work typically holds sample count fixed when comparing the two. In this work, we explicitly study the interplay between cost and performance by comparing the effect of post-training "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "9daddc559ef57d5b",
       "publishedAt": "2026-11-12T14:48:38Z",
       "source": "arXiv",
@@ -293,6 +447,50 @@
       "summary": {
         "ko": "How does data shape language model (LM) behavior throughout pretraining? We investigate this question through a case study on entity comparison, e.g., Between France and Brazil, which country is larger?, across nine comparison tasks spanning five entity types. We begin with controlled experiments in which we train small LMs (163M parameters) on mixtures of natural text from pretraining corpora and synthetic task data. Our analysis identifies three distinct",
         "en": "How does data shape language model (LM) behavior throughout pretraining? We investigate this question through a case study on entity comparison, e.g., Between France and Brazil, which country is larger?, across nine comparison tasks spanning five entity types. We begin with controlled experiments in which we train small LMs (163M parameters) on mixtures of natural text from pretraining corpora and synthetic task data. Our analysis identifies three distinct"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f730af289690c913",
+      "publishedAt": "2026-11-12T14:45:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16881v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Protein Language Models Fail To Capture Contact Predictions Under Invariant Relabeling",
+        "en": "Protein Language Models Fail To Capture Contact Predictions Under Invariant Relabeling"
+      },
+      "summary": {
+        "ko": "Protein language models (pLMs) produce highly accurate contact maps from single-sequence inputs. People often take this accuracy as proof that these models implicitly learn invariant coevolutionary statistics, extracting the same signals as classical alignment-based methods like Potts. In this work, we introduce a diagnostic framework around a global bijective relabeling of the amino-acid alphabet. This transformation permutes residue letters while leaving",
+        "en": "Protein language models (pLMs) produce highly accurate contact maps from single-sequence inputs. People often take this accuracy as proof that these models implicitly learn invariant coevolutionary statistics, extracting the same signals as classical alignment-based methods like Potts. In this work, we introduce a diagnostic framework around a global bijective relabeling of the amino-acid alphabet. This transformation permutes residue letters while leaving"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "cf693a2cc3853ddc",
+      "publishedAt": "2026-11-12T14:38:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16871v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data",
+        "en": "DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data"
+      },
+      "summary": {
+        "ko": "Decentralized training of deep learning models keeps training data local and supports on-device learning over networks. In realistic scenarios, heterogeneity across agents' local data poses an optimization challenge and can severely degrade test accuracy, especially on sparse communication graphs. Building on recent advances in centralized primal averaging, we propose Decentralized Primal Averaging (DPA), a decentralized learning algorithm that combines pr",
+        "en": "Decentralized training of deep learning models keeps training data local and supports on-device learning over networks. In realistic scenarios, heterogeneity across agents' local data poses an optimization challenge and can severely degrade test accuracy, especially on sparse communication graphs. Building on recent advances in centralized primal averaging, we propose Decentralized Primal Averaging (DPA), a decentralized learning algorithm that combines pr"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -359,6 +557,28 @@
       "summary": {
         "ko": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I",
         "en": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ef3afb8fb438a103",
+      "publishedAt": "2026-11-12T11:28:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16651v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Matrix Waring Problem in finite fields with coefficients from $\\mathrm{GL}(2, \\mathbb{F}_p)$",
+        "en": "Matrix Waring Problem in finite fields with coefficients from $\\mathrm{GL}(2, \\mathbb{F}_p)$"
+      },
+      "summary": {
+        "ko": "Let $k$ be a fixed positive integer and $p$ be an odd prime such that $\\gcd(p-1,k)=1$. For sufficiently large primes $p$, we show that the equation $AX^k+BY^k=C$ has solutions $X,Y \\in \\mathrm{GL}(2, \\mathbb{F}_p)$, where $A$ and $B$ are fixed matrices in $\\mathrm{GL}(2, \\mathbb{F}_p)$, and $C$ is a fixed matrix in $\\mathrm{M}(2,\\mathbb{F}_p).$ Our proof relies on Fourier analysis over $\\mathrm{GL}(2, \\mathbb{F}_p).$",
+        "en": "Let $k$ be a fixed positive integer and $p$ be an odd prime such that $\\gcd(p-1,k)=1$. For sufficiently large primes $p$, we show that the equation $AX^k+BY^k=C$ has solutions $X,Y \\in \\mathrm{GL}(2, \\mathbb{F}_p)$, where $A$ and $B$ are fixed matrices in $\\mathrm{GL}(2, \\mathbb{F}_p)$, and $C$ is a fixed matrix in $\\mathrm{M}(2,\\mathbb{F}_p).$ Our proof relies on Fourier analysis over $\\mathrm{GL}(2, \\mathbb{F}_p).$"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -843,6 +1063,28 @@
       "summary": {
         "ko": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
         "en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1972a6107d7cc016",
+      "publishedAt": "2026-11-10T11:13:04Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Opening the datasets behind our AI weather models",
+        "en": "Opening the datasets behind our AI weather models"
+      },
+      "summary": {
+        "ko": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+        "en": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

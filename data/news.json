@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T22:45:33.483607Z",
+  "generatedAt": "2026-11-15T22:47:25.509975Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -58,6 +58,50 @@
     }
   ],
   "articles": [
+    {
+      "id": "2e8f421d2ee2a3df",
+      "publishedAt": "2026-11-15T22:00:01Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "A step toward defining the Standard Model on a lattice",
+        "en": "A step toward defining the Standard Model on a lattice"
+      },
+      "summary": {
+        "ko": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "33b95c2112c46efd",
+      "publishedAt": "2026-11-15T22:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Our new blog for science",
+        "en": "Our new blog for science"
+      },
+      "summary": {
+        "ko": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "7d4d71d056da0286",
       "publishedAt": "2026-11-13T15:00:00Z",
@@ -279,6 +323,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "5121ced03a1fcb1c",
+      "publishedAt": "2026-11-12T18:05:45Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17205v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Forbidden subset sums in a linear range: an inverse theorem and the Erdős-Graham irregularity problem",
+        "en": "Forbidden subset sums in a linear range: an inverse theorem and the Erdős-Graham irregularity problem"
+      },
+      "summary": {
+        "ko": "For $c>0$ let $f_c(n)$ be the largest size of a set $A\\subseteq\\{1,\\dots,\\lfloor cn\\rfloor\\}$ such that $n$ is not a sum of distinct elements of $A$. Erdős and Graham asked whether $f_c(n)$ depends on $n$ in an irregular way (Erdős Problem \\#361). We prove that $f_c(n)=\\lfloor cn\\rfloor-\\lceil n/2\\rceil$ for $c\\ge 1$, while for $0 0$, then every $A\\subseteq\\{1,\\dots,E\\}$ with $|A|\\ge E/q+\\varepsilon T$ has a subset summing to $sT$, uniformly for all suffic",
+        "en": "For $c>0$ let $f_c(n)$ be the largest size of a set $A\\subseteq\\{1,\\dots,\\lfloor cn\\rfloor\\}$ such that $n$ is not a sum of distinct elements of $A$. Erdős and Graham asked whether $f_c(n)$ depends on $n$ in an irregular way (Erdős Problem \\#361). We prove that $f_c(n)=\\lfloor cn\\rfloor-\\lceil n/2\\rceil$ for $c\\ge 1$, while for $0 0$, then every $A\\subseteq\\{1,\\dots,E\\}$ with $|A|\\ge E/q+\\varepsilon T$ has a subset summing to $sT$, uniformly for all suffic"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5b69826eead48a96",
       "publishedAt": "2026-11-12T18:00:50Z",
       "source": "Google DeepMind",
@@ -315,6 +381,72 @@
       "summary": {
         "ko": "State space models (SSMs) are an emerging alternative to Transformers. SSMs offer linear-time inference and parallel training, but most implementations make the parallel scan efficient by making the recurrence diagonal: each channel of the hidden state is multiplied by an input-dependent real or complex number. These numbers commute, so the state records which inputs occurred but not their order. We formalize this with representation theory, which explains",
         "en": "State space models (SSMs) are an emerging alternative to Transformers. SSMs offer linear-time inference and parallel training, but most implementations make the parallel scan efficient by making the recurrence diagonal: each channel of the hidden state is multiplied by an input-dependent real or complex number. These numbers commute, so the state records which inputs occurred but not their order. We formalize this with representation theory, which explains"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8d1a96d99503cf0d",
+      "publishedAt": "2026-11-12T17:37:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17155v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Algebraic and geometric aspects of Demazure weaves",
+        "en": "Algebraic and geometric aspects of Demazure weaves"
+      },
+      "summary": {
+        "ko": "These are notes to supplement my talks at the Current Developments in Mathematics Conference in 2026. They are an expository account of recent work in the study of braid varieties and their relation to low-dimensional contact and symplectic topology. A driving theme is the development and use of Demazure weaves to construct cluster algebra structures on the coordinate rings of such braid varieties.",
+        "en": "These are notes to supplement my talks at the Current Developments in Mathematics Conference in 2026. They are an expository account of recent work in the study of braid varieties and their relation to low-dimensional contact and symplectic topology. A driving theme is the development and use of Demazure weaves to construct cluster algebra structures on the coordinate rings of such braid varieties."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "16a714594e46a1a9",
+      "publishedAt": "2026-11-12T17:31:50Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17145v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Enhancing Preference Detection using Eye Movement Cascade and Multilayer Combinatorial Fusion",
+        "en": "Enhancing Preference Detection using Eye Movement Cascade and Multilayer Combinatorial Fusion"
+      },
+      "summary": {
+        "ko": "Understanding how visual attention influences human preference formation is a fundamental problem in consumer behavior and cognitive science. In this work, we investigate how eye movement patterns can be used to predict preference decisions when subjects compare two alternatives. To address this problem, we analyze an eye-tracking dataset, where subjects view pairs of face images and their gaze behavior is recorded throughout the decision process. We model",
+        "en": "Understanding how visual attention influences human preference formation is a fundamental problem in consumer behavior and cognitive science. In this work, we investigate how eye movement patterns can be used to predict preference decisions when subjects compare two alternatives. To address this problem, we analyze an eye-tracking dataset, where subjects view pairs of face images and their gaze behavior is recorded throughout the decision process. We model"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "534334f9f85e89d8",
+      "publishedAt": "2026-11-12T17:26:28Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17136v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "On the multidimensional polynomial Szemerédi theorem",
+        "en": "On the multidimensional polynomial Szemerédi theorem"
+      },
+      "summary": {
+        "ko": "We study the multidimensional polynomial Szemerédi theorem over prime fields. Let $P_1,\\dots,P_m\\in\\F_p[t]^k$ be block independent vector polynomials of degree at most $d$, with $P_i(0)=0$ for every $i$. We prove that there is a constant $c=c(k,m,d)>0$ such that, for every sufficiently large prime $p$, every set $A\\subset\\F_p^k$ with $|A|\\ge p^{k-c}$ contains a configuration $x,x+P_1(t),\\dots,x+P_m(t)$ with $t\\in\\F_p\\setminus\\{0\\}$.",
+        "en": "We study the multidimensional polynomial Szemerédi theorem over prime fields. Let $P_1,\\dots,P_m\\in\\F_p[t]^k$ be block independent vector polynomials of degree at most $d$, with $P_i(0)=0$ for every $i$. We prove that there is a constant $c=c(k,m,d)>0$ such that, for every sufficiently large prime $p$, every set $A\\subset\\F_p^k$ with $|A|\\ge p^{k-c}$ contains a configuration $x,x+P_1(t),\\dots,x+P_m(t)$ with $t\\in\\F_p\\setminus\\{0\\}$."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -499,6 +631,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "61d34101c762f37e",
+      "publishedAt": "2026-11-12T14:34:43Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16862v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Incidence Geometry with Polarity and Tiled Surfaces",
+        "en": "Incidence Geometry with Polarity and Tiled Surfaces"
+      },
+      "summary": {
+        "ko": "In 2023, Fomin and Pylyavskyy introduced the master theorem to find and prove linear incidence theorems using quadrilateral tilings of oriented surfaces. Each face of the surface corresponds to an incidence condition, which they call a coherence condition. We extend their master theorem by incorporating polarity into coherence and allowing nonorientable surfaces. Our new coherence condition can be interpreted as perpendicularity from the perspective of Cay",
+        "en": "In 2023, Fomin and Pylyavskyy introduced the master theorem to find and prove linear incidence theorems using quadrilateral tilings of oriented surfaces. Each face of the surface corresponds to an incidence condition, which they call a coherence condition. We extend their master theorem by incorporating polarity into coherence and allowing nonorientable surfaces. Our new coherence condition can be interpreted as perpendicularity from the perspective of Cay"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "881276042adb6448",
+      "publishedAt": "2026-11-12T14:12:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16837v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 36,
+      "title": {
+        "ko": "Chern characteristic classes of normal bundles of complex generalized flag submanifolds in generalized flag manifolds",
+        "en": "Chern characteristic classes of normal bundles of complex generalized flag submanifolds in generalized flag manifolds"
+      },
+      "summary": {
+        "ko": "We study Chern characteristic classes of normal vector bundles of complex generalized flag submanifolds $G_{n-1}/P_{n-1}$ in complex generalized flag manifolds $G_n/P_n$. This procedure can be regarded as the relative version of Schubert calculus for the pair $G_{n-1}/P_{n-1}$ and $G_n/P_n$. The CW structure and additive structure of the cohomology of $\\mathrm{Gr}(n, k)$ allows inductive calculation of Chern classes of the canonical and complementary canon",
+        "en": "We study Chern characteristic classes of normal vector bundles of complex generalized flag submanifolds $G_{n-1}/P_{n-1}$ in complex generalized flag manifolds $G_n/P_n$. This procedure can be regarded as the relative version of Schubert calculus for the pair $G_{n-1}/P_{n-1}$ and $G_n/P_n$. The CW structure and additive structure of the cohomology of $\\mathrm{Gr}(n, k)$ allows inductive calculation of Chern classes of the canonical and complementary canon"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "0fdaab0371d65712",
       "publishedAt": "2026-11-12T12:31:51Z",
       "source": "arXiv",
@@ -513,6 +689,28 @@
       "summary": {
         "ko": "For an odd prime $p,$ consider the affine varieties $X_k: \\sum\\limits_{i=1}^{k}(x_i+x_i^{-1})=0$ over the finite field $\\F_p.$ In this paper, a key feature of our work is arithmetic interpretation between the higher power moments of Kloosterman sums, modular forms and arithmetic geometry of the varieties $X_5$ and $X_6$ through their rational point counts. Our main results provide two distinct explicit formulas for the point count $\\#X_5(\\F_p).$ In the fir",
         "en": "For an odd prime $p,$ consider the affine varieties $X_k: \\sum\\limits_{i=1}^{k}(x_i+x_i^{-1})=0$ over the finite field $\\F_p.$ In this paper, a key feature of our work is arithmetic interpretation between the higher power moments of Kloosterman sums, modular forms and arithmetic geometry of the varieties $X_5$ and $X_6$ through their rational point counts. Our main results provide two distinct explicit formulas for the point count $\\#X_5(\\F_p).$ In the fir"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e2fc660975b15e25",
+      "publishedAt": "2026-11-12T12:12:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16695v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Free Gödel algebras over Gödel hoops",
+        "en": "Free Gödel algebras over Gödel hoops"
+      },
+      "summary": {
+        "ko": "We give an explicit description of the left adjoint $F$ of the forgetful functor $U\\colon\\mathsf{GAlg}\\to\\mathsf{GHoops}$ from Gödel algebras to Gödel hoops. If $H$ is a Gödel hoop with a least element $m$, then $F(H)$ is the direct product of the Gödel algebra obtained by adjoining a new bottom element to $H$ and of $H$ itself, regarded as a Gödel algebra with bottom element $m$. For an arbitrary Gödel hoop $H$, we glue these products along the principal ",
+        "en": "We give an explicit description of the left adjoint $F$ of the forgetful functor $U\\colon\\mathsf{GAlg}\\to\\mathsf{GHoops}$ from Gödel algebras to Gödel hoops. If $H$ is a Gödel hoop with a least element $m$, then $F(H)$ is the direct product of the Gödel algebra obtained by adjoining a new bottom element to $H$ and of $H$ itself, regarded as a Gödel algebra with bottom element $m$. For an arbitrary Gödel hoop $H$, we glue these products along the principal "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -557,6 +755,28 @@
       "summary": {
         "ko": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I",
         "en": "Using quartic Gauss sums in place of the cubic Gauss sums in OpenAI's original proof, we prove that the Dedekind $ζ$-function $ζ_{\\mathbb Q(i)}(s)$ of $\\mathbb Q(i)$ has no zeros in the half-plane $\\Re s>599/600$, thereby obtaining the same zero-free half-plane for the Riemann $ζ$-function.We obtain the upper bound for the smoothed sum by applying Poisson summation twice and using the functional equation of the quartic Kubota series of angular weight $1$.I"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "32106767bed34ae1",
+      "publishedAt": "2026-11-12T11:36:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.16659v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 36,
+      "title": {
+        "ko": "Complete enumeration of maximal T-curves in degrees eight and nine",
+        "en": "Complete enumeration of maximal T-curves in degrees eight and nine"
+      },
+      "summary": {
+        "ko": "We use a highly parallelized backtracking algorithm implemented in CUDA to enumerate every compatible collection of Harnack splits in degrees eight and nine. By a theorem of Haas (1997) this yields every maximal T-curve. In this way, we find that exactly 38 real schemes of real plane algebraic curves of degree eight with 22 real components and 225 of degree nine with 29 real components are realized by combinatorial patchworking.",
+        "en": "We use a highly parallelized backtracking algorithm implemented in CUDA to enumerate every compatible collection of Harnack splits in degrees eight and nine. By a theorem of Haas (1997) this yields every maximal T-curve. In this way, we find that exactly 38 real schemes of real plane algebraic curves of degree eight with 22 real components and 225 of degree nine with 29 real components are realized by combinatorial patchworking."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

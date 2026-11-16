@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T22:47:25.509975Z",
+  "generatedAt": "2026-11-16T22:55:03.603578Z",
   "demo": false,
   "health": {
     "ok": 7,
@@ -59,6 +59,116 @@
   ],
   "articles": [
     {
+      "id": "2d7a5d6b20fff3cd",
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Broadening access to AI for scientists",
+        "en": "Broadening access to AI for scientists"
+      },
+      "summary": {
+        "ko": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "en": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d91fd06de7b8771e",
+      "publishedAt": "2026-11-16T12:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Science at the Frontier: How scientists use ChatGPT",
+        "en": "Science at the Frontier: How scientists use ChatGPT"
+      },
+      "summary": {
+        "ko": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "en": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ff7833693fa2a067",
+      "publishedAt": "2026-11-16T09:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "en": "LVMH’s Media Division announces strategic partnership with OpenAI"
+      },
+      "summary": {
+        "ko": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "en": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "21e886491b30cfff",
+      "publishedAt": "2026-11-16T06:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "category": "ai",
+      "kind": "article",
+      "score": 44,
+      "title": {
+        "ko": "More ways to move care forward with ChatGPT for Healthcare",
+        "en": "More ways to move care forward with ChatGPT for Healthcare"
+      },
+      "summary": {
+        "ko": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+        "en": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "60f3c7381bc61eae",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "The King’s Trust and OpenAI launch £1m partnership",
+        "en": "The King’s Trust and OpenAI launch £1m partnership"
+      },
+      "summary": {
+        "ko": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "en": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "2e8f421d2ee2a3df",
       "publishedAt": "2026-11-15T22:00:01Z",
       "source": "OpenAI",
@@ -103,6 +213,94 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "58b53c2745b9cbfa",
+      "publishedAt": "2026-11-13T18:47:24Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18538v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+        "en": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory"
+      },
+      "summary": {
+        "ko": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather than demand unrelated facts scattered arbitrarily across it. We formalize this phenomenon through future-task information, the minimum retained information needed to preserve decision value relative to the available evidence. A joint decision-",
+        "en": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather than demand unrelated facts scattered arbitrarily across it. We formalize this phenomenon through future-task information, the minimum retained information needed to preserve decision value relative to the available evidence. A joint decision-"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1307b611519837a2",
+      "publishedAt": "2026-11-13T18:05:33Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18494v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+        "en": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models"
+      },
+      "summary": {
+        "ko": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) ",
+        "en": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4f19139174832c88",
+      "publishedAt": "2026-11-13T16:39:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18396v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Deep Neural Networks Training Efficiency: Does Grokking Modify its Dynamics?",
+        "en": "Deep Neural Networks Training Efficiency: Does Grokking Modify its Dynamics?"
+      },
+      "summary": {
+        "ko": "We study whether grokking, the delayed emergence of out-of-distribution generalization after apparent overfitting, alters training efficiency in deep neural networks, where efficiency is measured as accuracy per unit energy. Using two canonical settings, modular arithmetic and MNIST, we analyze two neural network models under 16-, 32-, and 64-bit precision and use Orthograd to test whether grokking produces noticeable deviations from the typically decreasi",
+        "en": "We study whether grokking, the delayed emergence of out-of-distribution generalization after apparent overfitting, alters training efficiency in deep neural networks, where efficiency is measured as accuracy per unit energy. Using two canonical settings, modular arithmetic and MNIST, we analyze two neural network models under 16-, 32-, and 64-bit precision and use Orthograd to test whether grokking produces noticeable deviations from the typically decreasi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4245f2e13d0e45ea",
+      "publishedAt": "2026-11-13T15:46:18Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18333v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 48,
+      "title": {
+        "ko": "Emulating physics-based XCO2 retrievals across OCO-2 viewing modes with compact neural networks",
+        "en": "Emulating physics-based XCO2 retrievals across OCO-2 viewing modes with compact neural networks"
+      },
+      "summary": {
+        "ko": "Operational full-physics retrieval of the column-averaged dry-air mole fraction of carbon dioxide from satellite spectra is computationally demanding. We use singular value decomposition to compress spectra from the Orbiting Carbon Observatory-2 separately by band. Compact multilayer perceptrons use the resulting spectral scores, prior information, and viewing geometry to predict the difference between the full-physics retrieval and its operational prior. ",
+        "en": "Operational full-physics retrieval of the column-averaged dry-air mole fraction of carbon dioxide from satellite spectra is computationally demanding. We use singular value decomposition to compress spectra from the Orbiting Carbon Observatory-2 separately by band. Compact multilayer perceptrons use the resulting spectral scores, prior information, and viewing geometry to predict the difference between the full-physics retrieval and its operational prior. "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "7d4d71d056da0286",
       "publishedAt": "2026-11-13T15:00:00Z",
       "source": "OpenAI",
@@ -117,6 +315,28 @@
       "summary": {
         "ko": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
         "en": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a10b46698de883b6",
+      "publishedAt": "2026-11-13T14:43:55Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18248v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Dancing Tokens on the Vocabulary Network from LLM Generation",
+        "en": "Dancing Tokens on the Vocabulary Network from LLM Generation"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) generate text one token at a time, yet how a particular generation relates to the geometry learned in pre-training remains unclear. The fundamental explainability of LLMs is elusive. Here, we build a similarity network from the input embeddings of six open LLMs and map generation onto it. The token-embedding network is scale-free while heavy-tailed, as are random embeddings with matched covariance, but far more fragmented. Dist",
+        "en": "Large language models (LLMs) generate text one token at a time, yet how a particular generation relates to the geometry learned in pre-training remains unclear. The fundamental explainability of LLMs is elusive. Here, we build a similarity network from the input embeddings of six open LLMs and map generation onto it. The token-embedding network is scale-free while heavy-tailed, as are random embeddings with matched covariance, but far more fragmented. Dist"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -147,6 +367,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "1ffc97b2b2da828f",
+      "publishedAt": "2026-11-13T13:11:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18140v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries",
+        "en": "Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries"
+      },
+      "summary": {
+        "ko": "Fast charging of lithium-ion batteries is a multi-objective control problem that requires reducing charging time and sustaining high energy throughput while suppressing accelerated degradation and safety-critical electrochemical reactions. Conventional protocols are easy to implement but have limited ability to adapt to variations in battery chemistry, operating conditions, and aging state. Model-based optimization and conventional data-driven control ofte",
+        "en": "Fast charging of lithium-ion batteries is a multi-objective control problem that requires reducing charging time and sustaining high energy throughput while suppressing accelerated degradation and safety-critical electrochemical reactions. Conventional protocols are easy to implement but have limited ability to adapt to variations in battery chemistry, operating conditions, and aging state. Model-based optimization and conventional data-driven control ofte"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "76922c2db5fe10fb",
+      "publishedAt": "2026-11-13T12:53:45Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.18125v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
+        "en": "Efficient Poincaré Convolutions through Patch-Statistics Factorization"
+      },
+      "summary": {
+        "ko": "Published implementations of the Poincaré convolution in Hyperbolic Neural Networks++ (HNN++) map every overlapping image patch to the Poincaré ball before evaluating its score. We show that the clipped score depends on each patch only through two statistics, its squared norm and its inner products with the filters, which a native convolution and a single-channel box filter compute directly. The factorized layer therefore evaluates the specified score exac",
+        "en": "Published implementations of the Poincaré convolution in Hyperbolic Neural Networks++ (HNN++) map every overlapping image patch to the Poincaré ball before evaluating its score. We show that the clipped score depends on each patch only through two statistics, its squared norm and its inner products with the filters, which a native convolution and a single-channel box filter compute directly. The factorized layer therefore evaluates the specified score exac"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "a99dfdd20d85acbb",
       "publishedAt": "2026-11-13T08:00:00Z",
       "source": "OpenAI",
@@ -161,6 +425,28 @@
       "summary": {
         "ko": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
         "en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ea8978f6d0966d80",
+      "publishedAt": "2026-11-13T07:23:06Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17841v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Inequalities for intersection numbers from Hodge-Riemann relations",
+        "en": "Inequalities for intersection numbers from Hodge-Riemann relations"
+      },
+      "summary": {
+        "ko": "We derived inequalities for intersection numbers of nef classes inside algebras satisfying the Kähler package, using Hodge-Riemann relations up to degree two. As an application, we construct certain strictly Lorentzian polynomials and show that they cannot be realized as the volume polynomial of nef classes inside such an algebra.",
+        "en": "We derived inequalities for intersection numbers of nef classes inside algebras satisfying the Kähler package, using Hodge-Riemann relations up to degree two. As an application, we construct certain strictly Lorentzian polynomials and show that they cannot be realized as the volume polynomial of nef classes inside such an algebra."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7685,116 +7971,6 @@
       "summary": {
         "ko": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
         "en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "200a5d3dd39c6bfb",
-      "publishedAt": "2026-10-14T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "category": "ai",
-      "kind": "article",
-      "score": 58,
-      "title": {
-        "ko": "The EU’s next chapter in AI is agentic",
-        "en": "The EU’s next chapter in AI is agentic"
-      },
-      "summary": {
-        "ko": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-        "en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "1dc99b611b2499a3",
-      "publishedAt": "2026-10-13T19:43:07Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "category": "ai",
-      "kind": "article",
-      "score": 46,
-      "title": {
-        "ko": "Developing Gemini 4 Argon responsibly and safely",
-        "en": "Developing Gemini 4 Argon responsibly and safely"
-      },
-      "summary": {
-        "ko": "Developing Gemini 4 Argon responsibly and safely",
-        "en": "Developing Gemini 4 Argon responsibly and safely"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "d96a2391b623b2cb",
-      "publishedAt": "2026-10-13T16:01:58Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-      "category": "ai",
-      "kind": "article",
-      "score": 46,
-      "title": {
-        "ko": "Gemini 4 Argon for Robotics",
-        "en": "Gemini 4 Argon for Robotics"
-      },
-      "summary": {
-        "ko": "Gemini 4 Argon for Robotics",
-        "en": "Gemini 4 Argon for Robotics"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "4e31b829ae688591",
-      "publishedAt": "2026-10-13T16:01:52Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-      "category": "ai",
-      "kind": "article",
-      "score": 46,
-      "title": {
-        "ko": "Gemini 4 Argon: Built to solve your hardest problems",
-        "en": "Gemini 4 Argon: Built to solve your hardest problems"
-      },
-      "summary": {
-        "ko": "Gemini 4 Argon: Built to solve your hardest problems",
-        "en": "Gemini 4 Argon: Built to solve your hardest problems"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "8d45898e533e591d",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "Higgsfield takes AI video from 1 minute to over 10",
-        "en": "Higgsfield takes AI video from 1 minute to over 10"
-      },
-      "summary": {
-        "ko": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-        "en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

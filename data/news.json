@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T22:55:03.603578Z",
+  "generatedAt": "2026-11-17T23:00:11.888903Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -59,6 +59,138 @@
   ],
   "articles": [
     {
+      "id": "8f6af8c44a4a1bfb",
+      "publishedAt": "2026-11-17T17:45:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Introducing GPT-6.2 Astra and Sol",
+        "en": "Introducing GPT-6.2 Astra and Sol"
+      },
+      "summary": {
+        "ko": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3047d7657748ea76",
+      "publishedAt": "2026-11-17T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Introducing ChatGPT for Sales",
+        "en": "Introducing ChatGPT for Sales"
+      },
+      "summary": {
+        "ko": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3b3be741a87f5e21",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Introducing OpenAI for Chile",
+        "en": "Introducing OpenAI for Chile"
+      },
+      "summary": {
+        "ko": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0e7f690aa4ff229b",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "Strengthening NATO and allied cyber defenses with AI",
+        "en": "Strengthening NATO and allied cyber defenses with AI"
+      },
+      "summary": {
+        "ko": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "en": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b43ef08ac3ed4f7a",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Astra for Law leads in legal intelligence",
+        "en": "Astra for Law leads in legal intelligence"
+      },
+      "summary": {
+        "ko": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+        "en": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1798f2fcfed1b54d",
+      "publishedAt": "2026-11-16T18:41:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21565v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+        "en": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?"
+      },
+      "summary": {
+        "ko": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations and reflections of a square---is a standard default in computational pathology. However, the rise of self-supervised histology foundation models (FMs) with inherent rotational invariance calls its continued utility into question. We benchma",
+        "en": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations and reflections of a square---is a standard default in computational pathology. However, the rise of self-supervised histology foundation models (FMs) with inherent rotational invariance calls its continued utility into question. We benchma"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "2d7a5d6b20fff3cd",
       "publishedAt": "2026-11-16T17:00:00Z",
       "source": "OpenAI",
@@ -73,6 +205,116 @@
       "summary": {
         "ko": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
         "en": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a38c84d88f37070e",
+      "publishedAt": "2026-11-16T16:07:43Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21310v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs",
+        "en": "Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs"
+      },
+      "summary": {
+        "ko": "Can an AI make a trained language model more mature, in the sense of a better organized latent space, by looking only at the geometry of that space? An analyst model reads a fixed-size digest of topological descriptors of the layers of a frozen target and proposes a transformation, which closed-form ridge regression writes into the feed-forward weights without gradient training. Using lightweight models, 126 runs show that category purity rose on unseen wo",
+        "en": "Can an AI make a trained language model more mature, in the sense of a better organized latent space, by looking only at the geometry of that space? An analyst model reads a fixed-size digest of topological descriptors of the layers of a frozen target and proposes a transformation, which closed-form ridge regression writes into the feed-forward weights without gradient training. Using lightweight models, 126 runs show that category purity rose on unseen wo"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "35df672aa3f74672",
+      "publishedAt": "2026-11-16T16:02:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21299v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 85,
+      "title": {
+        "ko": "Turing Agent: Agentic Formal Verification for Mathematical Research",
+        "en": "Turing Agent: Agentic Formal Verification for Mathematical Research"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) are rapidly advancing mathematical discovery, moving beyond benchmark-level problem solving to tackle frontier research problems. This progress is ushering mathematics into an era of proof abundance, raising a fundamental challenge: how can we ensure the correctness of the ever-growing volume of AI-generated proofs and transform them into trustworthy, machine-verified mathematical knowledge? We introduce Turing Agent, an agent ",
+        "en": "Large language models (LLMs) are rapidly advancing mathematical discovery, moving beyond benchmark-level problem solving to tackle frontier research problems. This progress is ushering mathematics into an era of proof abundance, raising a fundamental challenge: how can we ensure the correctness of the ever-growing volume of AI-generated proofs and transform them into trustworthy, machine-verified mathematical knowledge? We introduce Turing Agent, an agent "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "023be1edfca598ca",
+      "publishedAt": "2026-11-16T15:56:53Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21295v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "Deep Learning for Physicists: From Linear Regression to Reasoning Models",
+        "en": "Deep Learning for Physicists: From Linear Regression to Reasoning Models"
+      },
+      "summary": {
+        "ko": "These lecture notes are based on an introductory course on neural networks and deep learning that the author taught in the School of Mathematical Sciences at Queen Mary University of London in 2023/24 and 2024/25. The author, however, is a physicist, and it shows: wherever possible, ideas are explained with physical intuition rather than heavy formalism. Readers with a background in physics or mathematics who want a self-contained, introductory route into ",
+        "en": "These lecture notes are based on an introductory course on neural networks and deep learning that the author taught in the School of Mathematical Sciences at Queen Mary University of London in 2023/24 and 2024/25. The author, however, is a physicist, and it shows: wherever possible, ideas are explained with physical intuition rather than heavy formalism. Readers with a background in physics or mathematics who want a self-contained, introductory route into "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c20620a6a76d8665",
+      "publishedAt": "2026-11-16T14:54:41Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21201v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Möbius-Pseudorandomness for Algebraic Circuits",
+        "en": "Möbius-Pseudorandomness for Algebraic Circuits"
+      },
+      "summary": {
+        "ko": "We define a notion of Möbius-pseudorandomness for integer sequences generated by multivariate polynomials computed by small and simple algebraic circuits. This mirrors a related definition of Kalai that concerns boolean functions computed by small boolean circuits. We then prove Möbius-pseudorandomness results for polynomials computed by algebraic circuits with few multiplication gates (of any depth), for polynomials with small-dimensional partial derivati",
+        "en": "We define a notion of Möbius-pseudorandomness for integer sequences generated by multivariate polynomials computed by small and simple algebraic circuits. This mirrors a related definition of Kalai that concerns boolean functions computed by small boolean circuits. We then prove Möbius-pseudorandomness results for polynomials computed by algebraic circuits with few multiplication gates (of any depth), for polynomials with small-dimensional partial derivati"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "70ace9505a6df3ff",
+      "publishedAt": "2026-11-16T14:14:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.21142v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "Cassini ovals, translated polynomials, and the arithmetic of their discriminants and resultants",
+        "en": "Cassini ovals, translated polynomials, and the arithmetic of their discriminants and resultants"
+      },
+      "summary": {
+        "ko": "For a polynomial $f$, $a>0$ and $b,ω\\in\\mathbb{C}$, consider the translate $J^{(a,b,ω)}f(z)=f(z/a)-ωf(b/a)$. We show that for $f(x)=(x^{2}-1)^{n}$ and $ω=\\pm1$ every zero of $J^{(a,b,ω)}f$ lies on the Cassini oval $|z^{2}-a^{2}|=|b^{2}-a^{2}|$. We call these translates \\emph{Cassini polynomials} and give their zeros explicitly, prove that the zeros for $ω=1$ and $ω=-1$ strictly interlace on each component of the oval, and evaluate their discriminants and r",
+        "en": "For a polynomial $f$, $a>0$ and $b,ω\\in\\mathbb{C}$, consider the translate $J^{(a,b,ω)}f(z)=f(z/a)-ωf(b/a)$. We show that for $f(x)=(x^{2}-1)^{n}$ and $ω=\\pm1$ every zero of $J^{(a,b,ω)}f$ lies on the Cassini oval $|z^{2}-a^{2}|=|b^{2}-a^{2}|$. We call these translates \\emph{Cassini polynomials} and give their zeros explicitly, prove that the zeros for $ω=1$ and $ω=-1$ strictly interlace on each component of the oval, and evaluate their discriminants and r"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -103,6 +345,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "b82b64ef90f76e66",
+      "publishedAt": "2026-11-16T09:30:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "How Revolut raises ambition without lowering the bar",
+        "en": "How Revolut raises ambition without lowering the bar"
+      },
+      "summary": {
+        "ko": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+        "en": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "ff7833693fa2a067",
       "publishedAt": "2026-11-16T09:00:00Z",
       "source": "OpenAI",
@@ -117,6 +381,72 @@
       "summary": {
         "ko": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
         "en": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "9fe6d2ae73e55f52",
+      "publishedAt": "2026-11-16T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Our first phase of embedded assessments",
+        "en": "Our first phase of embedded assessments"
+      },
+      "summary": {
+        "ko": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "en": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "813cb7e1c2169dc2",
+      "publishedAt": "2026-11-16T07:19:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20659v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Polynomial twisted periods and affine vertex algebras",
+        "en": "Polynomial twisted periods and affine vertex algebras"
+      },
+      "summary": {
+        "ko": "We prove the conjecture of Kang, Lawrie, and Song that Zhu's $C_2$-algebra of a simply-laced boundary admissible affine vertex algebra is isomorphic to the Jacobian ring of an invariant potential obtained by lifting a polynomial twisted period from a Cartan subalgebra via the Chevalley isomorphism. We further identify the $C_2$-algebras of the corresponding Drinfeld-Sokolov reductions with the Jacobian rings of the restrictions of this potential to Slodowy",
+        "en": "We prove the conjecture of Kang, Lawrie, and Song that Zhu's $C_2$-algebra of a simply-laced boundary admissible affine vertex algebra is isomorphic to the Jacobian ring of an invariant potential obtained by lifting a polynomial twisted period from a Cartan subalgebra via the Chevalley isomorphism. We further identify the $C_2$-algebras of the corresponding Drinfeld-Sokolov reductions with the Jacobian rings of the restrictions of this potential to Slodowy"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "f97fab0718614b04",
+      "publishedAt": "2026-11-16T07:13:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20657v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Universality of Brown measure convergence for non-Gaussian matrix polynomials with adjoints",
+        "en": "Universality of Brown measure convergence for non-Gaussian matrix polynomials with adjoints"
+      },
+      "summary": {
+        "ko": "Let $P$ be a noncommutative polynomial of arbitrary degree. We prove that the empirical spectral distribution of $P$ evaluated at independent Wigner matrices converges weakly in probability to its Brown measure limit. The same conclusion holds for arbitrary $*$-polynomials in independent iid matrices and their adjoints. The entry laws have bounded real or joint planar densities and a finite $(2+\\varepsilon)$ moment; only second moments are required on the ",
+        "en": "Let $P$ be a noncommutative polynomial of arbitrary degree. We prove that the empirical spectral distribution of $P$ evaluated at independent Wigner matrices converges weakly in probability to its Brown measure limit. The same conclusion holds for arbitrary $*$-polynomials in independent iid matrices and their adjoints. The entry laws have bounded real or joint planar densities and a finite $(2+\\varepsilon)$ moment; only second moments are required on the "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -1107,6 +1437,28 @@
       "summary": {
         "ko": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
         "en": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "35bcc4b3dafe10f2",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "ChatGPT Ads increases its market presence in 44 countries",
+        "en": "ChatGPT Ads increases its market presence in 44 countries"
+      },
+      "summary": {
+        "ko": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+        "en": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7619,358 +7971,6 @@
       "summary": {
         "ko": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}(",
         "en": "Let $G$ be a finite group, and let $p$ be the smallest prime divisor of $|G|$. The Gao constant $\\mathsf{E}(G)$ is the least integer $\\ell$ such that every sequence over $G$ of length $\\ell$ contains a subsequence of length $|G|$ whose terms can be ordered to have product equal to the identity. In 1961, Erdős, Ginzburg and Ziv proved that every sequence of $2n-1$ integers has an $n$-term subsequence whose sum is divisible by $n$; equivalently, $\\mathsf{E}("
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7760ddc0514601cf",
-      "publishedAt": "2026-10-19T08:59:46Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.26038v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "Half-sized gaps between zeros of the Riemann zeta function",
-        "en": "Half-sized gaps between zeros of the Riemann zeta function"
-      },
-      "summary": {
-        "ko": "Assuming the Riemann hypothesis, we prove that the lower limit of the normalised gaps between consecutive zeros of the Riemann zeta function is at most $1/2$. Our methods utilise a more efficient method for detecting gaps with short Dirichlet polynomials. Specifically, we apply resonance to a quotient of shifted zeta functions, rather than to the number of zeros in a short interval, using a Möbius resonator adapted to the symmetry between the shifts.",
-        "en": "Assuming the Riemann hypothesis, we prove that the lower limit of the normalised gaps between consecutive zeros of the Riemann zeta function is at most $1/2$. Our methods utilise a more efficient method for detecting gaps with short Dirichlet polynomials. Specifically, we apply resonance to a quotient of shifted zeta functions, rather than to the number of zeros in a short interval, using a Möbius resonator adapted to the symmetry between the shifts."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7104108b3f7a5394",
-      "publishedAt": "2026-10-19T07:51:11Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.25958v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "Size Ramsey numbers of star forests with two components on one side",
-        "en": "Size Ramsey numbers of star forests with two components on one side"
-      },
-      "summary": {
-        "ko": "We determine the size Ramsey number of a two-component star forest versus an arbitrary star forest. Let $q,a,b,n_1,\\ldots,n_q$ be positive integers with $a\\ge b$ and $n_1\\ge\\cdots\\ge n_q$. We prove that \\[ \\begin{split} \\rhat\\left(K_{1,a}\\sq K_{1,b}, \\bigsqcup_{i=1}^{q}K_{1,n_i}\\right) ={}&(a+n_1-1) +\\sum_{i=1}^{q-1}\\max\\{a+n_{i+1}-1,b+n_i-1\\}\\\\ &+(b+n_q-1). \\end{split} \\] This proves the conjecture of Burr, Erdős, Faudree, Rousseau and Schelp (Erdős Probl",
-        "en": "We determine the size Ramsey number of a two-component star forest versus an arbitrary star forest. Let $q,a,b,n_1,\\ldots,n_q$ be positive integers with $a\\ge b$ and $n_1\\ge\\cdots\\ge n_q$. We prove that \\[ \\begin{split} \\rhat\\left(K_{1,a}\\sq K_{1,b}, \\bigsqcup_{i=1}^{q}K_{1,n_i}\\right) ={}&(a+n_1-1) +\\sum_{i=1}^{q-1}\\max\\{a+n_{i+1}-1,b+n_i-1\\}\\\\ &+(b+n_q-1). \\end{split} \\] This proves the conjecture of Burr, Erdős, Faudree, Rousseau and Schelp (Erdős Probl"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9732b2763df5a67a",
-      "publishedAt": "2026-10-16T19:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "category": "ai",
-      "kind": "article",
-      "score": 55,
-      "title": {
-        "ko": "How Itaú is building generative AI for its entire customer base",
-        "en": "How Itaú is building generative AI for its entire customer base"
-      },
-      "summary": {
-        "ko": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-        "en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9394bb5d588b9fd8",
-      "publishedAt": "2026-10-16T18:11:34Z",
-      "source": "Google Research",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "category": "ai",
-      "kind": "article",
-      "score": 45,
-      "title": {
-        "ko": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-        "en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
-      },
-      "summary": {
-        "ko": "General Science",
-        "en": "General Science"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "66089718f6e1beb2",
-      "publishedAt": "2026-10-16T13:25:08Z",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016",
-      "category": "ai",
-      "kind": "article",
-      "score": 55,
-      "title": {
-        "ko": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-        "en": "He Wants AI Benchmarking To Be a Science, Not a Dark Art"
-      },
-      "summary": {
-        "ko": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
-        "en": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9e63539289a31c86",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "en": "Stack Overflow for Agents triples signups with ChatGPT plugin"
-      },
-      "summary": {
-        "ko": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-        "en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "32165ee6af8945a5",
-      "publishedAt": "2026-10-15T19:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "category": "ai",
-      "kind": "article",
-      "score": 53,
-      "title": {
-        "ko": "Bringing GPT-Rosalind to academic research labs",
-        "en": "Bringing GPT-Rosalind to academic research labs"
-      },
-      "summary": {
-        "ko": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-        "en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "a60f4a701f887ae8",
-      "publishedAt": "2026-10-15T13:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "category": "ai",
-      "kind": "article",
-      "score": 39,
-      "title": {
-        "ko": "Teaching students to think and learn through questions",
-        "en": "Teaching students to think and learn through questions"
-      },
-      "summary": {
-        "ko": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-        "en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "94eadcab22c41e35",
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "category": "ai",
-      "kind": "article",
-      "score": 42,
-      "title": {
-        "ko": "Sullivan & Cromwell brings legal expertise into agreement review",
-        "en": "Sullivan & Cromwell brings legal expertise into agreement review"
-      },
-      "summary": {
-        "ko": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-        "en": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ff0cf28c5d753057",
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "category": "ai",
-      "kind": "article",
-      "score": 37,
-      "title": {
-        "ko": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-        "en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
-      },
-      "summary": {
-        "ko": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-        "en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "f4c3b9d58e154e81",
-      "publishedAt": "2026-10-14T16:14:00Z",
-      "source": "Google Research",
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-      "category": "ai",
-      "kind": "article",
-      "score": 48,
-      "title": {
-        "ko": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-        "en": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges"
-      },
-      "summary": {
-        "ko": "Earth AI",
-        "en": "Earth AI"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "57c3309db5bedcde",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "category": "ai",
-      "kind": "article",
-      "score": 58,
-      "title": {
-        "ko": "Amp puts AI agents to work beyond code with OpenAI models",
-        "en": "Amp puts AI agents to work beyond code with OpenAI models"
-      },
-      "summary": {
-        "ko": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-        "en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "004cd593adabcd24",
-      "publishedAt": "2026-10-14T12:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sentinelone",
-      "category": "ai",
-      "kind": "article",
-      "score": 39,
-      "title": {
-        "ko": "SentinelOne cuts malware analysis from weeks to hours",
-        "en": "SentinelOne cuts malware analysis from weeks to hours"
-      },
-      "summary": {
-        "ko": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-        "en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "94ee28b93f9d2d83",
-      "publishedAt": "2026-10-14T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "category": "ai",
-      "kind": "article",
-      "score": 58,
-      "title": {
-        "ko": "How Block is building AI-powered security with OpenAI technology",
-        "en": "How Block is building AI-powered security with OpenAI technology"
-      },
-      "summary": {
-        "ko": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-        "en": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "a8b8c31de898145e",
-      "publishedAt": "2026-10-14T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/third-moment-research",
-      "category": "ai",
-      "kind": "article",
-      "score": 48,
-      "title": {
-        "ko": "How Third Moment Research runs 10,000 agents for 36+ hours",
-        "en": "How Third Moment Research runs 10,000 agents for 36+ hours"
-      },
-      "summary": {
-        "ko": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-        "en": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "b76b11a1199f73b7",
-      "publishedAt": "2026-10-14T02:00:14Z",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "category": "ai",
-      "kind": "article",
-      "score": 60,
-      "title": {
-        "ko": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
-      },
-      "summary": {
-        "ko": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-        "en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

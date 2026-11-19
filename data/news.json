@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T22:58:59.649598Z",
+  "generatedAt": "2026-11-19T22:57:14.071734Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -59,6 +59,138 @@
   ],
   "articles": [
     {
+      "id": "9342dbf934e428aa",
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "ai",
+      "kind": "article",
+      "score": 58,
+      "title": {
+        "ko": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "en": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+      },
+      "summary": {
+        "ko": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "en": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "fd9bebbff7e69286",
+      "publishedAt": "2026-11-18T21:35:43Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "category": "ai",
+      "kind": "article",
+      "score": 46,
+      "title": {
+        "ko": "Introducing Gemini 4 Neon",
+        "en": "Introducing Gemini 4 Neon"
+      },
+      "summary": {
+        "ko": "Introducing Gemini 4 Neon",
+        "en": "Introducing Gemini 4 Neon"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5c73732d0c0d8ab3",
+      "publishedAt": "2026-11-18T18:08:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24846v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs",
+        "en": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs"
+      },
+      "summary": {
+        "ko": "Most existing approaches enhance mathematical reasoning in large language models (LLMs) as a monolithic capability, despite the fact that different mathematical problems require different reasoning skills. Recent work has explored a more fine-grained perspective by decomposing mathematical reasoning into atomic skills and developing specialized modules for individual capabilities. However, how to effectively utilize these atomic abilities remains underexpl",
+        "en": "Most existing approaches enhance mathematical reasoning in large language models (LLMs) as a monolithic capability, despite the fact that different mathematical problems require different reasoning skills. Recent work has explored a more fine-grained perspective by decomposing mathematical reasoning into atomic skills and developing specialized modules for individual capabilities. However, how to effectively utilize these atomic abilities remains underexpl"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c02facc072b9db22",
+      "publishedAt": "2026-11-18T17:59:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24830v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 57,
+      "title": {
+        "ko": "A Foundation Model to Measure and Predict Human Behaviour",
+        "en": "A Foundation Model to Measure and Predict Human Behaviour"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour. We jointly fine-tune an LLM to represent psychological constructs, predict individual behaviour, and align ",
+        "en": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour. We jointly fine-tune an LLM to represent psychological constructs, predict individual behaviour, and align "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2f29fb1ea997d9d1",
+      "publishedAt": "2026-11-18T17:42:23Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24799v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Prognosis Without Prediction: The Intrinsic Geometry of Survival",
+        "en": "Prognosis Without Prediction: The Intrinsic Geometry of Survival"
+      },
+      "summary": {
+        "ko": "Modeling systemic failure in high-dimensional environments is fundamentally limited by supervised algorithms that attempt to predict sparse, noisy or censored endpoints. To break this reliance on explicit outcome regression, we engineered the Self-Organizing Survival Manifolds (SOSM) framework, a deep learning architecture that decouples unsupervised representation learning from survival labels and treats time-to-event progression as an emergent geometric ",
+        "en": "Modeling systemic failure in high-dimensional environments is fundamentally limited by supervised algorithms that attempt to predict sparse, noisy or censored endpoints. To break this reliance on explicit outcome regression, we engineered the Self-Organizing Survival Manifolds (SOSM) framework, a deep learning architecture that decouples unsupervised representation learning from survival labels and treats time-to-event progression as an emergent geometric "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ec94fde14b2652aa",
+      "publishedAt": "2026-11-18T16:45:19Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24728v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 62,
+      "title": {
+        "ko": "How Generative Models Generate: A Concise Guide to the Generative AI Landscape",
+        "en": "How Generative Models Generate: A Concise Guide to the Generative AI Landscape"
+      },
+      "summary": {
+        "ko": "The rapidly expanding generative AI landscape brings together methods that differ in architecture, learning objective, mathematical representation and sampling procedure. A concise, selectively organised technical guide can provide an accessible starting point for developing a coherent understanding of this increasingly complex landscape. This article takes a generation-centred approach, connecting how models produce new observations with the modelling and",
+        "en": "The rapidly expanding generative AI landscape brings together methods that differ in architecture, learning objective, mathematical representation and sampling procedure. A concise, selectively organised technical guide can provide an accessible starting point for developing a coherent understanding of this increasingly complex landscape. This article takes a generation-centred approach, connecting how models produce new observations with the modelling and"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "4d7a3df4b48dc75d",
       "publishedAt": "2026-11-18T15:51:40Z",
       "source": "Quanta Magazine",
@@ -81,6 +213,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "2e6cfdff601bc89d",
+      "publishedAt": "2026-11-18T14:57:06Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24557v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "The geometry of neural network decision boundaries",
+        "en": "The geometry of neural network decision boundaries"
+      },
+      "summary": {
+        "ko": "Artificial neural networks (ANNs) are built using well-understood mathematical operations, yet their complex nature poses significant challenges to intuitively understanding their decision-making processes. This work introduces a method for visualizing and measuring ANN decision boundary geometry directly in the high-dimensional input space, avoiding distortions found with traditional projection-based techniques. We analyze boundary curvatures and distance",
+        "en": "Artificial neural networks (ANNs) are built using well-understood mathematical operations, yet their complex nature poses significant challenges to intuitively understanding their decision-making processes. This work introduces a method for visualizing and measuring ANN decision boundary geometry directly in the high-dimensional input space, avoiding distortions found with traditional projection-based techniques. We analyze boundary curvatures and distance"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "a1fe07c7b38803ab",
+      "publishedAt": "2026-11-18T14:53:42Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24552v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning",
+        "en": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning"
+      },
+      "summary": {
+        "ko": "Multimodal knowledge graph reasoning (MKGR) aims to infer missing facts by jointly exploiting relational structures, textual descriptions, and visual evidence. Existing embedding-based methods effectively capture graph topology, but their fixed multimodal representations are less effective for query-specific fine-grained semantic reasoning, while generation-based methods are vulnerable to noisy retrieval and may produce invalid entities. To address these c",
+        "en": "Multimodal knowledge graph reasoning (MKGR) aims to infer missing facts by jointly exploiting relational structures, textual descriptions, and visual evidence. Existing embedding-based methods effectively capture graph topology, but their fixed multimodal representations are less effective for query-specific fine-grained semantic reasoning, while generation-based methods are vulnerable to noisy retrieval and may produce invalid entities. To address these c"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d55f20934db9f968",
+      "publishedAt": "2026-11-18T12:22:24Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24315v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Finding four vertices of a square of area $n$ in a grid by geometric construction",
+        "en": "Finding four vertices of a square of area $n$ in a grid by geometric construction"
+      },
+      "summary": {
+        "ko": "In this study, we consider geometric construction in an infinite square grid. Our purpose is to find efficient methods for constructing a square of area $n\\in\\mathbb{N}$ based on arithmetic properties of the sum of squares. As a consequence, for each $n\\in\\mathbb{N}$, we derive the optimal number of construction steps required to determine the four vertices of the square. Furthermore, we classify all positive integers into three classes according to these ",
+        "en": "In this study, we consider geometric construction in an infinite square grid. Our purpose is to find efficient methods for constructing a square of area $n\\in\\mathbb{N}$ based on arithmetic properties of the sum of squares. As a consequence, for each $n\\in\\mathbb{N}$, we derive the optimal number of construction steps required to determine the four vertices of the square. Furthermore, we classify all positive integers into three classes according to these "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "184d931227f2504d",
       "publishedAt": "2026-11-18T10:00:00Z",
       "source": "OpenAI",
@@ -95,6 +293,72 @@
       "summary": {
         "ko": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
         "en": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6f1bad60bd0d37eb",
+      "publishedAt": "2026-11-18T09:43:44Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24128v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Central limit theorem for linear eigenvalue statistics of random spatial networks",
+        "en": "Central limit theorem for linear eigenvalue statistics of random spatial networks"
+      },
+      "summary": {
+        "ko": "The random connection model provides a flexible framework for spatial networks in which connectivity is determined by both geometry and randomness. Its vertices form a Poisson point process, and pairs are connected independently, conditional on their positions, with distance-dependent probabilities. This generalizes the hard distance threshold of random geometric graphs and accommodates long-range connections. We also consider a weighted extension in which",
+        "en": "The random connection model provides a flexible framework for spatial networks in which connectivity is determined by both geometry and randomness. Its vertices form a Poisson point process, and pairs are connected independently, conditional on their positions, with distance-dependent probabilities. This generalizes the hard distance threshold of random geometric graphs and accommodates long-range connections. We also consider a weighted extension in which"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "58da586369f33999",
+      "publishedAt": "2026-11-18T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "ai",
+      "kind": "article",
+      "score": 48,
+      "title": {
+        "ko": "Research acceleration: The jagged frontier",
+        "en": "Research acceleration: The jagged frontier"
+      },
+      "summary": {
+        "ko": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "53d809d7420a3923",
+      "publishedAt": "2026-11-18T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
+      },
+      "summary": {
+        "ko": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "en": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7707,270 +7971,6 @@
       "summary": {
         "ko": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d",
         "en": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "47bf7a44710890c2",
-      "publishedAt": "2026-10-20T17:23:40Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28562v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 62,
-      "title": {
-        "ko": "OptScientist: Automated Discovery of Optimization Laws",
-        "en": "OptScientist: Automated Discovery of Optimization Laws"
-      },
-      "summary": {
-        "ko": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduce OptScientist, a novel automated framework for discovering compact symbolic optimization laws directly from data. OptScientist comprises (i) a model that infers symbolic optimization problems by first learning to represent data ",
-        "en": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduce OptScientist, a novel automated framework for discovering compact symbolic optimization laws directly from data. OptScientist comprises (i) a model that infers symbolic optimization problems by first learning to represent data "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "73bb02f89daeac2b",
-      "publishedAt": "2026-10-20T17:18:55Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28556v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 52,
-      "title": {
-        "ko": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
-        "en": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study"
-      },
-      "summary": {
-        "ko": "Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established statistical methods. We investigate this question within an 18-dataset framework comprising 10 datasets for Group Relative Policy Optimization (GRPO) training, 2 for checkpoint validation, and 6 held-out evaluation datasets. We compare five",
-        "en": "Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established statistical methods. We investigate this question within an 18-dataset framework comprising 10 datasets for Group Relative Policy Optimization (GRPO) training, 2 for checkpoint validation, and 6 held-out evaluation datasets. We compare five"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ef73bf2ace8ac671",
-      "publishedAt": "2026-10-20T16:09:19Z",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "category": "ai",
-      "kind": "article",
-      "score": 37,
-      "title": {
-        "ko": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-        "en": "FairStress: A deeper evaluation of fairness in LLM decision-making"
-      },
-      "summary": {
-        "ko": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-        "en": "FairStress: A deeper evaluation of fairness in LLM decision-making"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "a5191fd2f4bb3234",
-      "publishedAt": "2026-10-20T14:54:30Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28318v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Stabilizing Filters for Graph Signal Generation",
-        "en": "Stabilizing Filters for Graph Signal Generation"
-      },
-      "summary": {
-        "ko": "Generating graph signals is an important task in machine learning, and incorporating the underlying graph into a generative model enables structurally-informed distribution modeling. However, said graph is often noisy or imperfectly estimated, and structural errors can affect the generative process and the resulting signal distribution. While recent work has established stability guarantees for graph neural ordinary differential equations, the robustness o",
-        "en": "Generating graph signals is an important task in machine learning, and incorporating the underlying graph into a generative model enables structurally-informed distribution modeling. However, said graph is often noisy or imperfectly estimated, and structural errors can affect the generative process and the resulting signal distribution. While recent work has established stability guarantees for graph neural ordinary differential equations, the robustness o"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "5ff05e198a5f8c80",
-      "publishedAt": "2026-10-20T13:16:21Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28177v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 50,
-      "title": {
-        "ko": "Fourier Decomposition and E-Eigenvalues of Hypergraph Polynomials over Finite Abelian Groups",
-        "en": "Fourier Decomposition and E-Eigenvalues of Hypergraph Polynomials over Finite Abelian Groups"
-      },
-      "summary": {
-        "ko": "Let $H=(V,E)$ be a $k$-uniform hypergraph with polynomial $f_H(\\bm{x})=\\sum_{e\\in E}\\prod_{v\\in e}x_v$. For a finite abelian group $G$ and a subgroup $S$ of $G$, the $k$-partite Cayley hypergraph $K$ has $k$ disjoint vertex parts, each indexed by $G$, and $\\{(1,g_1),\\ldots,(k,g_k)\\}$ is an edge if and only if $g_1+\\cdots+g_k\\in S$. For $k=2$, $K$ is isomorphic to the Bi-Cayley graph associated with $G$ and $S$. For $k\\ge3$, we use character theory to expre",
-        "en": "Let $H=(V,E)$ be a $k$-uniform hypergraph with polynomial $f_H(\\bm{x})=\\sum_{e\\in E}\\prod_{v\\in e}x_v$. For a finite abelian group $G$ and a subgroup $S$ of $G$, the $k$-partite Cayley hypergraph $K$ has $k$ disjoint vertex parts, each indexed by $G$, and $\\{(1,g_1),\\ldots,(k,g_k)\\}$ is an edge if and only if $g_1+\\cdots+g_k\\in S$. For $k=2$, $K$ is isomorphic to the Bi-Cayley graph associated with $G$ and $S$. For $k\\ge3$, we use character theory to expre"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9fd79a663d163c55",
-      "publishedAt": "2026-10-20T10:24:39Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.27983v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 51,
-      "title": {
-        "ko": "Annealed correlation and quenched noise sensitivity in biased deep neural networks",
-        "en": "Annealed correlation and quenched noise sensitivity in biased deep neural networks"
-      },
-      "summary": {
-        "ko": "In earlier work by Jonasson, Steif and Zetterqvist (2023), fully connected deep neural networks with layers of width $n$, i.i.d.\\ standard Gaussian weights, sign activations and no bias terms were shown to be annealed and quenched noise sensitive with respect to any joint probability distribution $\\mathbb{Q}^{(n)}$ on the input $\\boldsymbolω$ and its perturbation $\\boldsymbolη$ satisfying a mild positive-correlation condition and $\\mathbb{Q}^{(n)}(\\boldsym",
-        "en": "In earlier work by Jonasson, Steif and Zetterqvist (2023), fully connected deep neural networks with layers of width $n$, i.i.d.\\ standard Gaussian weights, sign activations and no bias terms were shown to be annealed and quenched noise sensitive with respect to any joint probability distribution $\\mathbb{Q}^{(n)}$ on the input $\\boldsymbolω$ and its perturbation $\\boldsymbolη$ satisfying a mild positive-correlation condition and $\\mathbb{Q}^{(n)}(\\boldsym"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "1725d137aa3debc0",
-      "publishedAt": "2026-10-20T10:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "category": "ai",
-      "kind": "article",
-      "score": 44,
-      "title": {
-        "ko": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-        "en": "Franchisee reconciles cash in 94% less time with ChatGPT Work"
-      },
-      "summary": {
-        "ko": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-        "en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "aa8847d44cbae332",
-      "publishedAt": "2026-10-20T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/terminal-x",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-        "en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1"
-      },
-      "summary": {
-        "ko": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-        "en": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "f9effeeb685bb488",
-      "publishedAt": "2026-10-20T06:23:41Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.27706v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "On minimum-size matroid counterexamples to the multiplicative Merino--Welsh inequality",
-        "en": "On minimum-size matroid counterexamples to the multiplicative Merino--Welsh inequality"
-      },
-      "summary": {
-        "ko": "Let $M$ be a matroid and let $\\Tutte_M(x,y)$ be its Tutte polynomial. The multiplicative Merino--Welsh inequality \\[ \\Tutte_M(2,0)\\Tutte_M(0,2)\\geq \\Tutte_M(1,1)^2 \\] was proved to be false for matroids by Beke, Csáji, Csikvári, and Pituk (\\emph{Adv. Math.} \\textbf{446} (2024), 109674). Let $U_{n,r}$ denote the rank-$r$ uniform matroid on $n$ elements, where $0",
-        "en": "Let $M$ be a matroid and let $\\Tutte_M(x,y)$ be its Tutte polynomial. The multiplicative Merino--Welsh inequality \\[ \\Tutte_M(2,0)\\Tutte_M(0,2)\\geq \\Tutte_M(1,1)^2 \\] was proved to be false for matroids by Beke, Csáji, Csikvári, and Pituk (\\emph{Adv. Math.} \\textbf{446} (2024), 109674). Let $U_{n,r}$ denote the rank-$r$ uniform matroid on $n$ elements, where $0"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "1cfb6291fa158d05",
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "category": "ai",
-      "kind": "article",
-      "score": 53,
-      "title": {
-        "ko": "OpenAI acquires Orchestra Bio",
-        "en": "OpenAI acquires Orchestra Bio"
-      },
-      "summary": {
-        "ko": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-        "en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9a903c9f9476b6ff",
-      "publishedAt": "2026-10-19T17:59:56Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.26856v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
-        "en": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
-      },
-      "summary": {
-        "ko": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic ",
-        "en": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ecc1b50b43e4084f",
-      "publishedAt": "2026-10-19T17:58:34Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.26839v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-        "en": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity"
-      },
-      "summary": {
-        "ko": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the l",
-        "en": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are nonunique and the lower-level Hessian is singular. We develop two Newton-based methods beyond lower-level strong convexity by exploiting curvature shared by the l"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

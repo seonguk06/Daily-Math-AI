@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:57:14.071734Z",
+  "generatedAt": "2026-11-21T03:12:16.616098Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -58,6 +58,270 @@
     }
   ],
   "articles": [
+    {
+      "id": "84a578f05a50fce6",
+      "publishedAt": "2026-11-20T23:30:30Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "category": "ai",
+      "kind": "article",
+      "score": 51,
+      "title": {
+        "ko": "How Google Duplex evolved to also call businesses for you in Gemini",
+        "en": "How Google Duplex evolved to also call businesses for you in Gemini"
+      },
+      "summary": {
+        "ko": "Generative AI",
+        "en": "Generative AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7ad44f990f0c53ef",
+      "publishedAt": "2026-11-20T10:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "category": "ai",
+      "kind": "article",
+      "score": 39,
+      "title": {
+        "ko": "Combatting adversarial distillation",
+        "en": "Combatting adversarial distillation"
+      },
+      "summary": {
+        "ko": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8145fefb47ff1ca9",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "ai",
+      "kind": "article",
+      "score": 53,
+      "title": {
+        "ko": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "en": "Hebbia sees improvements in financial research with GPT-6 Astra"
+      },
+      "summary": {
+        "ko": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+        "en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c1a2af93db54bfcf",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "category": "ai",
+      "kind": "article",
+      "score": 50,
+      "title": {
+        "ko": "Can AI help scientists identify promising drug candidates?",
+        "en": "Can AI help scientists identify promising drug candidates?"
+      },
+      "summary": {
+        "ko": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+        "en": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5c43d5088517726c",
+      "publishedAt": "2026-11-19T18:20:01Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26545v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models",
+        "en": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models"
+      },
+      "summary": {
+        "ko": "Linear probes are the cheapest LLM lie detectors but often fail to transfer across kinds of lie. Label-free directions from honest and deceptive role-play are untested at 70B scale and on lies about knowledge, where a lie and an honest denial can be identical. We widen a published persona bank with roles that deny knowledge they have, plus honest counterparts. At each model's middle layer the resulting persona direction ranks lies across Liars' Bench bette",
+        "en": "Linear probes are the cheapest LLM lie detectors but often fail to transfer across kinds of lie. Label-free directions from honest and deceptive role-play are untested at 70B scale and on lies about knowledge, where a lie and an honest denial can be identical. We widen a published persona bank with roles that deny knowledge they have, plus honest counterparts. At each model's middle layer the resulting persona direction ranks lies across Liars' Bench bette"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b319fb99b6698846",
+      "publishedAt": "2026-11-19T18:12:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26531v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+        "en": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models"
+      },
+      "summary": {
+        "ko": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them.",
+        "en": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "af98861daced3fc7",
+      "publishedAt": "2026-11-19T17:03:16Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26422v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction",
+        "en": "Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction"
+      },
+      "summary": {
+        "ko": "Large language models (LLMs) can generate Q-matrices for diagnostic classification models that approximate expert specifications, but evaluations have focused on the final matrices, leaving the basis of individual item-attribute assignments unexamined. This opacity limits the responsible use of AI in measurement. We propose Reasoning-Trace Analysis (RTA), a framework in which an LLM generates attribute-labeled reasoning steps through chain-of-thought (CoT)",
+        "en": "Large language models (LLMs) can generate Q-matrices for diagnostic classification models that approximate expert specifications, but evaluations have focused on the final matrices, leaving the basis of individual item-attribute assignments unexamined. This opacity limits the responsible use of AI in measurement. We propose Reasoning-Trace Analysis (RTA), a framework in which an LLM generates attribute-labeled reasoning steps through chain-of-thought (CoT)"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d67b09242913e599",
+      "publishedAt": "2026-11-19T15:51:44Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26300v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 83,
+      "title": {
+        "ko": "A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus",
+        "en": "A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus"
+      },
+      "summary": {
+        "ko": "Photonic GHZ states generated with probabilistic pair sources can be described by edge-coloured, complex-weighted graphs. In this representation, conditioning on an event with one photon in every detector turns the output amplitudes into coherent sums over perfect matchings, and generating an \\(N\\)-photon \\(D\\)-dimensional GHZ state is equivalent to constructing a monochromatic quantum graph. Here, we prove that no complex-weighted monochromatic quantum gr",
+        "en": "Photonic GHZ states generated with probabilistic pair sources can be described by edge-coloured, complex-weighted graphs. In this representation, conditioning on an event with one photon in every detector turns the output amplitudes into coherent sums over perfect matchings, and generating an \\(N\\)-photon \\(D\\)-dimensional GHZ state is equivalent to constructing a monochromatic quantum graph. Here, we prove that no complex-weighted monochromatic quantum gr"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d09d5ad7a5714f3b",
+      "publishedAt": "2026-11-19T14:06:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26149v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Prime-Power Expansions and Boundary Corrections for the Secular Coefficients of Riemann-Zero Windows",
+        "en": "Prime-Power Expansions and Boundary Corrections for the Secular Coefficients of Riemann-Zero Windows"
+      },
+      "summary": {
+        "ko": "We study the secular coefficients of characteristic polynomials attached to finite windows of zeros of the Riemann zeta function, mapped onto the unit circle. Starting from the Riemann-von Mangoldt formula and Newton's identities, we derive a symmetric prime-power model for their generating function. The model carries an explicit boundary factor $(1-w)^{-ΔS}$, where $ΔS$ is the variation of $S(t)$ across the window. The boundary correction is determined by",
+        "en": "We study the secular coefficients of characteristic polynomials attached to finite windows of zeros of the Riemann zeta function, mapped onto the unit circle. Starting from the Riemann-von Mangoldt formula and Newton's identities, we derive a symmetric prime-power model for their generating function. The model carries an explicit boundary factor $(1-w)^{-ΔS}$, where $ΔS$ is the variation of $S(t)$ across the window. The boundary correction is determined by"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "61ce1835d66d1187",
+      "publishedAt": "2026-11-19T10:46:47Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25893v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "A very robust Ramsey theorem for hypergraph matchings",
+        "en": "A very robust Ramsey theorem for hypergraph matchings"
+      },
+      "summary": {
+        "ko": "A fundamental result in Ramsey theory due to Alon, Frankl and Lovász gives an exact formula for the $q$-colour Ramsey numbers of matchings in $r$-uniform hypergraphs: if $n\\ge\\mathsf{AFL}_r(\\mathbf{t})=(r-1)\\|\\mathbf{t}\\|_\\infty+1+\\sum_{j=1}^q(t_j-1)$ then in any $q$-edge-colouring of $K^r_n$ there is some colour $j$ with a matching of size $t_j$. We show that a very weak quasirandomness assumption suffices for this Ramsey property: we can replace $K^r_n$ ",
+        "en": "A fundamental result in Ramsey theory due to Alon, Frankl and Lovász gives an exact formula for the $q$-colour Ramsey numbers of matchings in $r$-uniform hypergraphs: if $n\\ge\\mathsf{AFL}_r(\\mathbf{t})=(r-1)\\|\\mathbf{t}\\|_\\infty+1+\\sum_{j=1}^q(t_j-1)$ then in any $q$-edge-colouring of $K^r_n$ there is some colour $j$ with a matching of size $t_j$. We show that a very weak quasirandomness assumption suffices for this Ramsey property: we can replace $K^r_n$ "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "187013062612904a",
+      "publishedAt": "2026-11-19T09:39:51Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25820v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Microscopic Probabilities for U-Statistics and Almost-Balanced Permutations",
+        "en": "Microscopic Probabilities for U-Statistics and Almost-Balanced Permutations"
+      },
+      "summary": {
+        "ko": "We estimate the probability that a vector of U-statistics lies within $C/n$ of a target in the range of typical fluctuations. For sufficiently large $C$, we prove a lower bound of the typical Gaussian order under finite variance, and a matching upper bound for bounded kernels. We show that under finite variance alone, stronger concentration may occur, and find the best possible asymptotic upper bound. Our proof is algorithmic, estimating probabilities by c",
+        "en": "We estimate the probability that a vector of U-statistics lies within $C/n$ of a target in the range of typical fluctuations. For sufficiently large $C$, we prove a lower bound of the typical Gaussian order under finite variance, and a matching upper bound for bounded kernels. We show that under finite variance alone, stronger concentration may occur, and find the best possible asymptotic upper bound. Our proof is algorithmic, estimating probabilities by c"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2d5d939b45d133ad",
+      "publishedAt": "2026-11-19T08:56:24Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25753v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "The Riemann Hypothesis and Prime Numbers",
+        "en": "The Riemann Hypothesis and Prime Numbers"
+      },
+      "summary": {
+        "ko": "The Riemann hypothesis is attracting a great deal of attention at present. It is one of the seven Millennium Prize Problems in mathematics, for each of which the Clay Mathematics Institute offers a prize of one million dollars. It is arguably the most important open problem in all of mathematics. Numerous results have so far been proved only under the assumption of the Riemann hypothesis. Yet the hypothesis itself sounds rather dull: it conjectures that th",
+        "en": "The Riemann hypothesis is attracting a great deal of attention at present. It is one of the seven Millennium Prize Problems in mathematics, for each of which the Clay Mathematics Institute offers a prize of one million dollars. It is arguably the most important open problem in all of mathematics. Numerous results have so far been proved only under the assumption of the Riemann hypothesis. Yet the hypothesis itself sounds rather dull: it conjectures that th"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "9342dbf934e428aa",
       "publishedAt": "2026-11-19T08:00:00Z",
@@ -7707,270 +7971,6 @@
       "summary": {
         "ko": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie",
         "en": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "2fd74e62de64c123",
-      "publishedAt": "2026-10-21T13:35:57Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29734v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "Monitorability Is Trainable: Post-Training for Chain-of-Thought Monitorability",
-        "en": "Monitorability Is Trainable: Post-Training for Chain-of-Thought Monitorability"
-      },
-      "summary": {
-        "ko": "Chain-of-thought (CoT) monitoring is one of the few practical tools available for overseeing capable AI systems, but it is fragile: a model's reasoning is only useful to a monitor if it remains coupled to what the model actually does. This coupling can be degraded during training through, for example, CoT compression, optimization against a monitor, and out-of-context generalization from synthetic documents. In this work, we propose an unsupervised post-tr",
-        "en": "Chain-of-thought (CoT) monitoring is one of the few practical tools available for overseeing capable AI systems, but it is fragile: a model's reasoning is only useful to a monitor if it remains coupled to what the model actually does. This coupling can be degraded during training through, for example, CoT compression, optimization against a monitor, and out-of-context generalization from synthetic documents. In this work, we propose an unsupervised post-tr"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "1b74eb634d9ca295",
-      "publishedAt": "2026-10-21T13:31:05Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29725v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion",
-        "en": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion"
-      },
-      "summary": {
-        "ko": "A common application of the process mining discipline is to connect observed event data with Petri nets, which are bipartite, directed graphical process models with rich formal underpinnings. Recent work learns vector representations of Petri nets to retrieve process models and relate them to event logs, but leaves implicit two key aspects hidden within the net's structure: directed cycles (process loops) and invariants recorded by the net's incidence matr",
-        "en": "A common application of the process mining discipline is to connect observed event data with Petri nets, which are bipartite, directed graphical process models with rich formal underpinnings. Recent work learns vector representations of Petri nets to retrieve process models and relate them to event logs, but leaves implicit two key aspects hidden within the net's structure: directed cycles (process loops) and invariants recorded by the net's incidence matr"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "b1215e1aefc04c61",
-      "publishedAt": "2026-10-21T13:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
-      },
-      "summary": {
-        "ko": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-        "en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "52700e6d7569de78",
-      "publishedAt": "2026-10-21T12:17:57Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29637v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 73,
-      "title": {
-        "ko": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis",
-        "en": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis"
-      },
-      "summary": {
-        "ko": "We present an AI-assisted mathematical addendum to Strategic Trip Planning: Striking a Balance Between Competition and Cooperation (Amar, 2018). We reconstruct selected relationships between strategic choice, cooperative stability, participant approval and enforcement. The thesis's Nash-to-core proposition is under-specified until outsider opportunities are stated. We verify two-person implications under fixed outsiders and explicit efficiency conditions. ",
-        "en": "We present an AI-assisted mathematical addendum to Strategic Trip Planning: Striking a Balance Between Competition and Cooperation (Amar, 2018). We reconstruct selected relationships between strategic choice, cooperative stability, participant approval and enforcement. The thesis's Nash-to-core proposition is under-specified until outsider opportunities are stated. We verify two-person implications under fixed outsiders and explicit efficiency conditions. "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "95dedf578de78f3e",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "category": "ai",
-      "kind": "article",
-      "score": 50,
-      "title": {
-        "ko": "OpenAI models are coming to Google Cloud",
-        "en": "OpenAI models are coming to Google Cloud"
-      },
-      "summary": {
-        "ko": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-        "en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ea5560b082eba8a1",
-      "publishedAt": "2026-10-21T10:14:27Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29526v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 68,
-      "title": {
-        "ko": "Geometric knowledge spaces, Attention pairing and Architectures",
-        "en": "Geometric knowledge spaces, Attention pairing and Architectures"
-      },
-      "summary": {
-        "ko": "In this paper, we propose a geometric approach to deriving attention mechanisms and exploring potential new transformer architectures. We begin by formalizing the notions of knowledge worlds and attention pairings, then demonstrate how this framework naturally leads to the architectures of standard attention, causal attention, linear attention, tensor attention, and recurrent neural networks. Finally, we introduce several new geometric spaces that may insp",
-        "en": "In this paper, we propose a geometric approach to deriving attention mechanisms and exploring potential new transformer architectures. We begin by formalizing the notions of knowledge worlds and attention pairings, then demonstrate how this framework naturally leads to the architectures of standard attention, causal attention, linear attention, tensor attention, and recurrent neural networks. Finally, we introduce several new geometric spaces that may insp"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ea92da5c121ecb45",
-      "publishedAt": "2026-10-21T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "category": "ai",
-      "kind": "article",
-      "score": 53,
-      "title": {
-        "ko": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-        "en": "How we built ChatGPT’s novel ad stack for user trust and relevance"
-      },
-      "summary": {
-        "ko": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-        "en": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "64ddfb139fec8a1c",
-      "publishedAt": "2026-10-21T04:50:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "category": "ai",
-      "kind": "article",
-      "score": 50,
-      "title": {
-        "ko": "Using thousands of AI agents to uncover new leads in biological data",
-        "en": "Using thousands of AI agents to uncover new leads in biological data"
-      },
-      "summary": {
-        "ko": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-        "en": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "3fe372fb2e8166f0",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "category": "ai",
-      "kind": "article",
-      "score": 53,
-      "title": {
-        "ko": "Cloudflare links vulnerability discovery to defense with OpenAI",
-        "en": "Cloudflare links vulnerability discovery to defense with OpenAI"
-      },
-      "summary": {
-        "ko": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-        "en": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "e270f5ba4688033d",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "category": "ai",
-      "kind": "article",
-      "score": 50,
-      "title": {
-        "ko": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-        "en": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
-      },
-      "summary": {
-        "ko": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-        "en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9c3394e90b417646",
-      "publishedAt": "2026-10-20T17:59:40Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28629v1",
-      "category": "ai",
-      "kind": "paper",
-      "score": 55,
-      "title": {
-        "ko": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-        "en": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery"
-      },
-      "summary": {
-        "ko": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, ",
-        "en": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "6c2bdc19a3f15d32",
-      "publishedAt": "2026-10-20T17:41:07Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.28588v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 54,
-      "title": {
-        "ko": "Generic finiteness of solutions to parametrized systems of generalized polynomial inequalities",
-        "en": "Generic finiteness of solutions to parametrized systems of generalized polynomial inequalities"
-      },
-      "summary": {
-        "ko": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d",
-        "en": "We study parametrized systems of $\\mathit{generalized}$ polynomial inequalities, $(c \\circ x^B) \\in C$, for a positive variable vector $x \\in \\mathbb{R}^n_>$, a $\\mathit{real}$ exponent matrix $B \\in \\mathbb{R}^{n \\times m}$, a positive parameter vector $c \\in \\mathbb{R}^m_>$, and a positive, blunt coefficient cone $C \\subset \\mathbb{R}^m_>$. This setting includes (i) generalized polynomial equations, $A \\, (c \\circ x^B) = 0$, arising e.g. from power-law d"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

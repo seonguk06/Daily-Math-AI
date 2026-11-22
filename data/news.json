@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:12:16.616098Z",
+  "generatedAt": "2026-11-22T02:12:39.762148Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -191,6 +191,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "5d095496fe3c427a",
+      "publishedAt": "2026-11-19T17:54:04Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26504v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+        "en": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning"
+      },
+      "summary": {
+        "ko": "Continual reinforcement learning requires agents to adapt when the task changes while reusing what they know about the environment. Successor features separate dynamics from task-specific reward, but their effectiveness depends on the choice of base features. Taking the identification of entorhinal grid cells with eigenvectors of the successor representation as a design principle, we build this basis from eigenvectors of the transition matrix of a fixed re",
+        "en": "Continual reinforcement learning requires agents to adapt when the task changes while reusing what they know about the environment. Successor features separate dynamics from task-specific reward, but their effectiveness depends on the choice of base features. Taking the identification of entorhinal grid cells with eigenvectors of the successor representation as a design principle, we build this basis from eigenvectors of the transition matrix of a fixed re"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e421f40c71df9ad6",
+      "publishedAt": "2026-11-19T17:18:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26450v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
+        "en": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights"
+      },
+      "summary": {
+        "ko": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting primitives that compile deterministic computation directly into pretrained LM weights using zero training examples and zero runtime hooks, while bounding per-layer normalization drift and preserving natural-language (NL) competence. Our construction combines t",
+        "en": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting primitives that compile deterministic computation directly into pretrained LM weights using zero training examples and zero runtime hooks, while bounding per-layer normalization drift and preserving natural-language (NL) competence. Our construction combines t"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "af98861daced3fc7",
       "publishedAt": "2026-11-19T17:03:16Z",
       "source": "arXiv",
@@ -205,6 +249,28 @@
       "summary": {
         "ko": "Large language models (LLMs) can generate Q-matrices for diagnostic classification models that approximate expert specifications, but evaluations have focused on the final matrices, leaving the basis of individual item-attribute assignments unexamined. This opacity limits the responsible use of AI in measurement. We propose Reasoning-Trace Analysis (RTA), a framework in which an LLM generates attribute-labeled reasoning steps through chain-of-thought (CoT)",
         "en": "Large language models (LLMs) can generate Q-matrices for diagnostic classification models that approximate expert specifications, but evaluations have focused on the final matrices, leaving the basis of individual item-attribute assignments unexamined. This opacity limits the responsible use of AI in measurement. We propose Reasoning-Trace Analysis (RTA), a framework in which an LLM generates attribute-labeled reasoning steps through chain-of-thought (CoT)"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "21f880fefa7ab9f6",
+      "publishedAt": "2026-11-19T16:59:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26410v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
+        "en": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves"
+      },
+      "summary": {
+        "ko": "Random weight neural networks (RWNNs) are shallow networks whose hidden-layer parameters are randomly generated and then kept fixed, while only the output coefficients are estimated. Conditional on the sampled parameters, RWNN regression is a linear sieve problem with random approximation space. We show that such random sieves cannot remain uniformly well-conditioned as their dimension grows. For parametrized feature families satisfying polynomial covering",
+        "en": "Random weight neural networks (RWNNs) are shallow networks whose hidden-layer parameters are randomly generated and then kept fixed, while only the output coefficients are estimated. Conditional on the sampled parameters, RWNN regression is a linear sieve problem with random approximation space. We show that such random sieves cannot remain uniformly well-conditioned as their dimension grows. For parametrized feature families satisfying polynomial covering"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -235,6 +301,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "a839a0309ec5e96d",
+      "publishedAt": "2026-11-19T15:09:41Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26235v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "Physics-Informed Feature Representations and Pretrained Tabular Foundation Models for Generalizable Melt Pool Geometry Prediction",
+        "en": "Physics-Informed Feature Representations and Pretrained Tabular Foundation Models for Generalizable Melt Pool Geometry Prediction"
+      },
+      "summary": {
+        "ko": "Developing generalizable, data-efficient machine learning (ML) models for advanced manufacturing remains challenging because experimental datasets are limited and process-property relationships vary across materials and operating conditions. In laser powder bed fusion (LPBF), melt pool width, depth, and melting mode (conduction, transition, or keyhole) govern process stability and defect formation. Conventional ML models typically use dimensional process p",
+        "en": "Developing generalizable, data-efficient machine learning (ML) models for advanced manufacturing remains challenging because experimental datasets are limited and process-property relationships vary across materials and operating conditions. In laser powder bed fusion (LPBF), melt pool width, depth, and melting mode (conduction, transition, or keyhole) govern process stability and defect formation. Conventional ML models typically use dimensional process p"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "d09d5ad7a5714f3b",
       "publishedAt": "2026-11-19T14:06:15Z",
       "source": "arXiv",
@@ -257,6 +345,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "f1c10b37dee64593",
+      "publishedAt": "2026-11-19T13:39:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26110v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Hilbert functions over the exterior algebra and f-vectors in higher rank III: Lattice points of the Kozlov polytope",
+        "en": "Hilbert functions over the exterior algebra and f-vectors in higher rank III: Lattice points of the Kozlov polytope"
+      },
+      "summary": {
+        "ko": "Let $E$ be the exterior algebra on $n$ generators and $F=\\bigoplus_{i=1}^r Eg_i$ a graded free $E$-module with $°g_i=d_i$. Part I of this series identified the convex hull of the Hilbert functions of the quotients $F/M$, $M$ a proper monomial submodule, as the Kozlov polytope $\\mathrm{Koz}(n;\\mathbf{d})$, a Minkowski sum of shifted Kozlov simplices, and described its vertices at rank two, conjecturing its facets there; Part II counted the Hilbert functions",
+        "en": "Let $E$ be the exterior algebra on $n$ generators and $F=\\bigoplus_{i=1}^r Eg_i$ a graded free $E$-module with $°g_i=d_i$. Part I of this series identified the convex hull of the Hilbert functions of the quotients $F/M$, $M$ a proper monomial submodule, as the Kozlov polytope $\\mathrm{Koz}(n;\\mathbf{d})$, a Minkowski sum of shifted Kozlov simplices, and described its vertices at rank two, conjecturing its facets there; Part II counted the Hilbert functions"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "4dc842acb63ceb34",
+      "publishedAt": "2026-11-19T13:06:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26063v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Exponential generating functions of multiple polylogarithms at arbitrary integer indices",
+        "en": "Exponential generating functions of multiple polylogarithms at arbitrary integer indices"
+      },
+      "summary": {
+        "ko": "We give an explicit formula expressing any finite product of depth-one polylogarithms at arbitrary integer indices as a $\\mathbb{Q}$-linear combination of shuffle-type multivariable multiple polylogarithms. The proof starts with an exponential generating function. For any fixed positive multi-index $\\mathbf{s}=(s_1,\\ldots,s_r)$, the substitution $z_i\\mapsto z_i\\exp(x_1+\\cdots+x_i)$ in the corresponding shuffle-type multiple polylogarithm yields the exponen",
+        "en": "We give an explicit formula expressing any finite product of depth-one polylogarithms at arbitrary integer indices as a $\\mathbb{Q}$-linear combination of shuffle-type multivariable multiple polylogarithms. The proof starts with an exponential generating function. For any fixed positive multi-index $\\mathbf{s}=(s_1,\\ldots,s_r)$, the substitution $z_i\\mapsto z_i\\exp(x_1+\\cdots+x_i)$ in the corresponding shuffle-type multiple polylogarithm yields the exponen"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "61ce1835d66d1187",
       "publishedAt": "2026-11-19T10:46:47Z",
       "source": "arXiv",
@@ -271,6 +403,28 @@
       "summary": {
         "ko": "A fundamental result in Ramsey theory due to Alon, Frankl and Lovász gives an exact formula for the $q$-colour Ramsey numbers of matchings in $r$-uniform hypergraphs: if $n\\ge\\mathsf{AFL}_r(\\mathbf{t})=(r-1)\\|\\mathbf{t}\\|_\\infty+1+\\sum_{j=1}^q(t_j-1)$ then in any $q$-edge-colouring of $K^r_n$ there is some colour $j$ with a matching of size $t_j$. We show that a very weak quasirandomness assumption suffices for this Ramsey property: we can replace $K^r_n$ ",
         "en": "A fundamental result in Ramsey theory due to Alon, Frankl and Lovász gives an exact formula for the $q$-colour Ramsey numbers of matchings in $r$-uniform hypergraphs: if $n\\ge\\mathsf{AFL}_r(\\mathbf{t})=(r-1)\\|\\mathbf{t}\\|_\\infty+1+\\sum_{j=1}^q(t_j-1)$ then in any $q$-edge-colouring of $K^r_n$ there is some colour $j$ with a matching of size $t_j$. We show that a very weak quasirandomness assumption suffices for this Ramsey property: we can replace $K^r_n$ "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5f5a9d04ad7007bc",
+      "publishedAt": "2026-11-19T10:13:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25863v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "A note on the learning coefficient of exceptional singularities",
+        "en": "A note on the learning coefficient of exceptional singularities"
+      },
+      "summary": {
+        "ko": "We compute the learning coefficient of a polynomial neural network at a point of its neurovariety all of whose real parameters are good, and show that it equals $d/2$, with multiplicity one, where $d$ is the difference between the dimension of the parameter space and the dimension of the group of symmetries of the architecture. This is the value attained at a generic point of the neurovariety; consequently, exceptional singularities are invisible to the pa",
+        "en": "We compute the learning coefficient of a polynomial neural network at a point of its neurovariety all of whose real parameters are good, and show that it equals $d/2$, with multiplicity one, where $d$ is the difference between the dimension of the parameter space and the dimension of the group of symmetries of the architecture. This is the value attained at a generic point of the neurovariety; consequently, exceptional singularities are invisible to the pa"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -315,6 +469,28 @@
       "summary": {
         "ko": "The Riemann hypothesis is attracting a great deal of attention at present. It is one of the seven Millennium Prize Problems in mathematics, for each of which the Clay Mathematics Institute offers a prize of one million dollars. It is arguably the most important open problem in all of mathematics. Numerous results have so far been proved only under the assumption of the Riemann hypothesis. Yet the hypothesis itself sounds rather dull: it conjectures that th",
         "en": "The Riemann hypothesis is attracting a great deal of attention at present. It is one of the seven Millennium Prize Problems in mathematics, for each of which the Clay Mathematics Institute offers a prize of one million dollars. It is arguably the most important open problem in all of mathematics. Numerous results have so far been proved only under the assumption of the Riemann hypothesis. Yet the hypothesis itself sounds rather dull: it conjectures that th"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7f0e95339c89d268",
+      "publishedAt": "2026-11-19T08:08:36Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.25693v1",
+      "category": "proof",
+      "kind": "paper",
+      "score": 45,
+      "title": {
+        "ko": "Constructible properties of minimal models",
+        "en": "Constructible properties of minimal models"
+      },
+      "summary": {
+        "ko": "We prove that, given a projective minimal model and a projective family of good minimal models, the subset of the base parametrizing fibers isomorphic (or birationally equivalent) to the given minimal model is constructible in the Zariski topology. Together with recent boundedness results for polarized log Calabi--Yau fibrations, this constructibility theorem provides new finiteness results predicted by the relative Kawamata--Morrison--Totaro cone conjectu",
+        "en": "We prove that, given a projective minimal model and a projective family of good minimal models, the subset of the base parametrizing fibers isomorphic (or birationally equivalent) to the given minimal model is constructible in the Zariski topology. Together with recent boundedness results for polarized log Calabi--Yau fibrations, this constructibility theorem provides new finiteness results predicted by the relative Kawamata--Morrison--Totaro cone conjectu"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7795,182 +7971,6 @@
       "summary": {
         "ko": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
         "en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "3f1a11956436b167",
-      "publishedAt": "2026-10-21T21:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "category": "ai",
-      "kind": "article",
-      "score": 39,
-      "title": {
-        "ko": "Broad access through consistent standards",
-        "en": "Broad access through consistent standards"
-      },
-      "summary": {
-        "ko": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-        "en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "94a5f6526eada9bc",
-      "publishedAt": "2026-10-21T18:26:30Z",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "category": "ai",
-      "kind": "article",
-      "score": 37,
-      "title": {
-        "ko": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
-      },
-      "summary": {
-        "ko": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "72cbea422494df11",
-      "publishedAt": "2026-10-21T17:27:17Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30074v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
-        "en": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization"
-      },
-      "summary": {
-        "ko": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to ",
-        "en": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "8541433f95e82ea3",
-      "publishedAt": "2026-10-21T17:11:52Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30051v1",
-      "category": "ai",
-      "kind": "paper",
-      "score": 55,
-      "title": {
-        "ko": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
-        "en": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks"
-      },
-      "summary": {
-        "ko": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their manipulation capabilities have not been systematically evaluated on standardized robotics benchmarks. In this report, we present a unified closed-loop manipulation framework for evaluating fr",
-        "en": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their manipulation capabilities have not been systematically evaluated on standardized robotics benchmarks. In this report, we present a unified closed-loop manipulation framework for evaluating fr"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "39cad894cdd240fb",
-      "publishedAt": "2026-10-21T17:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "How AT&T is rethinking in-house legal work with OpenAI",
-        "en": "How AT&T is rethinking in-house legal work with OpenAI"
-      },
-      "summary": {
-        "ko": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-        "en": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "84e6f16d67cdc41f",
-      "publishedAt": "2026-10-21T16:37:09Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29999v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 54,
-      "title": {
-        "ko": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping",
-        "en": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping"
-      },
-      "summary": {
-        "ko": "Reinforcement learning (RL) based on PPO-style clipping has become an effective approach to improving the reasoning capabilities of large language models (LLMs). However, standard token-level clipping measures policy change only through the conditional probability of the current token, while the prefix conditioning context is itself generated by the policy. This mismatch becomes especially consequential in long-response and off-policy training. We reformul",
-        "en": "Reinforcement learning (RL) based on PPO-style clipping has become an effective approach to improving the reasoning capabilities of large language models (LLMs). However, standard token-level clipping measures policy change only through the conditional probability of the current token, while the prefix conditioning context is itself generated by the policy. This mismatch becomes especially consequential in long-response and off-policy training. We reformul"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "27c0a5d3fc255134",
-      "publishedAt": "2026-10-21T16:23:53Z",
-      "source": "Google Research",
-      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-      "category": "ai",
-      "kind": "article",
-      "score": 45,
-      "title": {
-        "ko": "Empowering frontline maternal care with AI-assisted ultrasound",
-        "en": "Empowering frontline maternal care with AI-assisted ultrasound"
-      },
-      "summary": {
-        "ko": "Health & Bioscience",
-        "en": "Health & Bioscience"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "484435307e2067b0",
-      "publishedAt": "2026-10-21T16:19:22Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.29965v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents",
-        "en": "CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents"
-      },
-      "summary": {
-        "ko": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie",
-        "en": "Joint reinforcement learning and self-distillation combines task rewards with dense teacher guidance for agent training, but their gradients can partly cancel. A mixing coefficient controls relative scale without selectively removing opposing components. We present CORD, a general framework for conflict-aware optimization of two objectives. CORD separates the choice of protected objective from the condition that triggers projection, and combines the gradie"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

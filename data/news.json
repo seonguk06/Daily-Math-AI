@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T02:12:39.762148Z",
+  "generatedAt": "2026-11-23T02:43:34.954591Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -59,6 +59,28 @@
   ],
   "articles": [
     {
+      "id": "1a10f1676d46fc01",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Perplexity and Intelligence",
+        "en": "Perplexity and Intelligence"
+      },
+      "summary": {
+        "ko": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "84a578f05a50fce6",
       "publishedAt": "2026-11-20T23:30:30Z",
       "source": "Google Research",
@@ -95,6 +117,94 @@
       "summary": {
         "ko": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
         "en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "70cee396dc1bb02a",
+      "publishedAt": "2026-11-20T06:44:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.27204v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Rigidity in the Lichnerowicz inequality for word-length semigroups",
+        "en": "Rigidity in the Lichnerowicz inequality for word-length semigroups"
+      },
+      "summary": {
+        "ko": "We give an operator-algebraic characterization of Cayley graphs that are partial cubes, that is, embed isometrically into a hypercube. More precisely, noncommutative versions of the Lichnerowicz inequality control the spectral gap of the generator of a quantum Markov semigroup by the constant in the complete $Γ_2$-criterion of Junge and Zeng or the constant in the geometric Ricci criterion of Junge, LaRacuente and Li. We show that for word-length semigroup",
+        "en": "We give an operator-algebraic characterization of Cayley graphs that are partial cubes, that is, embed isometrically into a hypercube. More precisely, noncommutative versions of the Lichnerowicz inequality control the spectral gap of the generator of a quantum Markov semigroup by the constant in the complete $Γ_2$-criterion of Junge and Zeng or the constant in the geometric Ricci criterion of Junge, LaRacuente and Li. We show that for word-length semigroup"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e6aece750c5103dd",
+      "publishedAt": "2026-11-20T04:39:22Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.27113v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "The $n!$ theorem via quaternionic rotation of Cherednik algebras",
+        "en": "The $n!$ theorem via quaternionic rotation of Cherednik algebras"
+      },
+      "summary": {
+        "ko": "We give a proof of the $n!$ theorem based on the representation theory of Cherednik algebras and an analog of the rotation of complex structures arising from an action of the quaternions.",
+        "en": "We give a proof of the $n!$ theorem based on the representation theory of Cherednik algebras and an analog of the rotation of complex structures arising from an action of the quaternions."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "703bf0184752054a",
+      "publishedAt": "2026-11-20T01:51:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26974v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Calabi-Yau at 50: mathematical discovery in the age of AI",
+        "en": "Calabi-Yau at 50: mathematical discovery in the age of AI"
+      },
+      "summary": {
+        "ko": "Using the golden jubilee of Yau's proof of the Calabi conjecture as a spring-board, we discuss how the dataset of Calabi-Yau manifolds brought together mathematicians and physicists since the 1980s, and then further brought in the world of machine-learning and AI since 2017. We give a historical account on the growth of the field of ``AI-assisted mathematics'' in the last decade, and comment on what culminated in 2026 as perhaps the most dramatic year in t",
+        "en": "Using the golden jubilee of Yau's proof of the Calabi conjecture as a spring-board, we discuss how the dataset of Calabi-Yau manifolds brought together mathematicians and physicists since the 1980s, and then further brought in the world of machine-learning and AI since 2017. We give a historical account on the growth of the field of ``AI-assisted mathematics'' in the last decade, and comment on what culminated in 2026 as perhaps the most dramatic year in t"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "c9ded8196c1bc41b",
+      "publishedAt": "2026-11-20T00:45:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26934v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 50,
+      "title": {
+        "ko": "On generation of the coefficient field of a primitive HMF by a single Fourier coefficient: An application of Nekovář's Theorem",
+        "en": "On generation of the coefficient field of a primitive HMF by a single Fourier coefficient: An application of Nekovář's Theorem"
+      },
+      "summary": {
+        "ko": "Let $f$ be a non-CM primitive Hilbert modular form (HMF) over a totally real number field, of parallel even weight $k\\geq 2$, with coefficient field $E_f$, and let $F_f \\subseteq E_f$ denote the field fixed by the inner twists of $f$. In this article, we establish an analogue of Ribet's large image theorem for the residual Galois representations associated with $f$, by applying Nekovář's large image theorem (cf.~\\cite[Theorem B.5.2]{Nek12}) to the automorp",
+        "en": "Let $f$ be a non-CM primitive Hilbert modular form (HMF) over a totally real number field, of parallel even weight $k\\geq 2$, with coefficient field $E_f$, and let $F_f \\subseteq E_f$ denote the field fixed by the inner twists of $f$. In this article, we establish an analogue of Ribet's large image theorem for the residual Galois representations associated with $f$, by applying Nekovář's large image theorem (cf.~\\cite[Theorem B.5.2]{Nek12}) to the automorp"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -323,6 +433,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "caae9868780011f1",
+      "publishedAt": "2026-11-19T14:55:47Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26673v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 33,
+      "title": {
+        "ko": "Error analysis for the numerical approximation of the quantile hedging problem",
+        "en": "Error analysis for the numerical approximation of the quantile hedging problem"
+      },
+      "summary": {
+        "ko": "We analyse numerical approximations of quantile hedging in complete linear markets with Markovian diffusion dynamics. The problem is formulated as stochastic control for an augmented state $(X,P)$, where the probability martingale $P$ is constrained to $[0,1]$ and controlled through an unbounded volatility coefficient. We combine control truncation with piecewise-constant policy time-stepping (PCPT), stopping controls continuously upon boundary hitting to ",
+        "en": "We analyse numerical approximations of quantile hedging in complete linear markets with Markovian diffusion dynamics. The problem is formulated as stochastic control for an augmented state $(X,P)$, where the probability martingale $P$ is constrained to $[0,1]$ and controlled through an unbounded volatility coefficient. We combine control truncation with piecewise-constant policy time-stepping (PCPT), stopping controls continuously upon boundary hitting to "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d8cc93eee7d8ae38",
+      "publishedAt": "2026-11-19T14:36:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26185v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 33,
+      "title": {
+        "ko": "Euler up-down numbers and quiver representations",
+        "en": "Euler up-down numbers and quiver representations"
+      },
+      "summary": {
+        "ko": "We show that Euler up-down numbers enumerate isoclasses of representations arising from quiver Grassmannians which provide an explicit realization of PBW degenerate flag varieties. Using this geometric realization, we derive several formulas connecting Euler up-down numbers, median Genocchi numbers, and Motzkin numbers. We also define a new $q$-analogue of Euler up-down numbers and derive several formulas for these polynomials. We describe a natural poset ",
+        "en": "We show that Euler up-down numbers enumerate isoclasses of representations arising from quiver Grassmannians which provide an explicit realization of PBW degenerate flag varieties. Using this geometric realization, we derive several formulas connecting Euler up-down numbers, median Genocchi numbers, and Motzkin numbers. We also define a new $q$-analogue of Euler up-down numbers and derive several formulas for these polynomials. We describe a natural poset "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "d09d5ad7a5714f3b",
       "publishedAt": "2026-11-19T14:06:15Z",
       "source": "arXiv",
@@ -381,6 +535,50 @@
       "summary": {
         "ko": "We give an explicit formula expressing any finite product of depth-one polylogarithms at arbitrary integer indices as a $\\mathbb{Q}$-linear combination of shuffle-type multivariable multiple polylogarithms. The proof starts with an exponential generating function. For any fixed positive multi-index $\\mathbf{s}=(s_1,\\ldots,s_r)$, the substitution $z_i\\mapsto z_i\\exp(x_1+\\cdots+x_i)$ in the corresponding shuffle-type multiple polylogarithm yields the exponen",
         "en": "We give an explicit formula expressing any finite product of depth-one polylogarithms at arbitrary integer indices as a $\\mathbb{Q}$-linear combination of shuffle-type multivariable multiple polylogarithms. The proof starts with an exponential generating function. For any fixed positive multi-index $\\mathbf{s}=(s_1,\\ldots,s_r)$, the substitution $z_i\\mapsto z_i\\exp(x_1+\\cdots+x_i)$ in the corresponding shuffle-type multiple polylogarithm yields the exponen"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "27000a4f6bd13a2a",
+      "publishedAt": "2026-11-19T12:39:00Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26028v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "On the dimension of $V$-variable fractals",
+        "en": "On the dimension of $V$-variable fractals"
+      },
+      "summary": {
+        "ko": "Random recursive sets have been used to model a wide range of fractal phenomena, but they can be slow and difficult to generate. $V$-variability address this problem by allowing these sets at most $V$ distinct shapes at each level of magnification. The formulae for the almost sure Hausdorff dimension of both classes is known, and it has been conjectured that (under mild assumptions) the $V$-variable dimension converges to the random recursive dimension as ",
+        "en": "Random recursive sets have been used to model a wide range of fractal phenomena, but they can be slow and difficult to generate. $V$-variability address this problem by allowing these sets at most $V$ distinct shapes at each level of magnification. The formulae for the almost sure Hausdorff dimension of both classes is known, and it has been conjectured that (under mild assumptions) the $V$-variable dimension converges to the random recursive dimension as "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ee08c57a00aab09f",
+      "publishedAt": "2026-11-19T12:34:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.26022v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Conditional propagation of chaos for systems of particles with polynomial interactions",
+        "en": "Conditional propagation of chaos for systems of particles with polynomial interactions"
+      },
+      "summary": {
+        "ko": "We consider N interacting particles taking values in the real numbers and evolving in discrete time with time step 1/n. Each particle follows an individual dynamics, driven by its own noise, which depends on the total configuration via a polynomial interaction. Moreover, all particles receive the same collective perturbation. This perturbation is given by a multilinear homogeneous sum of order $ m \\geq 2$ of independent centered random fields which are eva",
+        "en": "We consider N interacting particles taking values in the real numbers and evolving in discrete time with time step 1/n. Each particle follows an individual dynamics, driven by its own noise, which depends on the total configuration via a polynomial interaction. Moreover, all particles receive the same collective perturbation. This perturbation is given by a multilinear homogeneous sum of order $ m \\geq 2$ of independent centered random fields which are eva"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7773,204 +7971,6 @@
       "summary": {
         "ko": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and",
         "en": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "fc5ca4f3c7d29acd",
-      "publishedAt": "2026-10-22T14:06:02Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31308v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "The Bayesian Learning Rule Beyond KL Geometry",
-        "en": "The Bayesian Learning Rule Beyond KL Geometry"
-      },
-      "summary": {
-        "ko": "The Bayesian learning rule (BLR) exploits the relation between Bayesian updating and the Kullback-Leibler divergence (KLD) to derive efficient additive updates for exponential family variational posteriors. The KL geometry is powerful but restrictive: combined with posterior families with parameter-dependent support it can lead to undefined objectives. We ask which non-KL geometries preserve the additive BLR computation. Previous works that use $f$-diverge",
-        "en": "The Bayesian learning rule (BLR) exploits the relation between Bayesian updating and the Kullback-Leibler divergence (KLD) to derive efficient additive updates for exponential family variational posteriors. The KL geometry is powerful but restrictive: combined with posterior families with parameter-dependent support it can lead to undefined objectives. We ask which non-KL geometries preserve the additive BLR computation. Previous works that use $f$-diverge"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "e8999783ce8cfe30",
-      "publishedAt": "2026-10-22T13:55:31Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31293v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting",
-        "en": "RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting"
-      },
-      "summary": {
-        "ko": "Online semantic 3D Gaussian Splatting (3DGS) enables open-vocabulary scene understanding from streaming observations. However, existing methods recover geometric context missing from image-derived semantic features using an additionally learned 3D network, incurring extra training and runtime overhead. We observe that such geometric-semantic evidence may already exist in the agent's observation history and can be retrieved rather than learned. Based on thi",
-        "en": "Online semantic 3D Gaussian Splatting (3DGS) enables open-vocabulary scene understanding from streaming observations. However, existing methods recover geometric context missing from image-derived semantic features using an additionally learned 3D network, incurring extra training and runtime overhead. We observe that such geometric-semantic evidence may already exist in the agent's observation history and can be retrieved rather than learned. Based on thi"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "582b45ca122f8e98",
-      "publishedAt": "2026-10-22T13:43:45Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31274v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 52,
-      "title": {
-        "ko": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
-        "en": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding"
-      },
-      "summary": {
-        "ko": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs",
-        "en": "Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instruction pairs"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "268edfe7d9ca38bf",
-      "publishedAt": "2026-10-22T09:18:40Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30976v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Rigidity, flexibility, and a sign error",
-        "en": "Rigidity, flexibility, and a sign error"
-      },
-      "summary": {
-        "ko": "The documents [OAI26a, OAI26b, OAI26c] claimed to prove cases of the Hodge conjecture via homological mirror symmetry, before being withdrawn by OpenAI. We discuss the source of the error (but do not analyse the rest of the argument).",
-        "en": "The documents [OAI26a, OAI26b, OAI26c] claimed to prove cases of the Hodge conjecture via homological mirror symmetry, before being withdrawn by OpenAI. We discuss the source of the error (but do not analyse the rest of the argument)."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "c92da0387e15312d",
-      "publishedAt": "2026-10-22T06:24:31Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30797v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 64,
-      "title": {
-        "ko": "OpenAI partially disproves Littlewood's 1961 $L^α$-flat theorem",
-        "en": "OpenAI partially disproves Littlewood's 1961 $L^α$-flat theorem"
-      },
-      "summary": {
-        "ko": "We present a counterexample, produced by OpenAI, to Littlewood's 1961 theorem on $L^α$-flat polynomials. The theorem asserts that no $L^α$-flat polynomials exist within the class of trigonometric polynomials of the form$$\\sum_{m=1}^{n} a_m \\cos(mθ+α_m), \\qquad n \\in \\mathbb{N}^*,$$satisfying$$k\\, n^2 \\sum_{m=1}^{n} a_m^2 \\;\\leq\\; \\sum_{m=1}^{n} m^2 a_m^2,$$where $k$ is an absolute constant (alternatively expressed on the right-hand side as $K = 1/k$). We s",
-        "en": "We present a counterexample, produced by OpenAI, to Littlewood's 1961 theorem on $L^α$-flat polynomials. The theorem asserts that no $L^α$-flat polynomials exist within the class of trigonometric polynomials of the form$$\\sum_{m=1}^{n} a_m \\cos(mθ+α_m), \\qquad n \\in \\mathbb{N}^*,$$satisfying$$k\\, n^2 \\sum_{m=1}^{n} a_m^2 \\;\\leq\\; \\sum_{m=1}^{n} m^2 a_m^2,$$where $k$ is an absolute constant (alternatively expressed on the right-hand side as $K = 1/k$). We s"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "6400feb681472530",
-      "publishedAt": "2026-10-22T06:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "What FDE means at OpenAI",
-        "en": "What FDE means at OpenAI"
-      },
-      "summary": {
-        "ko": "What forward deployed engineering means at OpenAI",
-        "en": "What forward deployed engineering means at OpenAI"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "de75888528ecfba0",
-      "publishedAt": "2026-10-22T05:10:10Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30739v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Stationary Half-space Geometric Last Passage Percolation without Random Shift",
-        "en": "Stationary Half-space Geometric Last Passage Percolation without Random Shift"
-      },
-      "summary": {
-        "ko": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,",
-        "en": "We derive exact formulas for the diagonal distribution of half-space geometric last-passage percolation with a two-parameter family of stationary initial conditions throughout the phase diagram. Unlike previous results, our formulas remove the random shift at the origin. Under critical scaling, we obtain new formulas for the half-space stationary KPZ fixed-point distribution at $x=0$ in the high-density and maximal-current phases. In the low-density phase,"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "a5b493da7dce31f8",
-      "publishedAt": "2026-10-22T04:16:30Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30700v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 46,
-      "title": {
-        "ko": "On Arithmetic-Progression Biases in Random Partitions: Limiting Laws and the Li-Zhao Conjecture",
-        "en": "On Arithmetic-Progression Biases in Random Partitions: Limiting Laws and the Li-Zhao Conjecture"
-      },
-      "summary": {
-        "ko": "Let $\\cR=\\{r+jm:j\\geq0\\}$ and $\\cS=\\{s+jm:j\\geq0\\}$ be disjoint arithmetic progressions of positive integers, and choose a partition of $n$ uniformly at random. We determine the limiting probability that the number of parts in $\\cR$ is larger than the number of parts in $\\cS$. More precisely, if $a=r/m$ and $b=s/m$, then this probability converges to $I_{1/2}(a,b)$, the regularized incomplete beta function. We prove the stronger distributional statement th",
-        "en": "Let $\\cR=\\{r+jm:j\\geq0\\}$ and $\\cS=\\{s+jm:j\\geq0\\}$ be disjoint arithmetic progressions of positive integers, and choose a partition of $n$ uniformly at random. We determine the limiting probability that the number of parts in $\\cR$ is larger than the number of parts in $\\cS$. More precisely, if $a=r/m$ and $b=s/m$, then this probability converges to $I_{1/2}(a,b)$, the regularized incomplete beta function. We prove the stronger distributional statement th"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "eda525050cea8fce",
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "category": "ai",
-      "kind": "article",
-      "score": 55,
-      "title": {
-        "ko": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "en": "Uber brings ChatGPT Work to all employees with OpenAI"
-      },
-      "summary": {
-        "ko": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-        "en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

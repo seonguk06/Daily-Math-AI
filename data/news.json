@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:43:34.954591Z",
+  "generatedAt": "2026-11-24T06:00:06.488627Z",
   "demo": false,
   "health": {
-    "ok": 7,
-    "failed": 1
+    "ok": 8,
+    "failed": 0
   },
   "sources": [
     {
@@ -58,6 +58,314 @@
     }
   ],
   "articles": [
+    {
+      "id": "b0689cf87ab570a4",
+      "publishedAt": "2026-11-23T21:20:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "category": "ai",
+      "kind": "article",
+      "score": 47,
+      "title": {
+        "ko": "OpenAI and Cisco introduce Shirudo",
+        "en": "OpenAI and Cisco introduce Shirudo"
+      },
+      "summary": {
+        "ko": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8a952e6dea4cd375",
+      "publishedAt": "2026-11-23T17:21:12Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+      "category": "ai",
+      "kind": "article",
+      "score": 45,
+      "title": {
+        "ko": "Supercharging transformer residual connections",
+        "en": "Supercharging transformer residual connections"
+      },
+      "summary": {
+        "ko": "Algorithms & Theory",
+        "en": "Algorithms & Theory"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "895b540db6a8889e",
+      "publishedAt": "2026-11-23T16:59:40Z",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "category": "proof",
+      "kind": "article",
+      "score": 56,
+      "title": {
+        "ko": "Finding faster quantum algorithms with agents and formal verification",
+        "en": "Finding faster quantum algorithms with agents and formal verification"
+      },
+      "summary": {
+        "ko": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "10878202550bbbf9",
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Connected intelligence for in-house legal",
+        "en": "Connected intelligence for in-house legal"
+      },
+      "summary": {
+        "ko": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+        "en": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "1259b534687dd8b3",
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "category": "ai",
+      "kind": "article",
+      "score": 42,
+      "title": {
+        "ko": "Richpanel helps companies automate 50% of support in 30 days",
+        "en": "Richpanel helps companies automate 50% of support in 30 days"
+      },
+      "summary": {
+        "ko": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "en": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "0284360b05abe1a6",
+      "publishedAt": "2026-11-23T06:46:06Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.30139v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 77,
+      "title": {
+        "ko": "AutoSECO: Automated Skill Evolution for Cross-Problem Combinatorial Optimization with General-Purpose LLM Agents",
+        "en": "AutoSECO: Automated Skill Evolution for Cross-Problem Combinatorial Optimization with General-Purpose LLM Agents"
+      },
+      "summary": {
+        "ko": "General-purpose large language model (LLM) agents can develop complete solvers for combinatorial optimization problems. Their specialization, however, often relies on workflows engineered for individual problems, limiting the reuse of development expertise. We propose AutoSECO, an automated skill evolution method that learns reusable solver-development guidance from experience. The challenge is that external evaluation measures the completed solver, while ",
+        "en": "General-purpose large language model (LLM) agents can develop complete solvers for combinatorial optimization problems. Their specialization, however, often relies on workflows engineered for individual problems, limiting the reuse of development expertise. We propose AutoSECO, an automated skill evolution method that learns reusable solver-development guidance from experience. The challenge is that external evaluation measures the completed solver, while "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "7b14d0e91de2e1fc",
+      "publishedAt": "2026-11-23T06:45:59Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.30138v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "The Riemann Hypothesis for L-Functions of Linearly Constrained Kloosterman Families: Frobenius Polynomials and Intersection Cohomology",
+        "en": "The Riemann Hypothesis for L-Functions of Linearly Constrained Kloosterman Families: Frobenius Polynomials and Intersection Cohomology"
+      },
+      "summary": {
+        "ko": "We study Frobenius polynomials attached to linearly constrained Kloosterman families, taking the rank-$r(n)=2^n-\\binom{n}{\\lfloor n/2\\rfloor}$, weight-$(n+1)$ sheaf of the author's companion papers as an explicit input. The present contribution is the passage from that sheaf to local characteristic polynomials and the intermediate-extension intersection cohomology on $(\\mathbb P^1)^n$. We prove the local reciprocal-root bounds and the degreewise purity of ",
+        "en": "We study Frobenius polynomials attached to linearly constrained Kloosterman families, taking the rank-$r(n)=2^n-\\binom{n}{\\lfloor n/2\\rfloor}$, weight-$(n+1)$ sheaf of the author's companion papers as an explicit input. The present contribution is the passage from that sheaf to local characteristic polynomials and the intermediate-extension intersection cohomology on $(\\mathbb P^1)^n$. We prove the local reciprocal-root bounds and the degreewise purity of "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "24eb6f0383d17272",
+      "publishedAt": "2026-11-23T06:44:15Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.30135v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 64,
+      "title": {
+        "ko": "Sparse Hodge Preference Optimization: Fine-Tuning Language Models toward Alignment beyond Transitive Preferences",
+        "en": "Sparse Hodge Preference Optimization: Fine-Tuning Language Models toward Alignment beyond Transitive Preferences"
+      },
+      "summary": {
+        "ko": "The growing adoption of Direct Preference Optimization (DPO), which leverages pairwise preference data, reflects its great success in fine-tuning large language models to align with human expectations. It directly optimizes the policy from human preferences without explicit reward modeling or the complexities of reinforcement learning-based approaches. However, the classic DPO relies on the Bradley--Terry sampling model and cannot effectively capture intra",
+        "en": "The growing adoption of Direct Preference Optimization (DPO), which leverages pairwise preference data, reflects its great success in fine-tuning large language models to align with human expectations. It directly optimizes the policy from human preferences without explicit reward modeling or the complexities of reinforcement learning-based approaches. However, the classic DPO relies on the Bradley--Terry sampling model and cannot effectively capture intra"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "d6527a896aaefae3",
+      "publishedAt": "2026-11-23T03:59:34Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.29998v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Categorical Foundations of AI Agents",
+        "en": "Categorical Foundations of AI Agents"
+      },
+      "summary": {
+        "ko": "We follow the idea of separating intelligence from execution and give the categorical foundations of AI agents: the transformers, the agents, and the orchestrations and choreographies of AI agents are categorized, and which also include their coalgebras and algebras.",
+        "en": "We follow the idea of separating intelligence from execution and give the categorical foundations of AI agents: the transformers, the agents, and the orchestrations and choreographies of AI agents are categorized, and which also include their coalgebras and algebras."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "00d52199bef25f9e",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "How to build and maintain an agentic evaluation",
+        "en": "How to build and maintain an agentic evaluation"
+      },
+      "summary": {
+        "ko": "How to build and maintain an agentic evaluation",
+        "en": "How to build and maintain an agentic evaluation"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ef702c57bbdad4f6",
+      "publishedAt": "2026-11-22T11:55:57Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.29420v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Reconstruction and geometry of $4\\times4$ quantum Sudoku",
+        "en": "Reconstruction and geometry of $4\\times4$ quantum Sudoku"
+      },
+      "summary": {
+        "ko": "We study the reconstruction and geometry of $4 \\times 4$ quantum Sudoku, viewed as arrays of rank-one projections whose rows, columns and blocks decompose the identity. We give necessary and sufficient conditions for two prescribed opposite blocks to admit a completion, prove its uniqueness, and obtain explicit reconstruction formulas, also expressed in the language of quantum logic. The sixteen overlaps between these blocks determine the unitary equivalen",
+        "en": "We study the reconstruction and geometry of $4 \\times 4$ quantum Sudoku, viewed as arrays of rank-one projections whose rows, columns and blocks decompose the identity. We give necessary and sufficient conditions for two prescribed opposite blocks to admit a completion, prove its uniqueness, and obtain explicit reconstruction formulas, also expressed in the language of quantum logic. The sixteen overlaps between these blocks determine the unitary equivalen"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "3aef5f51ad2a6ee0",
+      "publishedAt": "2026-11-22T10:57:53Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.29386v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "On the Number Theory of the Greeks. II. Gauss's Lemmas and Riesz Domains",
+        "en": "On the Number Theory of the Greeks. II. Gauss's Lemmas and Riesz Domains"
+      },
+      "summary": {
+        "ko": "In the second part of our article on Euclid's four number theorem we start from the notion of incommensurability and take a closer look at irrationality proofs for algebraic numbers. Along the way we encounter Gauss's Lemma, integral closure and Dedekind's Prague theorem, and finally we arrive back at the four number theorem.",
+        "en": "In the second part of our article on Euclid's four number theorem we start from the notion of incommensurability and take a closer look at irrationality proofs for algebraic numbers. Along the way we encounter Gauss's Lemma, integral closure and Dedekind's Prague theorem, and finally we arrive back at the four number theorem."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "892cbe2924662366",
+      "publishedAt": "2026-11-22T10:46:51Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.29380v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "On the number theory of the Greeks. I. The Fundamental Theorem of Arithmetic",
+        "en": "On the number theory of the Greeks. I. The Fundamental Theorem of Arithmetic"
+      },
+      "summary": {
+        "ko": "In this article we present Euclid's fundamental theorem of number theory and give evidence for the claim that this theorem, which is largely unknown today, was as familiar to number theorists before Gauss as the Gaussian version of the fundamental theorem is to us.",
+        "en": "In this article we present Euclid's fundamental theorem of number theory and give evidence for the claim that this theorem, which is largely unknown today, was as familiar to number theorists before Gauss as the Gaussian version of the fundamental theorem is to us."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "8d99d443620f298c",
+      "publishedAt": "2026-11-22T09:28:58Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.29344v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "A new upper bound for the Erdős--Szekeres conjecture",
+        "en": "A new upper bound for the Erdős--Szekeres conjecture"
+      },
+      "summary": {
+        "ko": "Let $\\mathrm{ES}(n)$ denote the smallest integer such that every set of $\\mathrm{ES}(n)$ points in the plane in general position contains $n$ points in convex position. In 1935, Erdős and Szekeres conjectured that $\\mathrm{ES}(n)=2^{n-2}+1$, and in 1960, they established the corresponding lower bound. A breakthrough on the upper bound was achieved by Suk in 2017, who proved that \\[ \\mathrm{ES}(n)\\leqslant2^{n+O(n^{2/3}\\log n)}. \\] In this article, we furth",
+        "en": "Let $\\mathrm{ES}(n)$ denote the smallest integer such that every set of $\\mathrm{ES}(n)$ points in the plane in general position contains $n$ points in convex position. In 1935, Erdős and Szekeres conjectured that $\\mathrm{ES}(n)=2^{n-2}+1$, and in 1960, they established the corresponding lower bound. A breakthrough on the upper bound was achieved by Suk in 2017, who proved that \\[ \\mathrm{ES}(n)\\leqslant2^{n+O(n^{2/3}\\log n)}. \\] In this article, we furth"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "1a10f1676d46fc01",
       "publishedAt": "2026-11-22T00:00:00Z",
@@ -7663,314 +7971,6 @@
       "summary": {
         "ko": "This paper is about the derivation of \"integrability results\" (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the explicit solutions to the PDEs provided by the original SLE/CLE martingale approach that AI now makes it possible to uncover. This provides s",
         "en": "This paper is about the derivation of \"integrability results\" (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the explicit solutions to the PDEs provided by the original SLE/CLE martingale approach that AI now makes it possible to uncover. This provides s"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "16673ffe832be0be",
-      "publishedAt": "2026-10-22T17:37:11Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31607v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Quantum K-structure constants and cylindric Grothendieck polynomials for Grassmannians",
-        "en": "Quantum K-structure constants and cylindric Grothendieck polynomials for Grassmannians"
-      },
-      "summary": {
-        "ko": "We use the partition functions of a five-vertex exactly solvable lattice model from statistical mechanics to give new combinatorial formulae for the Schubert structure constants of torus-equivariant quantum K-theory rings of Grassmannians. The proofs build on our earlier results where we identified the transfer matrices of these lattice models geometrically as multiplications by the Hirzebruch $λ_y$ classes of the tautological subbundle and the (dual) quot",
-        "en": "We use the partition functions of a five-vertex exactly solvable lattice model from statistical mechanics to give new combinatorial formulae for the Schubert structure constants of torus-equivariant quantum K-theory rings of Grassmannians. The proofs build on our earlier results where we identified the transfer matrices of these lattice models geometrically as multiplications by the Hirzebruch $λ_y$ classes of the tautological subbundle and the (dual) quot"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "2bb6b6328dca3033",
-      "publishedAt": "2026-10-22T17:31:49Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31599v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Properties of theories whose algebras are free",
-        "en": "Properties of theories whose algebras are free"
-      },
-      "summary": {
-        "ko": "A hard theorem of Givant classifies the finitary algebraic theories for which every algebra is free. From it, one easily deduces that all such theories are minimal (adding any further equations makes them trivial) and have a well-defined notion of dimension (free algebras on sets of different cardinality are never isomorphic). We prove both these properties directly, without the aid of Givant's theorem.",
-        "en": "A hard theorem of Givant classifies the finitary algebraic theories for which every algebra is free. From it, one easily deduces that all such theories are minimal (adding any further equations makes them trivial) and have a well-defined notion of dimension (free algebras on sets of different cardinality are never isomorphic). We prove both these properties directly, without the aid of Givant's theorem."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "37ff76642014ba5f",
-      "publishedAt": "2026-10-22T17:23:39Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31588v1",
-      "category": "ai",
-      "kind": "paper",
-      "score": 44,
-      "title": {
-        "ko": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
-        "en": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act"
-      },
-      "summary": {
-        "ko": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while t",
-        "en": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while t"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "3426d09b5eb33e6a",
-      "publishedAt": "2026-10-22T16:51:27Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31544v1",
-      "category": "ai",
-      "kind": "paper",
-      "score": 44,
-      "title": {
-        "ko": "Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning",
-        "en": "Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning"
-      },
-      "summary": {
-        "ko": "Agentic reinforcement learning rewards a complete episode, yet the policy needs credit for every decision inside it. Counterfactual branching estimates this credit by re-running the episode after an alternative decision, but the branch draws its sampling noise independently of the factual episode, so the outcome difference mixes the effect of the decision with the luck of everything that follows. We observe that in agentic search the retriever, the corpus,",
-        "en": "Agentic reinforcement learning rewards a complete episode, yet the policy needs credit for every decision inside it. Counterfactual branching estimates this credit by re-running the episode after an alternative decision, but the branch draws its sampling noise independently of the factual episode, so the outcome difference mixes the effect of the decision with the luck of everything that follows. We observe that in agentic search the retriever, the corpus,"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "2dcb543ffd0d1903",
-      "publishedAt": "2026-10-22T16:46:46Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31539v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization",
-        "en": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization"
-      },
-      "summary": {
-        "ko": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con",
-        "en": "Machine learning has permeated material optimization, providing high value. Nevertheless, its re- liance on a high number of samples limits its applicability to relatively explored material families. In this paper we extend the applicability of machine learning to novel and understudied materials through the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework. Pythia utilizes two of the most powerful machine learning con"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "13b03288f0240ecb",
-      "publishedAt": "2026-10-22T16:42:30Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31533v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Triple Quantum Schubert Calculus",
-        "en": "Triple Quantum Schubert Calculus"
-      },
-      "summary": {
-        "ko": "We prove a triple quantum Pieri formula: the product of a quantum double Schubert polynomial $\\widetilde{\\mathfrak{S}}_u(x;y)$ by a quantum factorial elementary polynomial $\\widetilde{E}_{p,k}(x;z)$ in a second set of variables $z$ is a sum over chains in the quantum Bruhat graph, indexed by a quantum analogue of Sottile's relation, whose coefficients are monomials in the quantum parameters times polynomials in the differences $y_i-z_j$ with nonnegative in",
-        "en": "We prove a triple quantum Pieri formula: the product of a quantum double Schubert polynomial $\\widetilde{\\mathfrak{S}}_u(x;y)$ by a quantum factorial elementary polynomial $\\widetilde{E}_{p,k}(x;z)$ in a second set of variables $z$ is a sum over chains in the quantum Bruhat graph, indexed by a quantum analogue of Sottile's relation, whose coefficients are monomials in the quantum parameters times polynomials in the differences $y_i-z_j$ with nonnegative in"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "4d450e06ea407ec9",
-      "publishedAt": "2026-10-22T16:35:09Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31524v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting",
-        "en": "Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting"
-      },
-      "summary": {
-        "ko": "Nonparametric estimation of joint probability distributions is a core problem in statistics, which is notoriously challenging with high-dimensional data. Such challenges also arise with conditional distribution estimation and have led to flexible algorithms that aim to tackle the ''curse of dimensionality'' by exploiting predictive structures of lower dimension than the ambient space. In this paper, we study the use of such conditional distribution estimat",
-        "en": "Nonparametric estimation of joint probability distributions is a core problem in statistics, which is notoriously challenging with high-dimensional data. Such challenges also arise with conditional distribution estimation and have led to flexible algorithms that aim to tackle the ''curse of dimensionality'' by exploiting predictive structures of lower dimension than the ambient space. In this paper, we study the use of such conditional distribution estimat"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ebafa1bcda9d3379",
-      "publishedAt": "2026-10-22T16:33:01Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31520v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
-        "en": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models"
-      },
-      "summary": {
-        "ko": "Metaphor is a crucial aspect of human cognition. As such, we would like to understand how it is represented in large language models (LLMs) and how it might be controlled. We use mechanistic interpretability techniques to identify causal subspaces in a range of LLMs covering different architectures and sizes. We show that we are able to steer output on classification tasks across different parts of speech. We are also able to steer output on generation tas",
-        "en": "Metaphor is a crucial aspect of human cognition. As such, we would like to understand how it is represented in large language models (LLMs) and how it might be controlled. We use mechanistic interpretability techniques to identify causal subspaces in a range of LLMs covering different architectures and sizes. We show that we are able to steer output on classification tasks across different parts of speech. We are also able to steer output on generation tas"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "13727471de3dadeb",
-      "publishedAt": "2026-10-22T16:04:40Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31479v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon",
-        "en": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon"
-      },
-      "summary": {
-        "ko": "Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiment",
-        "en": "Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiment"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "8dc057db0178a4d6",
-      "publishedAt": "2026-10-22T14:48:16Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31376v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
-        "en": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action"
-      },
-      "summary": {
-        "ko": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities, approvals and budgets. Since a transition fires only if the marks it needs are present, an injected request whose preconditions are unmet or already spent is refused regardless of its word",
-        "en": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities, approvals and budgets. Since a transition fires only if the marks it needs are present, an injected request whose preconditions are unmet or already spent is refused regardless of its word"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7ccf935e75efb5fa",
-      "publishedAt": "2026-10-22T14:23:02Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31336v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "Metric Conformal Prediction via the Conditional Expected Local Radius",
-        "en": "Metric Conformal Prediction via the Conditional Expected Local Radius"
-      },
-      "summary": {
-        "ko": "We introduce the conditional expected local radius (CELR) and develop a new conformal prediction method for non-Euclidean responses in general metric spaces. CELR measures local conditional probability concentration, allowing prediction sets to accommodate heterogeneity and multimodality without requiring densities or a vector space structure. Its conditional distribution yields a nonconformity score that is comparable across covariate values and avoids co",
-        "en": "We introduce the conditional expected local radius (CELR) and develop a new conformal prediction method for non-Euclidean responses in general metric spaces. CELR measures local conditional probability concentration, allowing prediction sets to accommodate heterogeneity and multimodality without requiring densities or a vector space structure. Its conditional distribution yields a nonconformity score that is comparable across covariate values and avoids co"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9bd85d88980d1be5",
-      "publishedAt": "2026-10-22T14:19:08Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31328v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 54,
-      "title": {
-        "ko": "Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions",
-        "en": "Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions"
-      },
-      "summary": {
-        "ko": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new",
-        "en": "Deep learning (DL) methods have substantially improved predictive performance across a wide range of downstream prediction tasks, enabling new discoveries in multiple domains. However, principled DL methods for non-Euclidean random objects remain relatively scarce, despite the growing importance of modern biomedical outcomes taking the form of probability distributions, random graphs, functions, and other random objects in metric spaces. Motivated by a new"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "e613c59d71559746",
-      "publishedAt": "2026-10-22T14:18:21Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31326v1",
-      "category": "ai",
-      "kind": "paper",
-      "score": 44,
-      "title": {
-        "ko": "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments",
-        "en": "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments"
-      },
-      "summary": {
-        "ko": "Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiment",
-        "en": "Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiment"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "478b6c7518509d50",
-      "publishedAt": "2026-10-22T14:08:52Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31315v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 43,
-      "title": {
-        "ko": "The Value of System 1 Models in Medicine",
-        "en": "The Value of System 1 Models in Medicine"
-      },
-      "summary": {
-        "ko": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and",
-        "en": "Many clinical decisions are a choice among a few fixed options, taken quickly and in large numbers. Such decisions also need an uncertainty estimate to know when to defer to a clinician. Generative language models answer slowly in free text and state their confidence poorly. In contrast, System 1 models answer zero-shot with a probability for each answer. However, their performance across clinical tasks is unknown. Four System 1 models, two proprietary and"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

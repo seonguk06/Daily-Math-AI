@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T04:53:53.361907Z",
+  "generatedAt": "2026-11-26T04:08:54.298061Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -58,6 +58,226 @@
     }
   ],
   "articles": [
+    {
+      "id": "e653365b440ea301",
+      "publishedAt": "2026-11-25T18:59:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34928v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 56,
+      "title": {
+        "ko": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+        "en": "Diverse Alternative Reasoning Traces for Hard Math Problems"
+      },
+      "summary": {
+        "ko": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It t",
+        "en": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It t"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "88bd06d7e0e9b82f",
+      "publishedAt": "2026-11-25T18:52:55Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "category": "ai",
+      "kind": "article",
+      "score": 37,
+      "title": {
+        "ko": "Where scientists draw the line on AI agents",
+        "en": "Where scientists draw the line on AI agents"
+      },
+      "summary": {
+        "ko": "Where scientists draw the line on AI agents",
+        "en": "Where scientists draw the line on AI agents"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "50f0b45bf5f82a35",
+      "publishedAt": "2026-11-25T18:27:48Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34858v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+        "en": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events"
+      },
+      "summary": {
+        "ko": "Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-value fraud and that of a wrongly declined small purchase are not the same. The standard bridge is post-hoc Bayes-optimal thresholding of calibrated probabiliti",
+        "en": "Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-value fraud and that of a wrongly declined small purchase are not the same. The standard bridge is post-hoc Bayes-optimal thresholding of calibrated probabiliti"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5b91da256f36ad75",
+      "publishedAt": "2026-11-25T17:10:27Z",
+      "source": "Google Research",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "category": "ai",
+      "kind": "article",
+      "score": 51,
+      "title": {
+        "ko": "Verifiable Social Reasoning for LLM Assistants",
+        "en": "Verifiable Social Reasoning for LLM Assistants"
+      },
+      "summary": {
+        "ko": "Generative AI",
+        "en": "Generative AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e2d960f6278a61d0",
+      "publishedAt": "2026-11-25T16:29:37Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34656v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 54,
+      "title": {
+        "ko": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+        "en": "Do We Still Need Reinforcement Learning When We Can Read the World Model?"
+      },
+      "summary": {
+        "ko": "Reinforcement learning has achieved remarkable success in sequential decision-making, but learning effective policies often requires substantial interaction experience. Model-based reinforcement learning alleviates this dependence by leveraging world models, which are typically used to support planning or policy optimization. In this paper, we investigate an alternative paradigm in which autonomous LLM-based coding agents directly synthesize control polici",
+        "en": "Reinforcement learning has achieved remarkable success in sequential decision-making, but learning effective policies often requires substantial interaction experience. Model-based reinforcement learning alleviates this dependence by leveraging world models, which are typically used to support planning or policy optimization. In this paper, we investigate an alternative paradigm in which autonomous LLM-based coding agents directly synthesize control polici"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ee78c13e958a35f0",
+      "publishedAt": "2026-11-25T16:11:53Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34624v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 58,
+      "title": {
+        "ko": "HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants",
+        "en": "HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants"
+      },
+      "summary": {
+        "ko": "The behavior of memory systems for long-running AI assistants is governed by a harness, which consists of the code, prompts, and configurations for memory construction, maintenance, retrieval, and answer generation. However, optimizing the harness of a memory system remains largely manual, and unrestricted editing alone does not ensure structural improvements. In this paper, we introduce HoMe, an evaluation-driven framework that iteratively evaluates candi",
+        "en": "The behavior of memory systems for long-running AI assistants is governed by a harness, which consists of the code, prompts, and configurations for memory construction, maintenance, retrieval, and answer generation. However, optimizing the harness of a memory system remains largely manual, and unrestricted editing alone does not ensure structural improvements. In this paper, we introduce HoMe, an evaluation-driven framework that iteratively evaluates candi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "45fe60381cb350ff",
+      "publishedAt": "2026-11-25T14:13:16Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34425v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 46,
+      "title": {
+        "ko": "Counting Classical Fullerenes I: Exact Enumeration and Generic Achiral Symmetry",
+        "en": "Counting Classical Fullerenes I: Exact Enumeration and Generic Achiral Symmetry"
+      },
+      "summary": {
+        "ko": "We give an exact arithmetic formula for the number of classical fullerenes on $2m$ vertices. The oriented count is known; the new contribution counts achiral fullerenes, those admitting an orientation-reversing symmetry. We transport these symmetries to a lattice, classify eleven types, and express their contribution as seven weighted orbit counts. The complete formula is printed here, together with an exact algorithm producing all counts through index $M$",
+        "en": "We give an exact arithmetic formula for the number of classical fullerenes on $2m$ vertices. The oriented count is known; the new contribution counts achiral fullerenes, those admitting an orientation-reversing symmetry. We transport these symmetries to a lattice, classify eleven types, and express their contribution as seven weighted orbit counts. The complete formula is printed here, together with an exact algorithm producing all counts through index $M$"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5eada6e2d12f0d9a",
+      "publishedAt": "2026-11-25T13:00:07Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34307v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 49,
+      "title": {
+        "ko": "The $k$-disjoint paths problem for group-labelled graphs",
+        "en": "The $k$-disjoint paths problem for group-labelled graphs"
+      },
+      "summary": {
+        "ko": "A $Γ$-labelled graph is an oriented graph with edge labels in a group $Γ$. Fix a finite abelian group $Γ$ and a positive integer $k$. We give a polynomial-time algorithm that finds $k$ vertex-disjoint paths joining prescribed pairs with a prescribed gain on each path, or determines that none exist. The result previously appeared only in the author's 2009 PhD thesis. This proof uses a reduction to unbreakable graphs and recent structure theorems for graphs ",
+        "en": "A $Γ$-labelled graph is an oriented graph with edge labels in a group $Γ$. Fix a finite abelian group $Γ$ and a positive integer $k$. We give a polynomial-time algorithm that finds $k$ vertex-disjoint paths joining prescribed pairs with a prescribed gain on each path, or determines that none exist. The result previously appeared only in the author's 2009 PhD thesis. This proof uses a reduction to unbreakable graphs and recent structure theorems for graphs "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "e7eba3a5b4b835de",
+      "publishedAt": "2026-11-25T12:58:11Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34306v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "A Joint Functional Central Limit Theorem for the $L^p$-Norm Profile of Random Littlewood Polynomials",
+        "en": "A Joint Functional Central Limit Theorem for the $L^p$-Norm Profile of Random Littlewood Polynomials"
+      },
+      "summary": {
+        "ko": "For a random Littlewood polynomial $q_n(z)=\\sum_{j=0}^{n-1}\\varepsilon_jz^j$ with independent Rademacher coefficients, let $S_n(θ)=|q_n(e^{iθ})|^2/n$ be its normalized angular intensity. Its positive moments $T_n^{(p)}=\\|q_n\\|_p^p/n^{p/2}$ form the moment profile of the intensity distribution under normalized arc measure on the unit circle. We prove a joint functional central limit theorem for this profile. For $p$ in a compact interval $K\\subset(0,\\infty)",
+        "en": "For a random Littlewood polynomial $q_n(z)=\\sum_{j=0}^{n-1}\\varepsilon_jz^j$ with independent Rademacher coefficients, let $S_n(θ)=|q_n(e^{iθ})|^2/n$ be its normalized angular intensity. Its positive moments $T_n^{(p)}=\\|q_n\\|_p^p/n^{p/2}$ form the moment profile of the intensity distribution under normalized arc measure on the unit circle. We prove a joint functional central limit theorem for this profile. For $p$ in a compact interval $K\\subset(0,\\infty)"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "459e635a4f01d02b",
+      "publishedAt": "2026-11-25T08:30:13Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33966v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 70,
+      "title": {
+        "ko": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models",
+        "en": "PatternMiner: Automated Mathematical Discovery Through LLM-Guided Training and Interpretation of Small Models"
+      },
+      "summary": {
+        "ko": "There are several approaches to AI-driven mathematical discovery. One of these involves the use of large language models (LLMs) to resolve well-specified conjectures via text-based reasoning, while another uses narrow models and interpretability for more open-ended, human-in-the-loop exploration using object-based mathematical data. The latter is limited in its ability to move beyond simple empirical pattern detection while the former is not well-designed ",
+        "en": "There are several approaches to AI-driven mathematical discovery. One of these involves the use of large language models (LLMs) to resolve well-specified conjectures via text-based reasoning, while another uses narrow models and interpretability for more open-ended, human-in-the-loop exploration using object-based mathematical data. The latter is limited in its ability to move beyond simple empirical pattern detection while the former is not well-designed "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "f7d7e627a8865dd5",
       "publishedAt": "2026-11-24T16:03:02Z",
@@ -7751,226 +7971,6 @@
       "summary": {
         "ko": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell=",
         "en": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell="
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "27334100e818b985",
-      "publishedAt": "2026-10-26T10:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "category": "ai",
-      "kind": "article",
-      "score": 50,
-      "title": {
-        "ko": "ChatGPT’s expanding world of work",
-        "en": "ChatGPT’s expanding world of work"
-      },
-      "summary": {
-        "ko": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-        "en": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7e73eebe3e909303",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "How Fanatics and OpenAI streamline the fan experience",
-        "en": "How Fanatics and OpenAI streamline the fan experience"
-      },
-      "summary": {
-        "ko": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-        "en": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "742d30efdc4090c1",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
-      },
-      "summary": {
-        "ko": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-        "en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "35e334c198740f74",
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "category": "ai",
-      "kind": "article",
-      "score": 44,
-      "title": {
-        "ko": "Introducing GPT-6.1 Terra",
-        "en": "Introducing GPT-6.1 Terra"
-      },
-      "summary": {
-        "ko": "Bringing fast and capable computer use to everyone",
-        "en": "Bringing fast and capable computer use to everyone"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "30a34d758ba63be2",
-      "publishedAt": "2026-10-23T18:51:33Z",
-      "source": "Google Research",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
-      "category": "ai",
-      "kind": "article",
-      "score": 49,
-      "title": {
-        "ko": "Bringing foundational models to the front lines of TB screening",
-        "en": "Bringing foundational models to the front lines of TB screening"
-      },
-      "summary": {
-        "ko": "Generative AI",
-        "en": "Generative AI"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "9ed4e8cfda1ff1da",
-      "publishedAt": "2026-10-23T17:17:11Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.32914v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 70,
-      "title": {
-        "ko": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
-        "en": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control"
-      },
-      "summary": {
-        "ko": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfact",
-        "en": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfact"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "ee4c22366ef7e7ab",
-      "publishedAt": "2026-10-23T17:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "category": "ai",
-      "kind": "article",
-      "score": 50,
-      "title": {
-        "ko": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
-      },
-      "summary": {
-        "ko": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "b21763c69541cfa7",
-      "publishedAt": "2026-10-23T16:58:01Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.32891v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 64,
-      "title": {
-        "ko": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
-        "en": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations"
-      },
-      "summary": {
-        "ko": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimizatio",
-        "en": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimizatio"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "c2b6b7fd42c60774",
-      "publishedAt": "2026-10-23T16:44:20Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.32874v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 60,
-      "title": {
-        "ko": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
-        "en": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations"
-      },
-      "summary": {
-        "ko": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sentence it was shown, then rewriting the claim as its complement and replacing every probability p with 1 - p should return the complementary answer, so the two rep",
-        "en": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sentence it was shown, then rewriting the claim as its complement and replacing every probability p with 1 - p should return the complementary answer, so the two rep"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "db8afe90143a009b",
-      "publishedAt": "2026-10-23T16:34:57Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.32864v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets",
-        "en": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets"
-      },
-      "summary": {
-        "ko": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such as maximum, minimum, and no-escape ranges, PoKER applies machine learning to predict kill probabilities more accurately by integrating the stochastic behaviors o",
-        "en": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such as maximum, minimum, and no-escape ranges, PoKER applies machine learning to predict kill probabilities more accurately by integrating the stochastic behaviors o"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

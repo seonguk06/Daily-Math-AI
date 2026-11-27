@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T04:08:54.298061Z",
+  "generatedAt": "2026-11-27T04:14:01.461562Z",
   "demo": false,
   "health": {
     "ok": 8,
@@ -58,6 +58,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "a734da9d3a1d8760",
+      "publishedAt": "2026-11-26T11:37:17Z",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "category": "ai",
+      "kind": "article",
+      "score": 43,
+      "title": {
+        "ko": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+      },
+      "summary": {
+        "ko": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
     {
       "id": "e653365b440ea301",
       "publishedAt": "2026-11-25T18:59:11Z",
@@ -125,6 +147,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "530564798a0b40c0",
+      "publishedAt": "2026-11-25T18:12:20Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34831v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Repairing the Trustworthiness of Distilled Language Models",
+        "en": "Repairing the Trustworthiness of Distilled Language Models"
+      },
+      "summary": {
+        "ko": "Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because the original distillation corpus is often unavailable, while direct preference optimization may alter capabilities inherited from the teacher. We propose a targeted repair framework based on",
+        "en": "Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because the original distillation corpus is often unavailable, while direct preference optimization may alter capabilities inherited from the teacher. We propose a targeted repair framework based on"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2e65974d0967e062",
+      "publishedAt": "2026-11-25T17:56:02Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34805v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Barron Smoothness for Layers in Deep Neural Networks",
+        "en": "Barron Smoothness for Layers in Deep Neural Networks"
+      },
+      "summary": {
+        "ko": "In order to bound approximation errors for deep neural networks, we split the problem into two steps: First the selection of optimal infinite width limits for each layer and second an optimal discretization of all layers to obtain finite sized networks. We show that in expectation, the latter problem is equivalently characterized by a layer wise generalization of Barron norms. Moreover, we provide an analysis of the optimization landscape and show that loc",
+        "en": "In order to bound approximation errors for deep neural networks, we split the problem into two steps: First the selection of optimal infinite width limits for each layer and second an optimal discretization of all layers to obtain finite sized networks. We show that in expectation, the latter problem is equivalently characterized by a layer wise generalization of Barron norms. Moreover, we provide an analysis of the optimization landscape and show that loc"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5b91da256f36ad75",
       "publishedAt": "2026-11-25T17:10:27Z",
       "source": "Google Research",
@@ -139,6 +205,50 @@
       "summary": {
         "ko": "Generative AI",
         "en": "Generative AI"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "ace5c343ec0c1174",
+      "publishedAt": "2026-11-25T17:05:38Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34711v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Spec2Weights: Certifying Networks that a Language Model Writes from a Specification",
+        "en": "Spec2Weights: Certifying Networks that a Language Model Writes from a Specification"
+      },
+      "summary": {
+        "ko": "A language model can write the weights of a small MLP, CNN, RNN or GNN from a plain-language specification, with no data and no gradient step. We ask when such a network can be proved exact in the float32 arithmetic it actually runs in. A float-safety lemma makes exhaustive float32 enumeration a proof for any summation order, and a layered error bound covers networks whose weights are not short binary fractions. With dynamic programming, template checks, a",
+        "en": "A language model can write the weights of a small MLP, CNN, RNN or GNN from a plain-language specification, with no data and no gradient step. We ask when such a network can be proved exact in the float32 arithmetic it actually runs in. A float-safety lemma makes exhaustive float32 enumeration a proof for any summation order, and a layered error bound covers networks whose weights are not short binary fractions. With dynamic programming, template checks, a"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "2a96f88322caec16",
+      "publishedAt": "2026-11-25T17:04:08Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34710v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 53,
+      "title": {
+        "ko": "Toward a human-friendly proof of a polynomial bound for the Directed Grid Theorem",
+        "en": "Toward a human-friendly proof of a polynomial bound for the Directed Grid Theorem"
+      },
+      "summary": {
+        "ko": "The Directed Grid Theorem of Kawarabayashi and Kreutzer [STOC 2015] states that there is a function $f : \\mathbb{N} \\to \\mathbb{N}$ such that every digraph of directed treewidth at least $f(k)$ contains a cylindrical grid of order $k$ as a butterfly minor. Their function is not elementary, and Hatzel, Kreutzer, Garlet Milani, and Muzi [FOCS 2024] improved it to a tower of exponentials of height $22$, by a proof in three stages through paths and cycles of w",
+        "en": "The Directed Grid Theorem of Kawarabayashi and Kreutzer [STOC 2015] states that there is a function $f : \\mathbb{N} \\to \\mathbb{N}$ such that every digraph of directed treewidth at least $f(k)$ contains a cylindrical grid of order $k$ as a butterfly minor. Their function is not elementary, and Hatzel, Kreutzer, Garlet Milani, and Muzi [FOCS 2024] improved it to a tower of exponentials of height $22$, by a proof in three stages through paths and cycles of w"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -213,6 +323,28 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "a277609ea32806ba",
+      "publishedAt": "2026-11-25T13:11:29Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34333v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Critical exponents and near-critical limits for random matrix products",
+        "en": "Critical exponents and near-critical limits for random matrix products"
+      },
+      "summary": {
+        "ko": "We study the approach to the zero-Lyapunov-exponent transition for products of independent, identically distributed invertible matrices. The matrix laws are supported in a common compact subset of $GL(d,\\mathbb{R})$ and converge in total variation to a strongly irreducible and proximal law with zero top Lyapunov exponent. We establish a near-critical renewal theorem for the occupation measure and a functional diffusion limit for the logarithmic cocycle as ",
+        "en": "We study the approach to the zero-Lyapunov-exponent transition for products of independent, identically distributed invertible matrices. The matrix laws are supported in a common compact subset of $GL(d,\\mathbb{R})$ and converge in total variation to a strongly irreducible and proximal law with zero top Lyapunov exponent. We establish a near-critical renewal theorem for the occupation measure and a functional diffusion limit for the logarithmic cocycle as "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "5eada6e2d12f0d9a",
       "publishedAt": "2026-11-25T13:00:07Z",
       "source": "arXiv",
@@ -249,6 +381,72 @@
       "summary": {
         "ko": "For a random Littlewood polynomial $q_n(z)=\\sum_{j=0}^{n-1}\\varepsilon_jz^j$ with independent Rademacher coefficients, let $S_n(θ)=|q_n(e^{iθ})|^2/n$ be its normalized angular intensity. Its positive moments $T_n^{(p)}=\\|q_n\\|_p^p/n^{p/2}$ form the moment profile of the intensity distribution under normalized arc measure on the unit circle. We prove a joint functional central limit theorem for this profile. For $p$ in a compact interval $K\\subset(0,\\infty)",
         "en": "For a random Littlewood polynomial $q_n(z)=\\sum_{j=0}^{n-1}\\varepsilon_jz^j$ with independent Rademacher coefficients, let $S_n(θ)=|q_n(e^{iθ})|^2/n$ be its normalized angular intensity. Its positive moments $T_n^{(p)}=\\|q_n\\|_p^p/n^{p/2}$ form the moment profile of the intensity distribution under normalized arc measure on the unit circle. We prove a joint functional central limit theorem for this profile. For $p$ in a compact interval $K\\subset(0,\\infty)"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "faddda8a5e491591",
+      "publishedAt": "2026-11-25T12:06:26Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34242v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Deterministic integer factorization from abundance decisions",
+        "en": "Deterministic integer factorization from abundance decisions"
+      },
+      "summary": {
+        "ko": "We prove that deciding whether a positive integer is abundant is equivalent to complete integer factorization under deterministic polynomial-time Turing reductions. In particular, abundance can be decided in deterministic polynomial time if and only if integers can be factored in deterministic polynomial time. Our reduction uses carefully chosen coprime multipliers to recover exact divisor sums from abundance queries, and then extracts the complete prime f",
+        "en": "We prove that deciding whether a positive integer is abundant is equivalent to complete integer factorization under deterministic polynomial-time Turing reductions. In particular, abundance can be decided in deterministic polynomial time if and only if integers can be factored in deterministic polynomial time. Our reduction uses carefully chosen coprime multipliers to recover exact divisor sums from abundance queries, and then extracts the complete prime f"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "07fd0943736f4117",
+      "publishedAt": "2026-11-25T11:27:10Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34200v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Norm groups of orders and the algebraic unknotting number",
+        "en": "Norm groups of orders and the algebraic unknotting number"
+      },
+      "summary": {
+        "ko": "We use number-theoretic tools to find an explicit and effective obstruction for a knot to have algebraic unknotting number equal to $1$. As an example, we show that the connected sum of $T(2,5)$ (the cinquefoil) and $-T(2,3)$ (the negative trefoil) has algebraic unknotting number $1$, even though $T(2,5)$ has algebraic unknotting number $2$.",
+        "en": "We use number-theoretic tools to find an explicit and effective obstruction for a knot to have algebraic unknotting number equal to $1$. As an example, we show that the connected sum of $T(2,5)$ (the cinquefoil) and $-T(2,3)$ (the negative trefoil) has algebraic unknotting number $1$, even though $T(2,5)$ has algebraic unknotting number $2$."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "b057d64844617a70",
+      "publishedAt": "2026-11-25T10:17:13Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34114v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 43,
+      "title": {
+        "ko": "Schwinger-Dyson recursion, Gröbner elimination and graph combinatorics",
+        "en": "Schwinger-Dyson recursion, Gröbner elimination and graph combinatorics"
+      },
+      "summary": {
+        "ko": "Schwinger-Dyson equations are a cornerstone of quantum field theory (QFT). Derived using integration by parts, they capture relations between correlators of different orders, forming an open, infinite-dimensional system. In zero-dimensional QFTs with polynomial actions, which is just a physical interpretation for multivariate Gaussian integrals with polynomial insertions, conventional Gröbner elimination can be used to express all higher-order correlators ",
+        "en": "Schwinger-Dyson equations are a cornerstone of quantum field theory (QFT). Derived using integration by parts, they capture relations between correlators of different orders, forming an open, infinite-dimensional system. In zero-dimensional QFTs with polynomial actions, which is just a physical interpretation for multivariate Gaussian integrals with polynomial insertions, conventional Gröbner elimination can be used to express all higher-order correlators "
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7773,204 +7971,6 @@
       "summary": {
         "ko": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional",
         "en": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "2a12695530a258b2",
-      "publishedAt": "2026-10-26T15:22:04Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35595v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 75,
-      "title": {
-        "ko": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
-        "en": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean"
-      },
-      "summary": {
-        "ko": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We present a staged pipeline modelled after research methodolo",
-        "en": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We present a staged pipeline modelled after research methodolo"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7af612fe00a154ac",
-      "publishedAt": "2026-10-26T15:15:34Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35586v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 60,
-      "title": {
-        "ko": "Linear Probes Transfer from Base to Distilled Language Models despite Rotation",
-        "en": "Linear Probes Transfer from Base to Distilled Language Models despite Rotation"
-      },
-      "summary": {
-        "ko": "Linear probes, classifiers that read a language model's internal activations, are widely used to detect harmful requests. They are cheap to train and run, and an auditor who has trained one would like to reuse it when the model is replaced by a successor rather than retrain it for every release. We test how well probes can be reused. For four base models (Qwen2.5-Math-7B, Llama-3.1-8B, Qwen2.5-14B, Qwen2.5-32B) we train a probe on the base model with the X",
-        "en": "Linear probes, classifiers that read a language model's internal activations, are widely used to detect harmful requests. They are cheap to train and run, and an auditor who has trained one would like to reuse it when the model is replaced by a successor rather than retrain it for every release. We test how well probes can be reused. For four base models (Qwen2.5-Math-7B, Llama-3.1-8B, Qwen2.5-14B, Qwen2.5-32B) we train a probe on the base model with the X"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "059aa6eec8d190ac",
-      "publishedAt": "2026-10-26T14:54:29Z",
-      "source": "Quanta Mathematics",
-      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026",
-      "category": "math",
-      "kind": "article",
-      "score": 48,
-      "title": {
-        "ko": "How Voting Is Like a Klein Bottle",
-        "en": "How Voting Is Like a Klein Bottle"
-      },
-      "summary": {
-        "ko": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
-        "en": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "aa5fc217ee5089d6",
-      "publishedAt": "2026-10-26T14:32:43Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35505v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 54,
-      "title": {
-        "ko": "Constraint Learning by Optimizing over Trained Neural Networks: A Pragmatic Tutorial",
-        "en": "Constraint Learning by Optimizing over Trained Neural Networks: A Pragmatic Tutorial"
-      },
-      "summary": {
-        "ko": "Constraint learning is an emerging paradigm of modeling optimization problems with the help of machine learning. In this paradigm, trained machine learning models are embedded into the optimization model. For example, we can learn constraints empirically from available data, or we can avoid using a nonlinear objective function by learning a simpler approximation for it. Neural networks become a compelling option if the machine learning models must capture ",
-        "en": "Constraint learning is an emerging paradigm of modeling optimization problems with the help of machine learning. In this paradigm, trained machine learning models are embedded into the optimization model. For example, we can learn constraints empirically from available data, or we can avoid using a nonlinear objective function by learning a simpler approximation for it. Neural networks become a compelling option if the machine learning models must capture "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "8eb6001a836a6e50",
-      "publishedAt": "2026-10-26T14:30:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "category": "ai",
-      "kind": "article",
-      "score": 39,
-      "title": {
-        "ko": "Working with academic communities to build scientific understanding",
-        "en": "Working with academic communities to build scientific understanding"
-      },
-      "summary": {
-        "ko": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-        "en": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "da2d760f0c7964d1",
-      "publishedAt": "2026-10-26T14:11:28Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35480v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 56,
-      "title": {
-        "ko": "GPDPO: Learning from Reward Conflicts via Group Pareto-Dominance Policy Optimization",
-        "en": "GPDPO: Learning from Reward Conflicts via Group Pareto-Dominance Policy Optimization"
-      },
-      "summary": {
-        "ko": "Multi-reward reinforcement learning offers a promising framework for aligning large language models (LLMs) with diverse objectives, but conflicting reward signals can induce ambiguous update directions and hinder stable optimization. Existing approaches address such conflicts through reward reweighting, gradient coordination, or rollout filtering, yet they primarily operate on per-response or group-level optimization signals and underexploit relational inf",
-        "en": "Multi-reward reinforcement learning offers a promising framework for aligning large language models (LLMs) with diverse objectives, but conflicting reward signals can induce ambiguous update directions and hinder stable optimization. Existing approaches address such conflicts through reward reweighting, gradient coordination, or rollout filtering, yet they primarily operate on per-response or group-level optimization signals and underexploit relational inf"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7d972df501d01ba1",
-      "publishedAt": "2026-10-26T13:45:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
-      },
-      "summary": {
-        "ko": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-        "en": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "831536d01d3a37b8",
-      "publishedAt": "2026-10-26T13:43:54Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35447v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Geometry of holonomic modules over the first Weyl algebra",
-        "en": "Geometry of holonomic modules over the first Weyl algebra"
-      },
-      "summary": {
-        "ko": "We give a geometric description of the formal local data of holonomic modules over the first Weyl algebra, the algebra of differential operators in one variable. The exponential part of the associated formal meromorphic connection is encoded by a truncated jet of an affine plane curve at infinity, and the regular part by a regular formal meromorphic connection. We prove that these geometric data uniquely determine the `elementary' blocks in the formal deco",
-        "en": "We give a geometric description of the formal local data of holonomic modules over the first Weyl algebra, the algebra of differential operators in one variable. The exponential part of the associated formal meromorphic connection is encoded by a truncated jet of an affine plane curve at infinity, and the regular part by a regular formal meromorphic connection. We prove that these geometric data uniquely determine the `elementary' blocks in the formal deco"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "b1ae58c91462916f",
-      "publishedAt": "2026-10-26T11:58:46Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35287v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Scott-type inequalities for trinomial $h^*$-polynomials",
-        "en": "Scott-type inequalities for trinomial $h^*$-polynomials"
-      },
-      "summary": {
-        "ko": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell=",
-        "en": "Motivated by Scott's inequality for lattice polygons, we study normalized volume bounds for lattice polytopes $\\mathcal{P}$ with $h^*$-polynomials $1+at^k+bt^\\ell$, where $a,b\\ge1$ and $1\\le k < \\ell$. For $\\ell>2k$, the coefficients satisfy $a+1\\le b$, and consequently ${\\rm vol}(\\mathcal{P})\\le2b$. In the complementary range $k < \\ell\\le2k$, we establish the dimension-independent bound \\[ {\\rm vol}(\\mathcal{P})\\le(2b+1)(k+\\ell). \\] On the boundary $\\ell="
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",

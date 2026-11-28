@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T04:14:01.461562Z",
+  "generatedAt": "2026-11-28T03:54:05.242198Z",
   "demo": false,
   "health": {
-    "ok": 8,
-    "failed": 0
+    "ok": 7,
+    "failed": 1
   },
   "sources": [
     {
@@ -257,6 +257,50 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "79304adcd9a17ae9",
+      "publishedAt": "2026-11-25T16:42:06Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34678v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation",
+        "en": "Provably Efficient Concave Utility Reinforcement Learning with Linear Function Approximation"
+      },
+      "summary": {
+        "ko": "Concave utility reinforcement learning (CURL) unifies a diverse range of problems, including standard reinforcement learning (RL), imitation learning, and maximum entropy exploration. Unlike standard RL, CURL generally requires estimating high-dimensional state-action occupancy measures. Consequently, existing methods for CURL either sidestep the exploration problem, are restricted to the tabular setting, or lack computationally efficient policy optimizati",
+        "en": "Concave utility reinforcement learning (CURL) unifies a diverse range of problems, including standard reinforcement learning (RL), imitation learning, and maximum entropy exploration. Unlike standard RL, CURL generally requires estimating high-dimensional state-action occupancy measures. Consequently, existing methods for CURL either sidestep the exploration problem, are restricted to the tabular setting, or lack computationally efficient policy optimizati"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "6e928c759aa43feb",
+      "publishedAt": "2026-11-25T16:35:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34667v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 48,
+      "title": {
+        "ko": "Learning to Be Truncated: Preparing LLM Checkpoints for SVD Compression",
+        "en": "Learning to Be Truncated: Preparing LLM Checkpoints for SVD Compression"
+      },
+      "summary": {
+        "ko": "Compression based on singular value decomposition (SVD) often requires subsequent fine-tuning or weight correction to mitigate performance degradation. Budget-specific optimization must be repeated for different compression ratios. We introduce LLift, which prepares a pretrained model for SVD compression across ratios without further fine-tuning. LLift fine-tunes a low-rank approximation at a single ratio using the original model as a teacher. We merge the",
+        "en": "Compression based on singular value decomposition (SVD) often requires subsequent fine-tuning or weight correction to mitigate performance degradation. Budget-specific optimization must be repeated for different compression ratios. We introduce LLift, which prepares a pretrained model for SVD compression across ratios without further fine-tuning. LLift fine-tunes a low-rank approximation at a single ratio using the original model as a teacher. We merge the"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "e2d960f6278a61d0",
       "publishedAt": "2026-11-25T16:29:37Z",
       "source": "arXiv",
@@ -293,6 +337,50 @@
       "summary": {
         "ko": "The behavior of memory systems for long-running AI assistants is governed by a harness, which consists of the code, prompts, and configurations for memory construction, maintenance, retrieval, and answer generation. However, optimizing the harness of a memory system remains largely manual, and unrestricted editing alone does not ensure structural improvements. In this paper, we introduce HoMe, an evaluation-driven framework that iteratively evaluates candi",
         "en": "The behavior of memory systems for long-running AI assistants is governed by a harness, which consists of the code, prompts, and configurations for memory construction, maintenance, retrieval, and answer generation. However, optimizing the harness of a memory system remains largely manual, and unrestricted editing alone does not ensure structural improvements. In this paper, we introduce HoMe, an evaluation-driven framework that iteratively evaluates candi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "db085826a624c3d1",
+      "publishedAt": "2026-11-25T16:01:05Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34612v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 51,
+      "title": {
+        "ko": "Do We Really Need an LLM for Weight-Space Programming? A Deterministic Forward-Only Paradigm and Its Capability Boundaries",
+        "en": "Do We Really Need an LLM for Weight-Space Programming? A Deterministic Forward-Only Paradigm and Its Capability Boundaries"
+      },
+      "summary": {
+        "ko": "Recent work on Weight-Space Programming uses LLMs to edit neural weights with forward passes only, conflating LLM scripting with the underlying algebra of forward-only editing. We show that for core structured editing regimes, an LLM optimizer is unnecessary, and introduce Forward Weight-Space Programming (FWSP): a deterministic pipeline combining probing, localization, stratified operators (O1-O4), automatic blind routing (83.3% vs. 33.3% for a 27B LLM wi",
+        "en": "Recent work on Weight-Space Programming uses LLMs to edit neural weights with forward passes only, conflating LLM scripting with the underlying algebra of forward-only editing. We show that for core structured editing regimes, an LLM optimizer is unnecessary, and introduce Forward Weight-Space Programming (FWSP): a deterministic pipeline combining probing, localization, stratified operators (O1-O4), automatic blind routing (83.3% vs. 33.3% for a 27B LLM wi"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "5d747dd39534a6c6",
+      "publishedAt": "2026-11-25T15:38:42Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34573v1",
+      "category": "mathai",
+      "kind": "paper",
+      "score": 48,
+      "title": {
+        "ko": "Investigating the efficacy of vortex beam speckle patterns for the recognition of atmospheric turbulence and fractional topological charge with a deep learning model",
+        "en": "Investigating the efficacy of vortex beam speckle patterns for the recognition of atmospheric turbulence and fractional topological charge with a deep learning model"
+      },
+      "summary": {
+        "ko": "Fractional topological charge (TC) enlarges the usable mode set of orbital angular momentum (OAM) links, but reading it reliably after atmospheric turbulence remains difficult. Interferometric and diffractive methods need an undistorted beam and a careful alignment, while most learned approaches treat integer or coarsely spaced charges and do not include turbulence. Here we ask whether the charge of a scalar vortex beam can be regressed directly from a sin",
+        "en": "Fractional topological charge (TC) enlarges the usable mode set of orbital angular momentum (OAM) links, but reading it reliably after atmospheric turbulence remains difficult. Interferometric and diffractive methods need an undistorted beam and a careful alignment, while most learned approaches treat integer or coarsely spaced charges and do not include turbulence. Here we ask whether the charge of a scalar vortex beam can be regressed directly from a sin"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -455,6 +543,72 @@
       "languageQuality": "source-only"
     },
     {
+      "id": "9ee6b5a162d23272",
+      "publishedAt": "2026-11-25T10:13:46Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34110v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Colored Jones polynomial of figure eight knot and non-perturbative topological recursion",
+        "en": "Colored Jones polynomial of figure eight knot and non-perturbative topological recursion"
+      },
+      "summary": {
+        "ko": "The asymptotic expansion of the colored Jones polynomial of the figure eight knot is proved to be connected with non-perturbative topological recursion on the underlying elliptic spectral curve, following the proposal of Borot and Eynard.",
+        "en": "The asymptotic expansion of the colored Jones polynomial of the figure eight knot is proved to be connected with non-perturbative topological recursion on the underlying elliptic spectral curve, following the proposal of Borot and Eynard."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "703a0aa66e1b3a3e",
+      "publishedAt": "2026-11-25T09:05:53Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34018v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Geometric realization of the local Langlands and local Jacquet-Langlands correspondences for $\\mathrm{GL}_n$ in a partially ramified case",
+        "en": "Geometric realization of the local Langlands and local Jacquet-Langlands correspondences for $\\mathrm{GL}_n$ in a partially ramified case"
+      },
+      "summary": {
+        "ko": "We construct a new family of algebraic varieties over a finite field, realizing the local Langlands and local Jacquet-Langlands correspondences for $\\mathrm{GL}_n$ in their compactly supported étale cohomology. The resulting representations have $L$-parameters which are induced from characters of a partially ramified field extension.",
+        "en": "We construct a new family of algebraic varieties over a finite field, realizing the local Langlands and local Jacquet-Langlands correspondences for $\\mathrm{GL}_n$ in their compactly supported étale cohomology. The resulting representations have $L$-parameters which are induced from characters of a partially ramified field extension."
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "79aadc11ad3ed075",
+      "publishedAt": "2026-11-25T09:05:40Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.34017v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Weak monotonicity, Critical exponents, and Gagliardo-Nirenberg inequalities on weighted graphs",
+        "en": "Weak monotonicity, Critical exponents, and Gagliardo-Nirenberg inequalities on weighted graphs"
+      },
+      "summary": {
+        "ko": "We study weak monotonicity of heat kernel and ball averaged functionals on weighted graphs, and the associated critical exponents. Under sub-Gaussian heat kernel estimates, weak Bakry-Émery estimates for the semigroup are proved, with explicit values of the Hölder regularity exponent in the strongly recurrent case. Applications of the theory include Gagliardo-Nirenberg, Sobolev, Nash and isoperimetric inequalities on strongly recurrent graphs and their pro",
+        "en": "We study weak monotonicity of heat kernel and ball averaged functionals on weighted graphs, and the associated critical exponents. Under sub-Gaussian heat kernel estimates, weak Bakry-Émery estimates for the semigroup are proved, with explicit values of the Hölder regularity exponent in the strongly recurrent case. Applications of the theory include Gagliardo-Nirenberg, Sobolev, Nash and isoperimetric inequalities on strongly recurrent graphs and their pro"
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
       "id": "459e635a4f01d02b",
       "publishedAt": "2026-11-25T08:30:13Z",
       "source": "arXiv",
@@ -469,6 +623,28 @@
       "summary": {
         "ko": "There are several approaches to AI-driven mathematical discovery. One of these involves the use of large language models (LLMs) to resolve well-specified conjectures via text-based reasoning, while another uses narrow models and interpretability for more open-ended, human-in-the-loop exploration using object-based mathematical data. The latter is limited in its ability to move beyond simple empirical pattern detection while the former is not well-designed ",
         "en": "There are several approaches to AI-driven mathematical discovery. One of these involves the use of large language models (LLMs) to resolve well-specified conjectures via text-based reasoning, while another uses narrow models and interpretability for more open-ended, human-in-the-loop exploration using object-based mathematical data. The latter is limited in its ability to move beyond simple empirical pattern detection while the former is not well-designed "
+      },
+      "impact": {
+        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
+        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
+      },
+      "languageQuality": "source-only"
+    },
+    {
+      "id": "aa4347cad9cb8ff7",
+      "publishedAt": "2026-11-25T06:07:06Z",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33838v1",
+      "category": "math",
+      "kind": "paper",
+      "score": 40,
+      "title": {
+        "ko": "Higher-Dimensional Automata in Geometric Logic",
+        "en": "Higher-Dimensional Automata in Geometric Logic"
+      },
+      "summary": {
+        "ko": "What does the topos of a higher-dimensional automaton know about its infinite behaviour that its language does not? We write partial HDAs with an infinite run as models of a geometric theory over an intuitionistic metatheory with no choice. The topos of a machine is that of sheaves on its prefixes. The label word of a prefix records the shape and acceptance bit of each cell with the ipomset of each step. Under unique choice these words give a geometric mor",
+        "en": "What does the topos of a higher-dimensional automaton know about its infinite behaviour that its language does not? We write partial HDAs with an infinite run as models of a geometric theory over an intuitionistic metatheory with no choice. The topos of a machine is that of sheaves on its prefixes. The label word of a prefix records the shape and acceptance bit of each cell with the ipomset of each step. Under unique choice these words give a geometric mor"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
@@ -7795,182 +7971,6 @@
       "summary": {
         "ko": "GraphRAG systems often use knowledge graphs to retrieve relevant context for an LLM that produces the final answer. That makes answers more inscrutable and therefore less appealing for domains where transparency is paramount. We present GraphRAGProv, an architecture that executes SPARQL queries over source-grounded RDF graphs to compute answers and their how-provenance polynomials. These polynomials record which statement occurrences were used and how they",
         "en": "GraphRAG systems often use knowledge graphs to retrieve relevant context for an LLM that produces the final answer. That makes answers more inscrutable and therefore less appealing for domains where transparency is paramount. We present GraphRAGProv, an architecture that executes SPARQL queries over source-grounded RDF graphs to compute answers and their how-provenance polynomials. These polynomials record which statement occurrences were used and how they"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "908b03041a553d4f",
-      "publishedAt": "2026-10-27T12:21:07Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.37119v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 52,
-      "title": {
-        "ko": "Fractal transference principle for conformal iterated function systems",
-        "en": "Fractal transference principle for conformal iterated function systems"
-      },
-      "summary": {
-        "ko": "We establish a complex one-dimensional fractal transference principle connecting density combinatorics with the fractal geometry of complex continued fractions. Our framework applies to a broad class of conformal iterated function systems indexed by lattice points, including those associated with the Hurwitz continued fraction, and transfers positive-density combinatorial patterns to digit sets while preserving the maximal Hausdorff dimension. As applicati",
-        "en": "We establish a complex one-dimensional fractal transference principle connecting density combinatorics with the fractal geometry of complex continued fractions. Our framework applies to a broad class of conformal iterated function systems indexed by lattice points, including those associated with the Hurwitz continued fraction, and transfers positive-density combinatorial patterns to digit sets while preserving the maximal Hausdorff dimension. As applicati"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "49b450c7c887f4c5",
-      "publishedAt": "2026-10-27T12:10:20Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.37113v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 53,
-      "title": {
-        "ko": "Spectral delocalization and central limit theorems for Fourier functionals of stationary Gaussian fields",
-        "en": "Spectral delocalization and central limit theorems for Fourier functionals of stationary Gaussian fields"
-      },
-      "summary": {
-        "ko": "We characterize Gaussian fluctuations of Fourier-Hermite functionals of stationary Gaussian fields on locally compact Abelian groups via spectral delocalization: conditional on the total spectral sum being near the probed frequency, no partial sum concentrates. Under suitable assumptions, this reduces Gaussian convergence to small-ball estimates for convolution powers of the spectral measure, without model-specific contraction estimates. On $\\mathbb T^d$, ",
-        "en": "We characterize Gaussian fluctuations of Fourier-Hermite functionals of stationary Gaussian fields on locally compact Abelian groups via spectral delocalization: conditional on the total spectral sum being near the probed frequency, no partial sum concentrates. Under suitable assumptions, this reduces Gaussian convergence to small-ball estimates for convolution powers of the spectral measure, without model-specific contraction estimates. On $\\mathbb T^d$, "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "18871c2e97466842",
-      "publishedAt": "2026-10-27T11:23:00Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.37053v1",
-      "category": "math",
-      "kind": "paper",
-      "score": 49,
-      "title": {
-        "ko": "A sparse canonical Rado theorem",
-        "en": "A sparse canonical Rado theorem"
-      },
-      "summary": {
-        "ko": "Canonical Ramsey theory studies structured colour patterns in colourings with arbitrarily many colours. Lefmann's canonical Rado theorem extends the canonical van der Waerden theorem of Erdős and Graham to partition-regular linear systems. Recently, Alvarado, Kohayakawa, Morris, Mota and Ortega proved a sparse canonical van der Waerden theorem for random set $[n]_p$. In this paper, we prove a sparse canonical Rado theorem. For every irredundant partition-r",
-        "en": "Canonical Ramsey theory studies structured colour patterns in colourings with arbitrarily many colours. Lefmann's canonical Rado theorem extends the canonical van der Waerden theorem of Erdős and Graham to partition-regular linear systems. Recently, Alvarado, Kohayakawa, Morris, Mota and Ortega proved a sparse canonical van der Waerden theorem for random set $[n]_p$. In this paper, we prove a sparse canonical Rado theorem. For every irredundant partition-r"
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "c417f8e3d39d0b89",
-      "publishedAt": "2026-10-27T07:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "category": "ai",
-      "kind": "article",
-      "score": 58,
-      "title": {
-        "ko": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
-      },
-      "summary": {
-        "ko": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-        "en": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "c44dc9ed271ff418",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "category": "ai",
-      "kind": "article",
-      "score": 45,
-      "title": {
-        "ko": "How Check Point accelerates vulnerability research with Daybreak",
-        "en": "How Check Point accelerates vulnerability research with Daybreak"
-      },
-      "summary": {
-        "ko": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-        "en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "a9c488820a62ac4a",
-      "publishedAt": "2026-10-26T22:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "category": "ai",
-      "kind": "article",
-      "score": 47,
-      "title": {
-        "ko": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "en": "Greptile takes bug detection beyond code review with GPT-6 Astra"
-      },
-      "summary": {
-        "ko": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-        "en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "e0766fc8768d4a2f",
-      "publishedAt": "2026-10-26T16:39:55Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35720v1",
-      "category": "mathai",
-      "kind": "paper",
-      "score": 61,
-      "title": {
-        "ko": "Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects",
-        "en": "Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects"
-      },
-      "summary": {
-        "ko": "Data distributions often possess one or more symmetries: for example, all orientations of any specific dog are included in the distribution of all possible dog pictures. Despite the omnipresence of such symmetries, modern generative modeling approaches may fail to incorporate or learn them, which can lead to lower sample efficiency and poorer generalization. To what extent do diffusion models fail to learn data distribution symmetries, and what sources of ",
-        "en": "Data distributions often possess one or more symmetries: for example, all orientations of any specific dog are included in the distribution of all possible dog pictures. Despite the omnipresence of such symmetries, modern generative modeling approaches may fail to incorporate or learn them, which can lead to lower sample efficiency and poorer generalization. To what extent do diffusion models fail to learn data distribution symmetries, and what sources of "
-      },
-      "impact": {
-        "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
-        "en": "Only a title or short abstract was available in the public feed; consult the source before drawing research conclusions."
-      },
-      "languageQuality": "source-only"
-    },
-    {
-      "id": "7fb00b6fe7235e10",
-      "publishedAt": "2026-10-26T15:22:15Z",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.35596v1",
-      "category": "proof",
-      "kind": "paper",
-      "score": 73,
-      "title": {
-        "ko": "KAPPA: Checking the Proofs in Statistics Papers with Lean 4 and Language Model Agents",
-        "en": "KAPPA: Checking the Proofs in Statistics Papers with Lean 4 and Language Model Agents"
-      },
-      "summary": {
-        "ko": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional",
-        "en": "Papers in statistical theory rest on long proofs that few readers check line by line. We present KAPPA (Kit of Agents for Proof-checking Papers with a proof Assistant), open-source software that organizes language model agents, run by Claude Code, to translate the proofs of a LaTeX paper into the proof assistant Lean 4 with its library Mathlib and check them there, result by result. Each numbered result receives one of four verdicts: verified unconditional"
       },
       "impact": {
         "ko": "원문과 논문을 확인하여 연구의 의미와 검증 상태를 판단하세요.",
